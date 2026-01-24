@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alice Dubois</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            min-height: 100vh;
+            background-color: #0066ff;
+            font-family: system-ui, -apple-system, sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .slash {
+            position: absolute;
+            color: #ff00ff;
+            font-size: 30px;
+            font-weight: bold;
+            user-select: none;
+            opacity: 0.8;
+        }
+
+        .content {
+            text-align: center;
+            color: #00FF6A;
+            font-size: 1.5rem;
+            max-width: 500px;
+            padding: 2rem;
+            position: relative;
+            z-index: 10;
+        }
+
+        .content a {
+            color: #ff00ff;
+            text-decoration: none;
+            border-bottom: 2px solid #ff00ff;
+            text-shadow: 0 0 10px rgba(255, 0, 255, 0.8), 0 0 20px rgba(255, 0, 255, 0.5), 0 0 40px rgba(255, 0, 255, 0.3);
+        }
+
+        .content a:hover {
+            background-color: #ff00ff;
+            color: #0066ff;
+        }
+    </style>
+</head>
+<body>
+    <!-- Row 1: 0-10% -->
+    <div class="slash" style="top: 2%; left: 3%; transform: rotate(-15deg);">/</div>
+    <div class="slash" style="top: 5%; left: 12%; transform: rotate(20deg);">/</div>
+    <div class="slash" style="top: 3%; left: 22%; transform: rotate(-8deg);">/</div>
+    <div class="slash" style="top: 7%; left: 32%; transform: rotate(15deg);">/</div>
+    <div class="slash" style="top: 4%; left: 42%; transform: rotate(-20deg);">/</div>
+    <div class="slash" style="top: 8%; left: 52%; transform: rotate(10deg);">/</div>
+    <div class="slash" style="top: 2%; left: 62%; transform: rotate(-5deg);">/</div>
+    <div class="slash" style="top: 6%; left: 72%; transform: rotate(25deg);">/</div>
+    <div class="slash" style="top: 3%; left: 82%; transform: rotate(-12deg);">/</div>
+    <div class="slash" style="top: 8%; left: 92%; transform: rotate(18deg);">/</div>
+
+    <!-- Row 2: 10-20% -->
+    <div class="slash" style="top: 12%; left: 7%; transform: rotate(12deg);">/</div>
+    <div class="slash" style="top: 15%; left: 17%; transform: rotate(-18deg);">/</div>
+    <div class="slash" style="top: 11%; left: 27%; transform: rotate(8deg);">/</div>
+    <div class="slash" style="top: 18%; left: 37%; transform: rotate(-22deg);">/</div>
+    <div class="slash" style="top: 13%; left: 47%; transform: rotate(15deg);">/</div>
+    <div class="slash" style="top: 16%; left: 57%; transform: rotate(-10deg);">/</div>
+    <div class="slash" style="top: 12%; left: 67%; transform: rotate(20deg);">/</div>
+    <div class="slash" style="top: 19%; left: 77%; transform: rotate(-15deg);">/</div>
+    <div class="slash" style="top: 14%; left: 87%; transform: rotate(25deg);">/</div>
+    <div class="slash" style="top: 17%; left: 97%; transform: rotate(-8deg);">/</div>
+
+    <!-- Row 3: 20-30% -->
+    <div class="slash" style="top: 22%; left: 4%; transform: rotate(-15deg);">/</div>
+    <div class="slash" style="top: 25%; left: 14%; transform: rotate(20deg);">/</div>
+    <div class="slash" style="top: 28%; left: 24%; transform: rotate(-12deg);">/</div>
+    <div class="slash" style="top: 23%; left: 34%; transform: rotate(18deg);">/</div>
+    <div class="slash" style="top: 27%; left: 44%; transform: rotate(-25deg);">/</div>
+    <div class="slash" style="top: 24%; left: 54%; transform: rotate(10deg);">/</div>
+    <div class="slash" style="top: 29%; left: 64%; transform: rotate(-8deg);">/</div>
+    <div class="slash" style="top: 22%; left: 74%; transform: rotate(22deg);">/</div>
+    <div class="slash" style="top: 26%; left: 84%; transform: rotate(-18deg);">/</div>
+    <div class="slash" style="top: 28%; left: 94%; transform: rotate(15deg);">/</div>
+
+    <!-- Row 4: 30-40% -->
+    <div class="slash" style="top: 32%; left: 8%; transform: rotate(12deg);">/</div>
+    <div class="slash" style="top: 35%; left: 18%; transform: rotate(-20deg);">/</div>
+    <div class="slash" style="top: 38%; left: 28%; transform: rotate(8deg);">/</div>
+    <div class="slash" style="top: 33%; left: 38%; transform: rotate(-15deg);">/</div>
+    <div class="slash" style="top: 37%; left: 62%; transform: rotate(18deg);">/</div>
+    <div class="slash" style="top: 34%; left: 72%; transform: rotate(-10deg);">/</div>
+    <div class="slash" style="top: 39%; left: 82%; transform: rotate(25deg);">/</div>
+    <div class="slash" style="top: 32%; left: 92%; transform: rotate(-22deg);">/</div>
+
+    <!-- Row 5: 40-50% (text area - fewer slashes) -->
+    <div class="slash" style="top: 42%; left: 5%; transform: rotate(-18deg);">/</div>
+    <div class="slash" style="top: 45%; left: 15%; transform: rotate(15deg);">/</div>
+    <div class="slash" style="top: 48%; left: 25%; transform: rotate(-12deg);">/</div>
+    <div class="slash" style="top: 43%; left: 75%; transform: rotate(20deg);">/</div>
+    <div class="slash" style="top: 47%; left: 85%; transform: rotate(-8deg);">/</div>
+    <div class="slash" style="top: 44%; left: 95%; transform: rotate(22deg);">/</div>
+
+    <!-- Row 6: 50-60% (text area - fewer slashes) -->
+    <div class="slash" style="top: 52%; left: 3%; transform: rotate(10deg);">/</div>
+    <div class="slash" style="top: 55%; left: 13%; transform: rotate(-25deg);">/</div>
+    <div class="slash" style="top: 58%; left: 23%; transform: rotate(18deg);">/</div>
+    <div class="slash" style="top: 53%; left: 77%; transform: rotate(-15deg);">/</div>
+    <div class="slash" style="top: 57%; left: 87%; transform: rotate(12deg);">/</div>
+    <div class="slash" style="top: 54%; left: 97%; transform: rotate(-20deg);">/</div>
+
+    <!-- Row 7: 60-70% -->
+    <div class="slash" style="top: 62%; left: 6%; transform: rotate(-12deg);">/</div>
+    <div class="slash" style="top: 65%; left: 16%; transform: rotate(22deg);">/</div>
+    <div class="slash" style="top: 68%; left: 26%; transform: rotate(-8deg);">/</div>
+    <div class="slash" style="top: 63%; left: 36%; transform: rotate(15deg);">/</div>
+    <div class="slash" style="top: 67%; left: 64%; transform: rotate(-18deg);">/</div>
+    <div class="slash" style="top: 64%; left: 74%; transform: rotate(10deg);">/</div>
+    <div class="slash" style="top: 69%; left: 84%; transform: rotate(-25deg);">/</div>
+    <div class="slash" style="top: 62%; left: 94%; transform: rotate(20deg);">/</div>
+
+    <!-- Row 8: 70-80% -->
+    <div class="slash" style="top: 72%; left: 4%; transform: rotate(18deg);">/</div>
+    <div class="slash" style="top: 75%; left: 14%; transform: rotate(-15deg);">/</div>
+    <div class="slash" style="top: 78%; left: 24%; transform: rotate(12deg);">/</div>
+    <div class="slash" style="top: 73%; left: 34%; transform: rotate(-20deg);">/</div>
+    <div class="slash" style="top: 77%; left: 44%; transform: rotate(8deg);">/</div>
+    <div class="slash" style="top: 74%; left: 54%; transform: rotate(-22deg);">/</div>
+    <div class="slash" style="top: 79%; left: 64%; transform: rotate(15deg);">/</div>
+    <div class="slash" style="top: 72%; left: 74%; transform: rotate(-10deg);">/</div>
+    <div class="slash" style="top: 76%; left: 84%; transform: rotate(25deg);">/</div>
+    <div class="slash" style="top: 78%; left: 94%; transform: rotate(-18deg);">/</div>
+
+    <!-- Row 9: 80-90% -->
+    <div class="slash" style="top: 82%; left: 8%; transform: rotate(-12deg);">/</div>
+    <div class="slash" style="top: 85%; left: 18%; transform: rotate(20deg);">/</div>
+    <div class="slash" style="top: 88%; left: 28%; transform: rotate(-8deg);">/</div>
+    <div class="slash" style="top: 83%; left: 38%; transform: rotate(15deg);">/</div>
+    <div class="slash" style="top: 87%; left: 48%; transform: rotate(-25deg);">/</div>
+    <div class="slash" style="top: 84%; left: 58%; transform: rotate(10deg);">/</div>
+    <div class="slash" style="top: 89%; left: 68%; transform: rotate(-18deg);">/</div>
+    <div class="slash" style="top: 82%; left: 78%; transform: rotate(22deg);">/</div>
+    <div class="slash" style="top: 86%; left: 88%; transform: rotate(-15deg);">/</div>
+    <div class="slash" style="top: 88%; left: 98%; transform: rotate(12deg);">/</div>
+
+    <!-- Row 10: 90-100% -->
+    <div class="slash" style="top: 92%; left: 5%; transform: rotate(18deg);">/</div>
+    <div class="slash" style="top: 95%; left: 15%; transform: rotate(-22deg);">/</div>
+    <div class="slash" style="top: 93%; left: 25%; transform: rotate(8deg);">/</div>
+    <div class="slash" style="top: 97%; left: 35%; transform: rotate(-15deg);">/</div>
+    <div class="slash" style="top: 94%; left: 45%; transform: rotate(20deg);">/</div>
+    <div class="slash" style="top: 96%; left: 55%; transform: rotate(-10deg);">/</div>
+    <div class="slash" style="top: 92%; left: 65%; transform: rotate(25deg);">/</div>
+    <div class="slash" style="top: 98%; left: 75%; transform: rotate(-12deg);">/</div>
+    <div class="slash" style="top: 93%; left: 85%; transform: rotate(15deg);">/</div>
+    <div class="slash" style="top: 96%; left: 95%; transform: rotate(-20deg);">/</div>
+
+    <div class="content">
+        <p>hi there! you've reached the website of alice dubois. if you want to say hi, you can <a href="mailto:alice@alicedubois.com">send me an email</a></p>
+    </div>
+</body>
+</html>
