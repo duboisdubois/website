@@ -40,8 +40,9 @@ export default {
       return json({ success: false, error: 'Invalid request' }, 400);
     }
 
-    // Read current skips.json from GitHub
+    // Read current skips.json from GitHub — must be uncached to get the live SHA
     const getRes = await fetch(GITHUB_API, {
+      cache: 'no-store',
       headers: {
         Authorization: `Bearer ${env.SKIPS_PAT}`,
         'User-Agent': 'poetic-cancellations-worker',
