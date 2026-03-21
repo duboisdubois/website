@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Poetic Cancellations</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@400;600&display=swap');
+
+    :root {
+      --cream: #f5f0e8;
+      --ink: #1a1410;
+      --ink-light: #3d3530;
+      --rule: #c8bfb0;
+      --green: #2d6a4f;
+      --green-bg: #d8f3dc;
+      --teal: #1b7a7a;
+      --teal-bg: #d0eeee;
+      --sky: #1a6ea8;
+      --sky-bg: #d0e8f7;
+      --amber: #a06020;
+      --amber-bg: #fde8c0;
+      --orange: #c05010;
+      --orange-bg: #fdddc0;
+      --coral: #c0402a;
+      --coral-bg: #fdd0c0;
+      --redorange: #b02800;
+      --redorange-bg: #f8c8b0;
+      --deepred: #8b0000;
+      --deepred-bg: #f0c0c0;
+      --nearblack: #f0ebe0;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--cream);
+      color: var(--ink);
+      font-family: 'Source Sans 3', Georgia, sans-serif;
+      min-height: 100vh;
+      padding: 2rem 1rem 4rem;
+    }
+
+    header {
+      max-width: 900px;
+      margin: 0 auto 2.5rem;
+      padding-bottom: 1.5rem;
+      border-bottom: 2px solid var(--ink);
+    }
+
+    header h1 {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: clamp(2rem, 5vw, 3.2rem);
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      line-height: 1.1;
+    }
+
+    header p {
+      margin-top: 0.5rem;
+      font-size: 0.95rem;
+      color: var(--ink-light);
+      font-style: italic;
+    }
+
+    .grid {
+      max-width: 900px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1.5rem;
+    }
+
+    @media (max-width: 640px) {
+      .grid { grid-template-columns: 1fr; }
+    }
+
+    .card {
+      background: #fff;
+      border: 1.5px solid var(--rule);
+      border-radius: 2px;
+      padding: 1.4rem 1.2rem 1.2rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.9rem;
+      position: relative;
+    }
+
+    .card-name {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 1.35rem;
+      font-weight: 700;
+      letter-spacing: -0.01em;
+    }
+
+    .skip-row {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+    }
+
+    .skip-count {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 2.8rem;
+      font-weight: 700;
+      line-height: 1;
+      min-width: 2.5rem;
+    }
+
+    .btn {
+      border: 1.5px solid var(--ink);
+      background: transparent;
+      color: var(--ink);
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 1.1rem;
+      font-weight: 600;
+      width: 2rem;
+      height: 2rem;
+      border-radius: 50%;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.12s, color 0.12s;
+      flex-shrink: 0;
+    }
+
+    .btn:hover { background: var(--ink); color: var(--cream); }
+    .btn:active { opacity: 0.7; }
+
+    .btn-attended {
+      border-radius: 2px;
+      width: auto;
+      padding: 0 0.75rem;
+      font-size: 0.85rem;
+      height: 2rem;
+      letter-spacing: 0.03em;
+    }
+
+    .badge {
+      display: inline-block;
+      font-size: 0.72rem;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      padding: 0.2em 0.65em;
+      border-radius: 2px;
+      align-self: flex-start;
+    }
+
+    .badge-attended { background: var(--green-bg); color: var(--green); }
+    .badge-haiku { background: var(--teal-bg); color: var(--teal); }
+    .badge-limerick { background: var(--sky-bg); color: var(--sky); }
+    .badge-quatrain { background: var(--amber-bg); color: var(--amber); }
+    .badge-sonnet { background: var(--orange-bg); color: var(--orange); }
+    .badge-villanelle { background: var(--coral-bg); color: var(--coral); }
+    .badge-terzarima { background: var(--redorange-bg); color: var(--redorange); }
+    .badge-ghazal { background: var(--deepred-bg); color: var(--deepred); }
+    .badge-sestina { background: var(--ink); color: var(--nearblack); }
+
+    .rules-toggle {
+      background: none;
+      border: none;
+      color: var(--ink-light);
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 0.82rem;
+      cursor: pointer;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+      padding: 0;
+      text-align: left;
+    }
+
+    .rules-toggle:hover { color: var(--ink); }
+
+    .rules-content {
+      display: none;
+      border-top: 1px solid var(--rule);
+      padding-top: 0.9rem;
+      font-size: 0.82rem;
+      line-height: 1.55;
+      color: var(--ink-light);
+    }
+
+    .rules-content.open { display: block; }
+
+    .rules-content strong {
+      display: block;
+      font-weight: 600;
+      color: var(--ink);
+      margin-bottom: 0.3rem;
+      font-size: 0.85rem;
+    }
+
+    .rules-content .structure {
+      font-size: 0.78rem;
+      color: var(--ink-light);
+      margin-bottom: 0.4rem;
+    }
+
+    .rules-content p { margin-bottom: 0.6rem; }
+
+    .rules-content blockquote {
+      border-left: 2px solid var(--rule);
+      padding-left: 0.7rem;
+      margin: 0.5rem 0;
+      font-family: 'Playfair Display', Georgia, serif;
+      font-style: italic;
+      font-size: 0.82rem;
+      line-height: 1.6;
+      color: var(--ink);
+    }
+
+    .rules-content .attribution {
+      font-size: 0.75rem;
+      color: var(--ink-light);
+      margin-top: 0.3rem;
+    }
+
+    .error-msg {
+      font-size: 0.78rem;
+      color: var(--coral);
+      min-height: 1em;
+    }
+
+    /* Password modal */
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(26, 20, 16, 0.6);
+      z-index: 100;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .modal-overlay.open { display: flex; }
+
+    .modal {
+      background: var(--cream);
+      border: 2px solid var(--ink);
+      padding: 2rem;
+      max-width: 360px;
+      width: 90%;
+    }
+
+    .modal h2 {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 1.4rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .modal p {
+      font-size: 0.88rem;
+      color: var(--ink-light);
+      margin-bottom: 1.2rem;
+    }
+
+    .modal input[type="password"] {
+      width: 100%;
+      border: 1.5px solid var(--ink);
+      background: #fff;
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 1rem;
+      padding: 0.55rem 0.75rem;
+      border-radius: 2px;
+      margin-bottom: 0.8rem;
+      outline: none;
+    }
+
+    .modal input[type="password"]:focus {
+      border-color: var(--teal);
+    }
+
+    .modal-actions {
+      display: flex;
+      gap: 0.6rem;
+    }
+
+    .btn-primary {
+      background: var(--ink);
+      color: var(--cream);
+      border: 1.5px solid var(--ink);
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 0.9rem;
+      font-weight: 600;
+      padding: 0.55rem 1.2rem;
+      cursor: pointer;
+      border-radius: 2px;
+      transition: opacity 0.12s;
+    }
+
+    .btn-primary:hover { opacity: 0.85; }
+
+    .btn-secondary {
+      background: transparent;
+      color: var(--ink);
+      border: 1.5px solid var(--rule);
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 0.9rem;
+      padding: 0.55rem 1rem;
+      cursor: pointer;
+      border-radius: 2px;
+    }
+
+    .modal-error {
+      font-size: 0.82rem;
+      color: var(--coral);
+      margin-top: 0.4rem;
+      min-height: 1.1em;
+    }
+
+    footer {
+      max-width: 900px;
+      margin: 3rem auto 0;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--rule);
+      font-size: 0.78rem;
+      color: var(--ink-light);
+      text-align: center;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Poetic Cancellations</h1>
+  <p>Miss a game, write a poem. The longer you skip, the harder the form.</p>
+</header>
+
+<div class="grid" id="grid">
+  <!-- cards injected by JS -->
+</div>
+
+<footer>
+  Skips are cumulative and consecutive. Attending resets your count to zero.
+</footer>
+
+<!-- Password modal -->
+<div class="modal-overlay" id="modal-overlay">
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <h2 id="modal-title">Enter edit password</h2>
+    <p>Required to change skip counts.</p>
+    <input type="password" id="modal-pw" placeholder="Password" autocomplete="current-password" />
+    <div class="modal-actions">
+      <button class="btn-primary" id="modal-submit">Unlock</button>
+      <button class="btn-secondary" id="modal-cancel">Cancel</button>
+    </div>
+    <div class="modal-error" id="modal-error"></div>
+  </div>
+</div>
+
+<script>
+// ─── Config ──────────────────────────────────────────────────────────────────
+
+const WORKER_URL = 'REPLACE_WITH_WORKER_URL';
+const SKIPS_URL = 'https://raw.githubusercontent.com/duboisdubois/website/main/poetic-cancellations/data/skips.json';
+
+// ─── Poetry format data ───────────────────────────────────────────────────────
+
+const FORMATS = {
+  0: null,
+  1: {
+    name: 'Haiku',
+    badge: 'badge-haiku',
+    structure: '3 lines — 5 / 7 / 5 syllables',
+    rules: 'Three lines. Syllable counts of 5, 7, 5. Traditional haiku includes a seasonal reference (kigo) and a "cutting" moment of contrast, but these aren\'t required in English. The constraint is compression — say something real in 17 syllables.',
+    example: 'An old silent pond…\nA frog jumps into the pond.\nSplash! Silence again.',
+    attribution: '— Matsuo Bashō (trans. Harry Behn)',
+  },
+  2: {
+    name: 'Limerick',
+    badge: 'badge-limerick',
+    structure: '5 lines — AABBA rhyme, lines 3–4 shorter',
+    rules: 'Lines 1, 2, and 5 are longer (7–10 syllables, da-DUM da-da-DUM da-da-DUM rhythm). Lines 3 and 4 are shorter (5–7 syllables). Rhyme scheme AABBA. Tone is almost always comic. Read it aloud — if it doesn\'t bounce, fix the rhythm.',
+    example: 'There was an Old Man with a beard,\nWho said, "It is just as I feared!\n    Two Owls and a Hen,\n    Four Larks and a Wren,\nHave all built their nests in my beard!"',
+    attribution: '— Edward Lear, A Book of Nonsense (1846)',
+  },
+  3: {
+    name: 'Quatrain',
+    badge: 'badge-quatrain',
+    structure: '4 lines, ABAB or ABCB rhyme',
+    rules: 'A single four-line stanza. Most common rhyme schemes are ABAB (alternate rhyme) or ABCB (ballad meter, where only lines 2 and 4 rhyme). Lines should have a consistent rhythm, though strict meter isn\'t required. The quatrain should feel complete — not like the start of something longer.',
+    example: 'Tiger, tiger, burning bright\nIn the forests of the night,\nWhat immortal hand or eye\nCould frame thy fearful symmetry?',
+    attribution: '— William Blake, "The Tyger" (1794)',
+  },
+  4: {
+    name: 'Sonnet',
+    badge: 'badge-sonnet',
+    structure: '14 lines, iambic pentameter, closing couplet',
+    rules: '14 lines of iambic pentameter (10 syllables per line, unstressed-stressed: da-DUM × 5). Shakespearean form: three quatrains (ABAB CDCD EFEF) + closing couplet (GG). The couplet must land — it\'s the point of the whole poem. Petrarchan form (ABBAABBA CDECDE) is also acceptable.',
+    example: 'Shall I compare thee to a summer\'s day?\nThou art more lovely and more temperate.\nRough winds do shake the darling buds of May,\nAnd summer\'s lease hath all too short a date…\n…\nSo long as men can breathe, or eyes can see,\nSo long lives this, and this gives life to thee.',
+    attribution: '— William Shakespeare, Sonnet 18 (1609)',
+  },
+  5: {
+    name: 'Villanelle',
+    badge: 'badge-villanelle',
+    structure: '19 lines — 5 tercets + 1 quatrain, 2 refrains, 2 rhymes only',
+    rules: 'Five three-line stanzas followed by a four-line closing stanza. Only two rhymes in the entire poem. Line 1 (A1) and line 3 (A2) are refrains that repeat throughout. Pattern: A1bA2 / abA1 / abA2 / abA1 / abA2 / abA1A2. Both refrains appear together as the final two lines. Choose refrains that can sustain multiple appearances without going flat.',
+    example: 'Do not go gentle into that good night,\nOld age should burn and rave at close of day;\nRage, rage against the dying of the light.\n…\nAnd you, my father, there on the sad height,\nCurse, bless, me now with your fierce tears, I pray.\nDo not go gentle into that good night.\nRage, rage against the dying of the light.',
+    attribution: '— Dylan Thomas, "Do Not Go Gentle into That Good Night" (1951)',
+  },
+  6: {
+    name: 'Terza Rima',
+    badge: 'badge-terzarima',
+    structure: 'Interlocking tercets — ABA BCB CDC… closing quatrain',
+    rules: 'Three-line stanzas with interlocking rhyme: the middle line of each stanza rhymes with the outer lines of the next (ABA BCB CDC…). End with a quatrain (YZYZ) or single closing line to resolve the chain. Each new stanza introduces a new rhyme while carrying the previous one forward — plan your rhymes in advance or the chain breaks.',
+    example: 'Midway upon the journey of our life\nI found myself within a forest dark,\nFor the straightforward pathway had been lost.',
+    attribution: '— Dante Alighieri, Inferno, Canto I (c. 1320, trans. Allen Mandelbaum)',
+  },
+  7: {
+    name: 'Ghazal',
+    badge: 'badge-ghazal',
+    structure: '5+ independent couplets, radif refrain, maqta signature',
+    rules: 'Five or more couplets (sher). Each couplet is thematically independent — no continuous narrative required. Every couplet ends with the same refrain word or phrase (the radif), preceded by a rhyme (the qafia). The final couplet (maqta) includes the poet\'s own name. The couplets are like a string of pearls — each complete on its own, connected only by the refrain.',
+    example: 'Even the rain asks, where are you going? Love.\nThe road bends back on itself, always: love.\n\nI have carried your name like a stone in my shoe.\nEvery step I take rings out: love.\n\nIn the maqta, Rumi signs his own name —\n"Shams," he writes, "is the sun I orbit: love."',
+    attribution: '— Rumi, from Divan-e Shams-e Tabrizi (13th c., trans. various)',
+  },
+};
+
+const SESTINA = {
+  name: 'Sestina',
+  badge: 'badge-sestina',
+  structure: '6 stanzas of 6 lines + 3-line envoi; 6 end-words rotate in fixed pattern',
+  rules: 'Six stanzas of six lines, followed by a three-line envoi. The same six words end every line throughout, rotating in a fixed pattern each stanza: 1-2-3-4-5-6 → 6-1-5-2-4-3 → 3-6-4-1-2-5 → 5-3-2-6-1-4 → 4-5-1-3-6-2 → 2-4-6-5-3-1. The envoi uses all six words (three ending lines, three mid-line). Choose end-words flexible enough to carry multiple meanings across 39 lines. Plan before you write.',
+  example: 'September rain falls on the house.\nIn the failing light, the old grandmother\nsits in the kitchen with the child\nbeside the Little Marvel Stove…',
+  attribution: '— Elizabeth Bishop, "Sestina" (1965)',
+};
+
+function getFormat(skips) {
+  if (skips === 0) return null;
+  if (skips >= 8) return SESTINA;
+  return FORMATS[skips];
+}
+
+// ─── State ────────────────────────────────────────────────────────────────────
+
+let skips = {};
+let pendingAction = null; // { player, action } awaiting password
+
+// ─── Password / session ───────────────────────────────────────────────────────
+
+function isUnlocked() {
+  return sessionStorage.getItem('unlocked') === '1';
+}
+
+function getStoredPassword() {
+  return sessionStorage.getItem('pw') || '';
+}
+
+// ─── Worker calls ─────────────────────────────────────────────────────────────
+
+async function callWorker(player, action, password) {
+  const res = await fetch(WORKER_URL, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ player, action, password }),
+  });
+  return res.json();
+}
+
+// ─── UI helpers ───────────────────────────────────────────────────────────────
+
+function showModal() {
+  document.getElementById('modal-overlay').classList.add('open');
+  document.getElementById('modal-pw').value = '';
+  document.getElementById('modal-error').textContent = '';
+  requestAnimationFrame(() => document.getElementById('modal-pw').focus());
+}
+
+function hideModal() {
+  document.getElementById('modal-overlay').classList.remove('open');
+  pendingAction = null;
+}
+
+function setCardError(player, msg) {
+  const el = document.querySelector(`[data-player="${player}"] .error-msg`);
+  if (el) {
+    el.textContent = msg;
+    if (msg) setTimeout(() => { el.textContent = ''; }, 3000);
+  }
+}
+
+// ─── Render ───────────────────────────────────────────────────────────────────
+
+function renderCard(player, count) {
+  const fmt = getFormat(count);
+  const isZero = count === 0;
+
+  const badgeHtml = isZero
+    ? `<span class="badge badge-attended">Attended</span>`
+    : `<span class="badge ${fmt.badge}">${fmt.name}</span>`;
+
+  const rulesHtml = !isZero ? `
+    <button class="rules-toggle" data-player="${player}" onclick="toggleRules(this, '${player}')">See the rules</button>
+    <div class="rules-content" id="rules-${player}">
+      <strong>${fmt.name}</strong>
+      <div class="structure">${fmt.structure}</div>
+      <p>${fmt.rules}</p>
+      <blockquote>${fmt.example.replace(/\n/g, '<br>')}</blockquote>
+      <div class="attribution">${fmt.attribution}</div>
+    </div>
+  ` : '';
+
+  return `
+    <div class="card" data-player="${player}">
+      <div class="card-name">${player}</div>
+      <div class="skip-row">
+        <span class="skip-count">${count}</span>
+        <button class="btn" title="Decrement" onclick="handleAction('${player}', 'decrement')">−</button>
+        <button class="btn" title="Increment" onclick="handleAction('${player}', 'increment')">+</button>
+        <button class="btn btn-attended" title="Mark attended (reset to 0)" onclick="handleAction('${player}', 'reset')">Attended ✓</button>
+      </div>
+      ${badgeHtml}
+      ${rulesHtml}
+      <div class="error-msg"></div>
+    </div>
+  `;
+}
+
+function renderAll() {
+  const grid = document.getElementById('grid');
+  const players = ['Alice', 'Allie', 'Anais', 'Cat', 'Eli', 'Grif'];
+  grid.innerHTML = players.map(p => renderCard(p, skips[p] ?? 0)).join('');
+}
+
+function updateCard(player, count) {
+  const card = document.querySelector(`[data-player="${player}"]`);
+  if (!card) return;
+  const newHtml = renderCard(player, count);
+  const tmp = document.createElement('div');
+  tmp.innerHTML = newHtml;
+  const newCard = tmp.firstElementChild;
+  card.replaceWith(newCard);
+}
+
+// ─── Rules toggle ─────────────────────────────────────────────────────────────
+
+function toggleRules(btn, player) {
+  const rules = document.getElementById(`rules-${player}`);
+  const open = rules.classList.toggle('open');
+  btn.textContent = open ? 'Hide the rules' : 'See the rules';
+}
+
+// ─── Action handling ──────────────────────────────────────────────────────────
+
+async function handleAction(player, action) {
+  if (!isUnlocked()) {
+    pendingAction = { player, action };
+    showModal();
+    return;
+  }
+  await executeAction(player, action, getStoredPassword());
+}
+
+async function executeAction(player, action, password) {
+  // Optimistic update
+  const prev = skips[player];
+  if (action === 'increment') skips[player] = prev + 1;
+  else if (action === 'decrement') skips[player] = Math.max(0, prev - 1);
+  else if (action === 'reset') skips[player] = 0;
+  updateCard(player, skips[player]);
+
+  try {
+    const result = await callWorker(player, action, password);
+    if (result.success) {
+      skips = result.data;
+      updateCard(player, skips[player]);
+    } else {
+      // Revert
+      skips[player] = prev;
+      updateCard(player, prev);
+      setCardError(player, result.error || 'Update failed');
+    }
+  } catch (e) {
+    skips[player] = prev;
+    updateCard(player, prev);
+    setCardError(player, 'Network error — try again');
+  }
+}
+
+// ─── Modal logic ──────────────────────────────────────────────────────────────
+
+document.getElementById('modal-submit').addEventListener('click', submitPassword);
+document.getElementById('modal-cancel').addEventListener('click', hideModal);
+document.getElementById('modal-pw').addEventListener('keydown', e => {
+  if (e.key === 'Enter') submitPassword();
+  if (e.key === 'Escape') hideModal();
+});
+
+async function submitPassword() {
+  const pw = document.getElementById('modal-pw').value;
+  const errEl = document.getElementById('modal-error');
+  errEl.textContent = '';
+
+  if (!pw) { errEl.textContent = 'Please enter the password.'; return; }
+
+  const btn = document.getElementById('modal-submit');
+  btn.textContent = 'Checking…';
+  btn.disabled = true;
+
+  try {
+    const result = await callWorker(null, 'validate', pw);
+    if (result.success) {
+      sessionStorage.setItem('unlocked', '1');
+      sessionStorage.setItem('pw', pw);
+      hideModal();
+      if (pendingAction) {
+        const { player, action } = pendingAction;
+        pendingAction = null;
+        await executeAction(player, action, pw);
+      }
+    } else {
+      errEl.textContent = 'Wrong password.';
+    }
+  } catch {
+    errEl.textContent = 'Network error — try again.';
+  } finally {
+    btn.textContent = 'Unlock';
+    btn.disabled = false;
+  }
+}
+
+// ─── Load skips ───────────────────────────────────────────────────────────────
+
+async function loadSkips() {
+  try {
+    const res = await fetch(`${SKIPS_URL}?cb=${Date.now()}`);
+    if (!res.ok) throw new Error(res.status);
+    skips = await res.json();
+  } catch {
+    skips = { Alice: 0, Allie: 0, Anais: 0, Cat: 0, Eli: 0, Grif: 0 };
+  }
+  renderAll();
+}
+
+loadSkips();
+</script>
+</body>
+</html>
