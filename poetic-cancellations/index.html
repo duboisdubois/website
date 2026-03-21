@@ -602,39 +602,39 @@ document.addEventListener('keydown', e => {
   if (e.key === 'Escape') closeRulesModal();
 });
 
-// ─── Action handling ──────────────────────────────────────────────────────────
+// ─── Write queue ──────────────────────────────────────────────────────────────
+// Serialises all writes so only one is in flight at a time.
+// Each new write chains onto the previous one, ensuring GitHub always receives
+// the SHA from the preceding write's response — eliminating 409 conflicts.
 
-async function handleAction(player, action) {
+let writeQueue = Promise.resolve();
+
+function handleAction(player, action) {
   if (!isUnlocked()) {
     pendingAction = { player, action };
     showModal();
     return;
   }
-  await executeAction(player, action, getStoredPassword());
+  queueWrite(player, action, getStoredPassword());
 }
 
-async function executeAction(player, action, password) {
-  // Optimistic update
-  const prev = skips[player];
-  if (action === 'increment') skips[player] = prev + 1;
-  else if (action === 'decrement') skips[player] = Math.max(0, prev - 1);
-  else if (action === 'reset') skips[player] = 0;
-  updateCard(player, skips[player]);
+function queueWrite(player, action, password) {
+  writeQueue = writeQueue.then(
+    () => performWrite(player, action, password),
+    () => performWrite(player, action, password), // keep queue moving even after an error
+  );
+}
 
+async function performWrite(player, action, password) {
   try {
     const result = await callWorker(player, action, password);
     if (result.success) {
       skips = result.data;
       updateCard(player, skips[player]);
     } else {
-      // Revert
-      skips[player] = prev;
-      updateCard(player, prev);
       setCardError(player, result.error || 'Update failed');
     }
-  } catch (e) {
-    skips[player] = prev;
-    updateCard(player, prev);
+  } catch {
     setCardError(player, 'Network error — try again');
   }
 }
@@ -668,7 +668,7 @@ async function submitPassword() {
       if (pendingAction) {
         const { player, action } = pendingAction;
         pendingAction = null;
-        await executeAction(player, action, pw);
+        queueWrite(player, action, pw);
       }
     } else {
       errEl.textContent = 'Wrong password.';
