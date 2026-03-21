@@ -20,6 +20,11 @@ export default {
   async fetch(request, env) {
     const origin = request.headers.get('Origin') || '';
     const cors = corsHeaders(origin);
+    return handle(request, env, cors);
+  },
+};
+
+async function handle(request, env, cors) {
 
     if (request.method === 'OPTIONS') {
       return new Response(null, { status: 204, headers: cors });
@@ -50,9 +55,10 @@ export default {
       return json({ success: false, error: 'Invalid request' }, 400, cors);
     }
 
-    // Read current skips.json from GitHub — must be uncached to get the live SHA
+    // Read current skips.json from GitHub — cf.cacheTtl:0 bypasses Cloudflare's
+    // edge cache so we always get the live SHA immediately before the PUT.
     const getRes = await fetch(GITHUB_API, {
-      cache: 'no-store',
+      cf: { cacheTtl: 0 },
       headers: {
         Authorization: `Bearer ${env.SKIPS_PAT}`,
         'User-Agent': 'poetic-cancellations-worker',
@@ -104,8 +110,7 @@ export default {
     }
 
     return json({ success: true, data: currentContent }, 200, cors);
-  },
-};
+}
 
 function json(data, status = 200, cors = {}) {
   return new Response(JSON.stringify(data), {
