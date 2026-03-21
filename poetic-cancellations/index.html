@@ -175,48 +175,82 @@
 
     .rules-toggle:hover { color: var(--ink); }
 
-    .rules-content {
+    /* Rules modal */
+    #rules-modal-overlay {
       display: none;
-      border-top: 1px solid var(--rule);
-      padding-top: 0.9rem;
-      font-size: 0.82rem;
-      line-height: 1.55;
+      position: fixed;
+      inset: 0;
+      background: rgba(26, 20, 16, 0.55);
+      z-index: 200;
+      align-items: center;
+      justify-content: center;
+      padding: 1rem;
+    }
+
+    #rules-modal-overlay.open { display: flex; }
+
+    #rules-modal {
+      background: var(--cream);
+      border: 2px solid var(--ink);
+      padding: 2rem 2rem 1.6rem;
+      max-width: 480px;
+      width: 100%;
+      max-height: 90vh;
+      overflow-y: auto;
+      position: relative;
+    }
+
+    #rules-modal .rules-close {
+      position: absolute;
+      top: 0.9rem;
+      right: 1rem;
+      background: none;
+      border: none;
+      font-size: 1.3rem;
+      cursor: pointer;
       color: var(--ink-light);
+      line-height: 1;
+      padding: 0.2rem 0.4rem;
     }
 
-    .rules-content.open { display: block; }
+    #rules-modal .rules-close:hover { color: var(--ink); }
 
-    .rules-content strong {
-      display: block;
-      font-weight: 600;
-      color: var(--ink);
-      margin-bottom: 0.3rem;
-      font-size: 0.85rem;
+    #rules-modal h2 {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 1.6rem;
+      font-weight: 700;
+      margin-bottom: 0.25rem;
+      padding-right: 2rem;
     }
 
-    .rules-content .structure {
+    #rules-modal .rules-structure {
       font-size: 0.78rem;
       color: var(--ink-light);
-      margin-bottom: 0.4rem;
+      margin-bottom: 1rem;
+      letter-spacing: 0.01em;
     }
 
-    .rules-content p { margin-bottom: 0.6rem; }
+    #rules-modal .rules-body {
+      font-size: 0.88rem;
+      line-height: 1.6;
+      color: var(--ink-light);
+      margin-bottom: 1rem;
+    }
 
-    .rules-content blockquote {
+    #rules-modal blockquote {
       border-left: 2px solid var(--rule);
-      padding-left: 0.7rem;
-      margin: 0.5rem 0;
+      padding-left: 0.9rem;
+      margin: 0.75rem 0 0.4rem;
       font-family: 'Playfair Display', Georgia, serif;
       font-style: italic;
-      font-size: 0.82rem;
-      line-height: 1.6;
+      font-size: 0.9rem;
+      line-height: 1.65;
       color: var(--ink);
     }
 
-    .rules-content .attribution {
-      font-size: 0.75rem;
+    #rules-modal .rules-attribution {
+      font-size: 0.78rem;
       color: var(--ink-light);
-      margin-top: 0.3rem;
     }
 
     .error-msg {
@@ -350,6 +384,18 @@
       <button class="btn-secondary" id="modal-cancel">Cancel</button>
     </div>
     <div class="modal-error" id="modal-error"></div>
+  </div>
+</div>
+
+<!-- Rules modal -->
+<div id="rules-modal-overlay">
+  <div id="rules-modal" role="dialog" aria-modal="true" aria-labelledby="rules-modal-title">
+    <button class="rules-close" id="rules-modal-close" aria-label="Close">✕</button>
+    <h2 id="rules-modal-title"></h2>
+    <div class="rules-structure" id="rules-modal-structure"></div>
+    <div class="rules-body" id="rules-modal-body"></div>
+    <blockquote id="rules-modal-example"></blockquote>
+    <div class="rules-attribution" id="rules-modal-attribution"></div>
   </div>
 </div>
 
@@ -494,16 +540,9 @@ function renderCard(player, count) {
     ? `<span class="badge badge-attended">Attended</span>`
     : `<span class="badge ${fmt.badge}">${fmt.name}</span>`;
 
-  const rulesHtml = !isZero ? `
-    <button class="rules-toggle" data-player="${player}" onclick="toggleRules(this, '${player}')">See the rules</button>
-    <div class="rules-content" id="rules-${player}">
-      <strong>${fmt.name}</strong>
-      <div class="structure">${fmt.structure}</div>
-      <p>${fmt.rules}</p>
-      <blockquote>${fmt.example.replace(/\n/g, '<br>')}</blockquote>
-      <div class="attribution">${fmt.attribution}</div>
-    </div>
-  ` : '';
+  const rulesHtml = !isZero
+    ? `<button class="rules-toggle" onclick="openRulesModal('${player}')">See the rules</button>`
+    : '';
 
   return `
     <div class="card" data-player="${player}">
@@ -537,13 +576,31 @@ function updateCard(player, count) {
   card.replaceWith(newCard);
 }
 
-// ─── Rules toggle ─────────────────────────────────────────────────────────────
+// ─── Rules modal ──────────────────────────────────────────────────────────────
 
-function toggleRules(btn, player) {
-  const rules = document.getElementById(`rules-${player}`);
-  const open = rules.classList.toggle('open');
-  btn.textContent = open ? 'Hide the rules' : 'See the rules';
+function openRulesModal(player) {
+  const fmt = getFormat(skips[player] ?? 0);
+  if (!fmt) return;
+  document.getElementById('rules-modal-title').textContent = fmt.name;
+  document.getElementById('rules-modal-structure').textContent = fmt.structure;
+  document.getElementById('rules-modal-body').textContent = fmt.rules;
+  document.getElementById('rules-modal-example').innerHTML = fmt.example.replace(/\n/g, '<br>');
+  document.getElementById('rules-modal-attribution').textContent = fmt.attribution;
+  document.getElementById('rules-modal-overlay').classList.add('open');
+  document.getElementById('rules-modal-close').focus();
 }
+
+function closeRulesModal() {
+  document.getElementById('rules-modal-overlay').classList.remove('open');
+}
+
+document.getElementById('rules-modal-close').addEventListener('click', closeRulesModal);
+document.getElementById('rules-modal-overlay').addEventListener('click', e => {
+  if (e.target === document.getElementById('rules-modal-overlay')) closeRulesModal();
+});
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') closeRulesModal();
+});
 
 // ─── Action handling ──────────────────────────────────────────────────────────
 
