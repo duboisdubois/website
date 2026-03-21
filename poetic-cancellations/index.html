@@ -41,13 +41,13 @@
       color: var(--ink);
       font-family: 'Source Sans 3', Georgia, sans-serif;
       min-height: 100vh;
-      padding: 2rem 1rem 4rem;
+      padding: 1.5rem 1rem 3rem;
     }
 
     header {
       max-width: 900px;
-      margin: 0 auto 2.5rem;
-      padding-bottom: 1.5rem;
+      margin: 0 auto 1.5rem;
+      padding-bottom: 1rem;
       border-bottom: 2px solid var(--ink);
     }
 
@@ -71,7 +71,7 @@
       margin: 0 auto;
       display: grid;
       grid-template-columns: repeat(3, 1fr);
-      gap: 1.5rem;
+      gap: 1rem;
     }
 
     @media (max-width: 640px) {
@@ -82,10 +82,10 @@
       background: #fff;
       border: 1.5px solid var(--rule);
       border-radius: 2px;
-      padding: 1.4rem 1.2rem 1.2rem;
+      padding: 1rem 1rem 0.85rem;
       display: flex;
       flex-direction: column;
-      gap: 0.9rem;
+      gap: 0.5rem;
       position: relative;
     }
 
@@ -99,15 +99,17 @@
     .skip-row {
       display: flex;
       align-items: center;
-      gap: 0.6rem;
+      gap: 0.5rem;
     }
 
     .skip-count {
-      font-family: 'Playfair Display', Georgia, serif;
-      font-size: 2.8rem;
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 2.6rem;
       font-weight: 700;
+      font-variant-numeric: tabular-nums;
       line-height: 1;
-      min-width: 2.5rem;
+      min-width: 2rem;
+      text-align: center;
     }
 
     .btn {
@@ -131,13 +133,27 @@
     .btn:hover { background: var(--ink); color: var(--cream); }
     .btn:active { opacity: 0.7; }
 
-    .btn-attended {
-      border-radius: 2px;
-      width: auto;
-      padding: 0 0.75rem;
-      font-size: 0.85rem;
-      height: 2rem;
-      letter-spacing: 0.03em;
+    .btn-reset {
+      align-self: flex-start;
+      background: transparent;
+      border: 1px solid var(--rule);
+      color: var(--ink-light);
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 0.72rem;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      padding: 0.22em 0.85em;
+      border-radius: 99px;
+      cursor: pointer;
+      transition: border-color 0.12s, color 0.12s;
+    }
+
+    .btn-reset:hover { border-color: var(--ink-light); color: var(--ink); }
+
+    .attended-check {
+      display: inline-flex;
+      align-items: center;
+      line-height: 1;
     }
 
     .badge {
@@ -349,8 +365,8 @@
 
     footer {
       max-width: 900px;
-      margin: 3rem auto 0;
-      padding-top: 1.5rem;
+      margin: 1.5rem auto 0;
+      padding-top: 1rem;
       border-top: 1px solid var(--rule);
       font-size: 0.78rem;
       color: var(--ink-light);
@@ -538,8 +554,12 @@ function renderCard(player, count) {
   const isZero = count === 0;
 
   const badgeHtml = isZero
-    ? `<span class="badge badge-attended">Attended</span>`
+    ? `<span class="attended-check" title="Attended"><svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="8.5" cy="8.5" r="8.5" fill="#2d6a4f"/><path d="M4.5 8.8L7 11.5L12.5 6" stroke="white" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span>`
     : `<span class="badge ${fmt.badge}">${fmt.name}</span>`;
+
+  const resetHtml = !isZero
+    ? `<button class="btn-reset" title="Mark attended (reset to 0)" onclick="handleAction('${player}', 'reset')">Reset</button>`
+    : '';
 
   const rulesHtml = !isZero
     ? `<button class="rules-toggle" onclick="openRulesModal('${player}')">See the rules</button>`
@@ -549,11 +569,11 @@ function renderCard(player, count) {
     <div class="card" data-player="${player}">
       <div class="card-name">${player}</div>
       <div class="skip-row">
-        <span class="skip-count">${count}</span>
         <button class="btn" title="Decrement" onclick="handleAction('${player}', 'decrement')">−</button>
+        <span class="skip-count">${count}</span>
         <button class="btn" title="Increment" onclick="handleAction('${player}', 'increment')">+</button>
-        <button class="btn btn-attended" title="Mark attended (reset to 0)" onclick="handleAction('${player}', 'reset')">Attended ✓</button>
       </div>
+      ${resetHtml}
       ${badgeHtml}
       ${rulesHtml}
       <div class="error-msg"></div>
