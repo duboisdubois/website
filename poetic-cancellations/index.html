@@ -96,6 +96,20 @@
       letter-spacing: -0.01em;
     }
 
+    .card-body {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.5rem;
+    }
+
+    .card-meta {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 0.3rem;
+    }
+
     .skip-row {
       display: flex;
       align-items: center;
@@ -132,29 +146,6 @@
 
     .btn:hover { background: var(--ink); color: var(--cream); }
     .btn:active { opacity: 0.7; }
-
-    .btn-reset {
-      align-self: flex-start;
-      background: transparent;
-      border: 1px solid var(--rule);
-      color: var(--ink-light);
-      font-family: 'Source Sans 3', sans-serif;
-      font-size: 0.72rem;
-      font-weight: 600;
-      letter-spacing: 0.04em;
-      padding: 0.22em 0.85em;
-      border-radius: 99px;
-      cursor: pointer;
-      transition: border-color 0.12s, color 0.12s;
-    }
-
-    .btn-reset:hover { border-color: var(--ink-light); color: var(--ink); }
-
-    .attended-check {
-      display: inline-flex;
-      align-items: center;
-      line-height: 1;
-    }
 
     .badge {
       display: inline-block;
@@ -553,29 +544,23 @@ function renderCard(player, count) {
   const fmt = getFormat(count);
   const isZero = count === 0;
 
-  const badgeHtml = isZero
-    ? `<span class="attended-check" title="Attended"><svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="8.5" cy="8.5" r="8.5" fill="#2d6a4f"/><path d="M4.5 8.8L7 11.5L12.5 6" stroke="white" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span>`
-    : `<span class="badge ${fmt.badge}">${fmt.name}</span>`;
-
-  const resetHtml = !isZero
-    ? `<button class="btn-reset" title="Mark attended (reset to 0)" onclick="handleAction('${player}', 'reset')">Reset</button>`
-    : '';
-
-  const rulesHtml = !isZero
-    ? `<button class="rules-toggle" onclick="openRulesModal('${player}')">See the rules</button>`
-    : '';
+  const metaHtml = !isZero ? `
+      <div class="card-meta">
+        <span class="badge ${fmt.badge}">${fmt.name}</span>
+        <button class="rules-toggle" onclick="openRulesModal('${player}')">See the rules</button>
+      </div>` : '';
 
   return `
     <div class="card" data-player="${player}">
       <div class="card-name">${player}</div>
-      <div class="skip-row">
-        <button class="btn" title="Decrement" onclick="handleAction('${player}', 'decrement')">−</button>
-        <span class="skip-count">${count}</span>
-        <button class="btn" title="Increment" onclick="handleAction('${player}', 'increment')">+</button>
+      <div class="card-body">
+        <div class="skip-row">
+          <button class="btn" title="Decrement" onclick="handleAction('${player}', 'decrement')">−</button>
+          <span class="skip-count">${count}</span>
+          <button class="btn" title="Increment" onclick="handleAction('${player}', 'increment')">+</button>
+        </div>
+        ${metaHtml}
       </div>
-      ${resetHtml}
-      ${badgeHtml}
-      ${rulesHtml}
       <div class="error-msg"></div>
     </div>
   `;
