@@ -563,7 +563,7 @@ function renderCard(player, count) {
 
 function renderAll() {
   const grid = document.getElementById('grid');
-  const players = ['Alice', 'Allie', 'Anais', 'Cat', 'Eli', 'Grif'];
+  const players = ['Alice', 'Allie', 'Anais', 'Cat', 'Eli', 'Griff'];
   grid.innerHTML = players.map(p => renderCard(p, skips[p] ?? 0)).join('');
 }
 
@@ -690,7 +690,7 @@ async function loadSkips() {
     if (!res.ok) throw new Error(res.status);
     skips = await res.json();
   } catch {
-    skips = { Alice: 0, Allie: 0, Anais: 0, Cat: 0, Eli: 0, Grif: 0 };
+    skips = { Alice: 0, Allie: 0, Anais: 0, Cat: 0, Eli: 0, Griff: 0 };
   }
   renderAll();
 }
