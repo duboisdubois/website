@@ -5,15 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>la feeeeed</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
 
-        html {
-            background-color: #0066ff;
-        }
+        html { background-color: #0066ff; }
 
         body {
             min-height: 100vh;
@@ -24,7 +18,6 @@
             position: relative;
         }
 
-        /* Slashes sit behind everything and stay put while the feed scrolls */
         .slashes {
             position: fixed;
             inset: 0;
@@ -49,15 +42,14 @@
             margin: 0 auto;
         }
 
-        .content a {
+        a {
             color: #ff00ff;
             text-decoration: none;
             border-bottom: 2px solid #ff00ff;
-            text-shadow: 0 0 10px rgba(255, 0, 255, 0.8), 0 0 20px rgba(255, 0, 255, 0.5), 0 0 40px rgba(255, 0, 255, 0.3);
+            text-shadow: 0 0 10px rgba(255, 0, 255, 0.8), 0 0 20px rgba(255, 0, 255, 0.5);
         }
 
-        .content a:hover,
-        .content a:focus-visible {
+        a:hover, a:focus-visible {
             background-color: #ff00ff;
             color: #0066ff;
             outline: none;
@@ -72,32 +64,84 @@
             margin-bottom: 1.5rem;
         }
 
-        /* The frame the X timeline loads into */
-        .feed {
+        .status {
+            font-size: 0.95rem;
+            opacity: 0.85;
+            margin-bottom: 1.5rem;
+        }
+
+        .feed { display: grid; gap: 1.25rem; }
+
+        .tweet {
             background-color: #0033cc;
             border: 3px solid #ff00ff;
-            box-shadow: 0 0 20px rgba(255, 0, 255, 0.6), 0 0 60px rgba(255, 0, 255, 0.3);
-            padding: 0.75rem;
-            min-height: 200px;
+            box-shadow: 0 0 20px rgba(255, 0, 255, 0.5);
+            padding: 1rem 1.1rem 0.9rem;
         }
 
-        /* The widget starts life as this link before X's script replaces it */
-        .feed > a.twitter-timeline {
+        .who {
+            display: flex;
+            align-items: center;
+            gap: 0.7rem;
+            margin-bottom: 0.7rem;
+        }
+
+        .avatar {
+            width: 44px;
+            height: 44px;
+            border-radius: 50%;
+            border: 2px solid #00FF6A;
+            background: #0066ff;
+            flex: none;
+            object-fit: cover;
+        }
+
+        .avatar.fallback {
+            display: grid;
+            place-items: center;
+            font-weight: bold;
+            color: #00FF6A;
+        }
+
+        .names { line-height: 1.2; min-width: 0; }
+        .name { font-weight: bold; font-size: 1.05rem; }
+        .handle {
+            color: #ff00ff;
+            font-size: 0.95rem;
+            text-shadow: none;
+            border: 0;
+        }
+
+        .text {
+            font-size: 1.1rem;
+            line-height: 1.45;
+            white-space: pre-wrap;
+            overflow-wrap: anywhere;
+        }
+
+        .media {
+            display: grid;
+            gap: 0.5rem;
+            margin-top: 0.8rem;
+        }
+        .media img {
+            width: 100%;
+            max-height: 420px;
+            object-fit: cover;
+            border: 2px solid #00FF6A;
             display: block;
-            padding: 2rem 1rem;
-            text-align: center;
-            font-size: 1.1rem;
         }
 
-        .back {
-            display: inline-block;
-            margin-top: 2rem;
-            font-size: 1.1rem;
+        .when {
+            display: block;
+            margin-top: 0.8rem;
+            font-size: 0.9rem;
+            width: fit-content;
         }
 
-        @media (prefers-reduced-motion: reduce) {
-            * { transition: none !important; }
-        }
+        .back { display: inline-block; margin-top: 2rem; font-size: 1.1rem; }
+
+        @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
     </style>
 </head>
 <body>
@@ -105,43 +149,97 @@
 
     <div class="content">
         <h1>la feeeeed</h1>
-        <div class="feed">
-            <a class="twitter-timeline"
-               href="https://x.com/ZoopremeCourt/lists/2119327135768723868?ref_src=twsrc%5Etfw"
-               data-theme="dark"
-               data-chrome="transparent nofooter noborders"
-               data-dnt="true"
-               data-tweet-limit="20">
-                loading la feeeeed…
-            </a>
-            <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
-        </div>
-
+        <p class="status" id="status">loading la feeeeed…</p>
+        <div class="feed" id="feed"></div>
         <a class="back" href="/">← back home</a>
     </div>
 
     <script>
-        // Scatter magenta slashes across the page, same spirit as the homepage
-        // but generated so the file stays short.
+        // Magenta slashes, same spirit as the homepage.
         (function () {
             var box = document.getElementById('slashes');
-            var cols = 10, rows = 10;
             var frag = document.createDocumentFragment();
-            for (var r = 0; r < rows; r++) {
-                for (var c = 0; c < cols; c++) {
+            for (var r = 0; r < 10; r++) {
+                for (var c = 0; c < 10; c++) {
                     var el = document.createElement('div');
                     el.className = 'slash';
                     el.textContent = '/';
-                    var top = r * 10 + 2 + Math.random() * 6;
-                    var left = c * 10 + 2 + Math.random() * 6;
-                    var rot = (Math.random() * 50 - 25).toFixed(0);
-                    el.style.top = top + '%';
-                    el.style.left = left + '%';
-                    el.style.transform = 'rotate(' + rot + 'deg)';
+                    el.style.top = (r * 10 + 2 + Math.random() * 6) + '%';
+                    el.style.left = (c * 10 + 2 + Math.random() * 6) + '%';
+                    el.style.transform = 'rotate(' + (Math.random() * 50 - 25).toFixed(0) + 'deg)';
                     frag.appendChild(el);
                 }
             }
             box.appendChild(frag);
+        })();
+
+        // Render tweets from data/tweets.json
+        (async function () {
+            var status = document.getElementById('status');
+            var feed = document.getElementById('feed');
+
+            function esc(s) {
+                return String(s).replace(/[&<>"']/g, function (c) {
+                    return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+                });
+            }
+
+            // Escape first, then turn links, @mentions and #hashtags into anchors.
+            function linkify(text) {
+                return esc(text)
+                    .replace(/(https?:\/\/[^\s<]+)/g, function (u) {
+                        var label = u.replace(/^https?:\/\//, '').replace(/\/$/, '');
+                        if (label.length > 40) label = label.slice(0, 38) + '…';
+                        return '<a href="' + u + '" target="_blank" rel="noopener">' + label + '</a>';
+                    })
+                    .replace(/(^|[^\w])@(\w{1,15})/g, '$1<a href="https://x.com/$2" target="_blank" rel="noopener">@$2</a>')
+                    .replace(/(^|[^\w&])#(\w+)/g, '$1<a href="https://x.com/hashtag/$2" target="_blank" rel="noopener">#$2</a>');
+            }
+
+            function ago(iso) {
+                var d = new Date(iso);
+                if (isNaN(d)) return '';
+                var s = Math.round((Date.now() - d) / 1000);
+                if (s < 60) return 'just now';
+                var m = Math.round(s / 60); if (m < 60) return m + 'm ago';
+                var h = Math.round(m / 60); if (h < 24) return h + 'h ago';
+                var days = Math.round(h / 24); if (days < 7) return days + 'd ago';
+                return d.toLocaleDateString(undefined, { month: 'short', day: 'numeric', year: d.getFullYear() !== new Date().getFullYear() ? 'numeric' : undefined });
+            }
+
+            function card(p) {
+                var a = p.author || {};
+                var avatar = a.avatar
+                    ? '<img class="avatar" src="' + esc(a.avatar) + '" alt="">'
+                    : '<div class="avatar fallback">' + esc((a.name || a.handle || '?').charAt(0).toUpperCase()) + '</div>';
+                var media = (p.media || []).map(function (u) {
+                    return '<a href="' + esc(p.url) + '" target="_blank" rel="noopener" style="border:0"><img src="' + esc(u) + '" alt="" loading="lazy"></a>';
+                }).join('');
+                return '<article class="tweet">' +
+                    '<div class="who">' + avatar +
+                        '<div class="names"><div class="name">' + esc(a.name || a.handle || '') + '</div>' +
+                        '<a class="handle" href="https://x.com/' + esc(a.handle || '') + '" target="_blank" rel="noopener">@' + esc(a.handle || '') + '</a></div>' +
+                    '</div>' +
+                    '<div class="text">' + linkify(p.text || '') + '</div>' +
+                    (media ? '<div class="media">' + media + '</div>' : '') +
+                    '<a class="when" href="' + esc(p.url) + '" target="_blank" rel="noopener" title="' + esc(p.createdAt || '') + '">' + esc(ago(p.createdAt)) + '</a>' +
+                '</article>';
+            }
+
+            try {
+                var res = await fetch('data/tweets.json', { cache: 'no-cache' });
+                if (!res.ok) throw new Error(res.status);
+                var data = await res.json();
+                var posts = data.posts || [];
+                if (!posts.length) {
+                    status.textContent = 'nothing here yet. the feed refreshes every few hours.';
+                    return;
+                }
+                feed.innerHTML = posts.map(card).join('');
+                status.textContent = 'last refreshed ' + ago(data.updatedAt);
+            } catch (e) {
+                status.textContent = 'the feed hasn’t been built yet. run the "refresh la feeeeed" workflow on GitHub.';
+            }
         })();
     </script>
 </body>
