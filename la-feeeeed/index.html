@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>la feeeeed</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            background-color: #0066ff;
+        }
+
+        body {
+            min-height: 100vh;
+            background-color: #0066ff;
+            font-family: system-ui, -apple-system, sans-serif;
+            color: #00FF6A;
+            padding: 2rem 1rem 4rem;
+            position: relative;
+        }
+
+        /* Slashes sit behind everything and stay put while the feed scrolls */
+        .slashes {
+            position: fixed;
+            inset: 0;
+            overflow: hidden;
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        .slash {
+            position: absolute;
+            color: #ff00ff;
+            font-size: 30px;
+            font-weight: bold;
+            user-select: none;
+            opacity: 0.8;
+        }
+
+        .content {
+            position: relative;
+            z-index: 10;
+            max-width: 560px;
+            margin: 0 auto;
+        }
+
+        .content a {
+            color: #ff00ff;
+            text-decoration: none;
+            border-bottom: 2px solid #ff00ff;
+            text-shadow: 0 0 10px rgba(255, 0, 255, 0.8), 0 0 20px rgba(255, 0, 255, 0.5), 0 0 40px rgba(255, 0, 255, 0.3);
+        }
+
+        .content a:hover,
+        .content a:focus-visible {
+            background-color: #ff00ff;
+            color: #0066ff;
+            outline: none;
+        }
+
+        h1 {
+            font-size: clamp(2.4rem, 9vw, 4.5rem);
+            font-weight: bold;
+            line-height: 1;
+            letter-spacing: -0.03em;
+            text-shadow: 0 0 10px rgba(0, 255, 106, 0.8), 0 0 30px rgba(0, 255, 106, 0.4);
+            margin-bottom: 1.5rem;
+        }
+
+        /* The frame the X timeline loads into */
+        .feed {
+            background-color: #0033cc;
+            border: 3px solid #ff00ff;
+            box-shadow: 0 0 20px rgba(255, 0, 255, 0.6), 0 0 60px rgba(255, 0, 255, 0.3);
+            padding: 0.75rem;
+            min-height: 200px;
+        }
+
+        /* The widget starts life as this link before X's script replaces it */
+        .feed > a.twitter-timeline {
+            display: block;
+            padding: 2rem 1rem;
+            text-align: center;
+            font-size: 1.1rem;
+        }
+
+        .back {
+            display: inline-block;
+            margin-top: 2rem;
+            font-size: 1.1rem;
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            * { transition: none !important; }
+        }
+    </style>
+</head>
+<body>
+    <div class="slashes" id="slashes" aria-hidden="true"></div>
+
+    <div class="content">
+        <h1>la feeeeed</h1>
+        <div class="feed">
+            <a class="twitter-timeline"
+               href="https://x.com/alicedubois/lists/2119310951145214234?ref_src=twsrc%5Etfw"
+               data-theme="dark"
+               data-chrome="transparent nofooter noborders"
+               data-dnt="true"
+               data-tweet-limit="20">
+                loading la feeeeed…
+            </a>
+            <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+        </div>
+
+        <a class="back" href="/">← back home</a>
+    </div>
+
+    <script>
+        // Scatter magenta slashes across the page, same spirit as the homepage
+        // but generated so the file stays short.
+        (function () {
+            var box = document.getElementById('slashes');
+            var cols = 10, rows = 10;
+            var frag = document.createDocumentFragment();
+            for (var r = 0; r < rows; r++) {
+                for (var c = 0; c < cols; c++) {
+                    var el = document.createElement('div');
+                    el.className = 'slash';
+                    el.textContent = '/';
+                    var top = r * 10 + 2 + Math.random() * 6;
+                    var left = c * 10 + 2 + Math.random() * 6;
+                    var rot = (Math.random() * 50 - 25).toFixed(0);
+                    el.style.top = top + '%';
+                    el.style.left = left + '%';
+                    el.style.transform = 'rotate(' + rot + 'deg)';
+                    frag.appendChild(el);
+                }
+            }
+            box.appendChild(frag);
+        })();
+    </script>
+</body>
+</html>
