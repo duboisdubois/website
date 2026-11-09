@@ -11,10 +11,10 @@
         "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1022564507971801088/1611270110",
         "location": "Los Angeles, CA",
         "verified": false,
-        "followersCount": 16477,
+        "followersCount": 16471,
         "followingCount": 987,
-        "statusesCount": 30620,
-        "likeCount": 86908,
+        "statusesCount": 30628,
+        "likeCount": 86930,
         "createdAt": "2018-07-26T19:29:11.000Z",
         "pinnedPostIds": [
           "1938684970152927421"
@@ -22,7 +22,7 @@
         "protected": false
       },
       "meta": {
-        "requestId": "31e2e188-756f-4da7-b9ba-992aae10ac9a"
+        "requestId": "73552af3-41db-4822-8f6f-2e2f4e8fd993"
       }
     },
     "posts": {
@@ -40,13 +40,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16477,
+            "followersCount": 16471,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 376,
           "retweetCount": 66,
           "replyCount": 24,
-          "viewCount": 96504,
+          "viewCount": 96614,
           "quoteCount": 8,
           "bookmarkCount": 23,
           "media": [
@@ -67,6 +67,338 @@
           "retweetedPost": null
         },
         {
+          "id": "2119913971323183467",
+          "text": "https://t.co/XLb7fywAVb",
+          "url": "https://x.com/UnrigLA/status/2119913971323183467",
+          "lang": "zxx",
+          "createdAt": "2026-11-09T22:04:11.000Z",
+          "conversationId": "2119913971323183467",
+          "inReplyToId": null,
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16471,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 2,
+          "retweetCount": 0,
+          "replyCount": 0,
+          "viewCount": 202,
+          "quoteCount": 0,
+          "bookmarkCount": 0,
+          "media": [
+            {
+              "id": "2119913940067241984",
+              "type": "video",
+              "url": "https://video.twimg.com/amplify_video/2119913940067241984/vid/avc1/734x720/bJOW57QF5_gMF4-Y.mp4?tag=29",
+              "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2119913940067241984/img/BP2FNiv5Ev8ZOY-C.jpg"
+            }
+          ],
+          "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+          },
+          "article": null,
+          "quotedPost": null,
+          "retweetedPost": null
+        },
+        {
+          "id": "2119891592106656085",
+          "text": "RT @PokiJaciii: The new strategy for CA republicans seems to be “ah, seems like we made Kern and Tulare tossup but it’s actually not that b…",
+          "url": "https://x.com/UnrigLA/status/2119891592106656085",
+          "lang": "en",
+          "createdAt": "2026-11-09T20:35:15.000Z",
+          "conversationId": "2119891592106656085",
+          "inReplyToId": null,
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16471,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 0,
+          "retweetCount": 5,
+          "replyCount": 0,
+          "viewCount": 38,
+          "quoteCount": 0,
+          "bookmarkCount": 0,
+          "media": [],
+          "entities": {
+            "hashtags": [],
+            "mentions": [
+              "PokiJaciii"
+            ],
+            "urls": []
+          },
+          "article": null,
+          "quotedPost": null,
+          "retweetedPost": {
+            "id": "2119884424561189129",
+            "text": "The new strategy for CA republicans seems to be “ah, seems like we made Kern and Tulare tossup but it’s actually not that bad”",
+            "url": "https://x.com/PokiJaciii/status/2119884424561189129",
+            "lang": "en",
+            "createdAt": "2026-11-09T20:06:47.000Z",
+            "conversationId": "2119884424561189129",
+            "inReplyToId": null,
+            "author": {
+              "id": "1514764194805035042",
+              "username": "PokiJaciii",
+              "name": "♊︎ 𝓙𝓪𝓬𝓲 🧋🌴💙",
+              "verified": true,
+              "followersCount": 6770,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/2116949143403073536/wejGRmFd_normal.jpg"
+            },
+            "likeCount": 47,
+            "retweetCount": 5,
+            "replyCount": 3,
+            "viewCount": 1879,
+            "quoteCount": 0,
+            "bookmarkCount": 0,
+            "media": [],
+            "entities": {
+              "hashtags": [],
+              "mentions": [],
+              "urls": []
+            },
+            "article": null
+          }
+        },
+        {
+          "id": "2119869468654621030",
+          "text": "RT @noahpasaran: LAPD is trying to create a robot Pontius Pilate",
+          "url": "https://x.com/UnrigLA/status/2119869468654621030",
+          "lang": "en",
+          "createdAt": "2026-11-09T19:07:21.000Z",
+          "conversationId": "2119869468654621030",
+          "inReplyToId": null,
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16471,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 0,
+          "retweetCount": 1,
+          "replyCount": 0,
+          "viewCount": 49,
+          "quoteCount": 0,
+          "bookmarkCount": 0,
+          "media": [],
+          "entities": {
+            "hashtags": [],
+            "mentions": [
+              "noahpasaran"
+            ],
+            "urls": []
+          },
+          "article": null,
+          "quotedPost": null,
+          "retweetedPost": {
+            "id": "2119869056954269860",
+            "text": "LAPD is trying to create a robot Pontius Pilate",
+            "url": "https://x.com/noahpasaran/status/2119869056954269860",
+            "lang": "en",
+            "createdAt": "2026-11-09T19:05:43.000Z",
+            "conversationId": "2119869056954269860",
+            "inReplyToId": null,
+            "author": {
+              "id": "3310914974",
+              "username": "noahpasaran",
+              "name": "holden m. accountable",
+              "verified": false,
+              "followersCount": 13906,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/2044212446244810754/zn4HlVvA_normal.jpg"
+            },
+            "likeCount": 24,
+            "retweetCount": 1,
+            "replyCount": 0,
+            "viewCount": 644,
+            "quoteCount": 0,
+            "bookmarkCount": 0,
+            "media": [],
+            "entities": {
+              "hashtags": [],
+              "mentions": [],
+              "urls": []
+            },
+            "article": null
+          }
+        },
+        {
+          "id": "2119863795166351707",
+          "text": "I don’t actually expect anyone in LAPD to know how to spell cavalry but if we’re gonna pay an ad agency $600k per year for this recruitment campaign maybe they should?!? https://t.co/cVD9umvF8I",
+          "url": "https://x.com/UnrigLA/status/2119863795166351707",
+          "lang": "en",
+          "createdAt": "2026-11-09T18:44:48.000Z",
+          "conversationId": "2119863795166351707",
+          "inReplyToId": null,
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16471,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 81,
+          "retweetCount": 12,
+          "replyCount": 5,
+          "viewCount": 2557,
+          "quoteCount": 2,
+          "bookmarkCount": 2,
+          "media": [
+            {
+              "id": "2119863790900776960",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWtE4uTakAAnWGh.jpg",
+              "previewImageUrl": null
+            }
+          ],
+          "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+          },
+          "article": null,
+          "quotedPost": null,
+          "retweetedPost": null
+        },
+        {
+          "id": "2119850009613193581",
+          "text": "RT @LindseyForLA: Los Angeles has never been a place that dreams small. But for too long, our County government has moved too slowly, faile…",
+          "url": "https://x.com/UnrigLA/status/2119850009613193581",
+          "lang": "en",
+          "createdAt": "2026-11-09T17:50:01.000Z",
+          "conversationId": "2119850009613193581",
+          "inReplyToId": null,
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16471,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 0,
+          "retweetCount": 35,
+          "replyCount": 0,
+          "viewCount": 47,
+          "quoteCount": 0,
+          "bookmarkCount": 0,
+          "media": [],
+          "entities": {
+            "hashtags": [],
+            "mentions": [
+              "LindseyForLA"
+            ],
+            "urls": []
+          },
+          "article": null,
+          "quotedPost": null,
+          "retweetedPost": {
+            "id": "2119826242572828948",
+            "text": "Los Angeles has never been a place that dreams small. But for too long, our County government has moved too slowly, failed to meet the moment, and allowed bureaucracy to stand in the way of progress.\n  I fight everyday to reform our government because I believe the people of Los Angeles deserve better — a government that works for them, delivers real results, and is accountable to the people it serves.   \nThat’s why I’m running to become Los Angeles County’s first elected County Executive.\n This is a once-in-a-generation opportunity to build a government that finally meets the scale of our challenges and the ambition of our people. From making Los Angeles more affordable and ending homelessness, to protecting our communities and responding urgently to crises, we need bold, unified leadership that puts progress over politics and people over process. \n The future of Los Angeles is ours to write. I'm running because I'm ready to fight for it — and together, we're going to build it.",
+            "url": "https://x.com/LindseyForLA/status/2119826242572828948",
+            "lang": "en",
+            "createdAt": "2026-11-09T16:15:35.000Z",
+            "conversationId": "2119826242572828948",
+            "inReplyToId": null,
+            "author": {
+              "id": "2018472348387840000",
+              "username": "LindseyForLA",
+              "name": "Lindsey P. Horvath",
+              "verified": true,
+              "followersCount": 447,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/2018477052408864769/5BjvDIds_normal.jpg"
+            },
+            "likeCount": 289,
+            "retweetCount": 35,
+            "replyCount": 38,
+            "viewCount": 13662,
+            "quoteCount": 15,
+            "bookmarkCount": 23,
+            "media": [],
+            "entities": {
+              "hashtags": [],
+              "mentions": [],
+              "urls": []
+            },
+            "article": null
+          }
+        },
+        {
+          "id": "2119847765610266634",
+          "text": "RT @sherlyholmes: NEW: Lindsey Horvath is officially running for LA County CEO   \n\nHer announcement fires the starting gun on a 2028 race f…",
+          "url": "https://x.com/UnrigLA/status/2119847765610266634",
+          "lang": "en",
+          "createdAt": "2026-11-09T17:41:06.000Z",
+          "conversationId": "2119847765610266634",
+          "inReplyToId": null,
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16471,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 0,
+          "retweetCount": 65,
+          "replyCount": 0,
+          "viewCount": 41,
+          "quoteCount": 0,
+          "bookmarkCount": 0,
+          "media": [],
+          "entities": {
+            "hashtags": [],
+            "mentions": [
+              "sherlyholmes"
+            ],
+            "urls": []
+          },
+          "article": null,
+          "quotedPost": null,
+          "retweetedPost": {
+            "id": "2119814343240155236",
+            "text": "NEW: Lindsey Horvath is officially running for LA County CEO   \n\nHer announcement fires the starting gun on a 2028 race for the new position, which will arguably be the second-most powerful elected office in California after the governor.\n\nhttps://t.co/wnZ5IxtoQ7",
+            "url": "https://x.com/sherlyholmes/status/2119814343240155236",
+            "lang": "en",
+            "createdAt": "2026-11-09T15:28:18.000Z",
+            "conversationId": "2119814343240155236",
+            "inReplyToId": null,
+            "author": {
+              "id": "13479902",
+              "username": "sherlyholmes",
+              "name": "Julia Wick",
+              "verified": false,
+              "followersCount": 15749,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/2101441690485874688/M7UVZqEt_normal.jpg"
+            },
+            "likeCount": 536,
+            "retweetCount": 65,
+            "replyCount": 27,
+            "viewCount": 35773,
+            "quoteCount": 25,
+            "bookmarkCount": 63,
+            "media": [],
+            "entities": {
+              "hashtags": [],
+              "mentions": [],
+              "urls": [
+                "https://lamaterial.com/p/county-ceo-lindsey-horvath-election-2028"
+              ]
+            },
+            "article": null
+          }
+        },
+        {
           "id": "2119620971942617235",
           "text": "RT @PokiJaciii: LA County is pretty much done counting already, wow",
           "url": "https://x.com/UnrigLA/status/2119620971942617235",
@@ -79,13 +411,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16477,
+            "followersCount": 16471,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
-          "retweetCount": 4,
+          "retweetCount": 5,
           "replyCount": 0,
-          "viewCount": 43,
+          "viewCount": 50,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
@@ -111,15 +443,15 @@
               "username": "PokiJaciii",
               "name": "♊︎ 𝓙𝓪𝓬𝓲 🧋🌴💙",
               "verified": true,
-              "followersCount": 6762,
+              "followersCount": 6770,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/2116949143403073536/wejGRmFd_normal.jpg"
             },
-            "likeCount": 98,
-            "retweetCount": 4,
-            "replyCount": 5,
-            "viewCount": 3177,
+            "likeCount": 120,
+            "retweetCount": 5,
+            "replyCount": 7,
+            "viewCount": 4325,
             "quoteCount": 1,
-            "bookmarkCount": 2,
+            "bookmarkCount": 5,
             "media": [],
             "entities": {
               "hashtags": [],
@@ -142,13 +474,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16477,
+            "followersCount": 16471,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
-          "retweetCount": 4,
+          "retweetCount": 5,
           "replyCount": 0,
-          "viewCount": 46,
+          "viewCount": 49,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
@@ -174,13 +506,13 @@
               "username": "TheBasinLA",
               "name": "The Basin",
               "verified": true,
-              "followersCount": 4480,
+              "followersCount": 4503,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/2088649543797673984/7FDzeNgM_normal.jpg"
             },
-            "likeCount": 55,
-            "retweetCount": 4,
-            "replyCount": 2,
-            "viewCount": 5579,
+            "likeCount": 64,
+            "retweetCount": 5,
+            "replyCount": 3,
+            "viewCount": 7028,
             "quoteCount": 5,
             "bookmarkCount": 3,
             "media": [
@@ -212,13 +544,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16477,
+            "followersCount": 16471,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
-          "retweetCount": 9,
+          "retweetCount": 11,
           "replyCount": 0,
-          "viewCount": 39,
+          "viewCount": 40,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
@@ -244,13 +576,13 @@
               "username": "LACountyRRCC",
               "name": "Los Angeles County Registrar-Recorder/County Clerk",
               "verified": false,
-              "followersCount": 13163,
+              "followersCount": 13166,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1675910823733239812/M2cWRC3f_normal.jpg"
             },
-            "likeCount": 38,
-            "retweetCount": 9,
+            "likeCount": 47,
+            "retweetCount": 11,
             "replyCount": 4,
-            "viewCount": 4800,
+            "viewCount": 6372,
             "quoteCount": 2,
             "bookmarkCount": 2,
             "media": [
@@ -274,443 +606,11 @@
             },
             "article": null
           }
-        },
-        {
-          "id": "2119585934627000802",
-          "text": "Raman is now at 54.66% of the vote and has a lead of 9.3 pts.\n\nShe’s just shy of the 54.83% Bass received in 2022 vs Caruso. https://t.co/OhBPcYAqBa",
-          "url": "https://x.com/UnrigLA/status/2119585934627000802",
-          "lang": "en",
-          "createdAt": "2026-11-09T00:20:41.000Z",
-          "conversationId": "2119585934627000802",
-          "inReplyToId": null,
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16477,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 35,
-          "retweetCount": 1,
-          "replyCount": 1,
-          "viewCount": 1422,
-          "quoteCount": 0,
-          "bookmarkCount": 4,
-          "media": [
-            {
-              "id": "2119585928868216832",
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HWpILBkbQAAXYD-.jpg",
-              "previewImageUrl": null
-            }
-          ],
-          "entities": {
-            "hashtags": [],
-            "mentions": [],
-            "urls": []
-          },
-          "article": null,
-          "quotedPost": {
-            "id": "2119230433418457529",
-            "text": "Raman now at 54.46% w/ a lead of an almost 9 pts.\n\nRaman: +39,920 (62.96%)\nBass: +23,481 (37.04%) https://t.co/Ngacqz41mZ",
-            "url": "https://x.com/UnrigLA/status/2119230433418457529",
-            "lang": "en",
-            "createdAt": "2026-11-08T00:48:03.000Z",
-            "conversationId": "2119230433418457529",
-            "inReplyToId": null,
-            "author": {
-              "id": "1022564507971801088",
-              "username": "UnrigLA",
-              "name": "Unrig LA",
-              "verified": false,
-              "followersCount": 16477,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-            },
-            "likeCount": 129,
-            "retweetCount": 11,
-            "replyCount": 5,
-            "viewCount": 14005,
-            "quoteCount": 5,
-            "bookmarkCount": 6,
-            "media": [
-              {
-                "id": "2119230429404524544",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HWkE2O3a8AAZTfZ.jpg",
-                "previewImageUrl": null
-              }
-            ],
-            "entities": {
-              "hashtags": [],
-              "mentions": [],
-              "urls": []
-            },
-            "article": null
-          },
-          "retweetedPost": null
-        },
-        {
-          "id": "2119586398491856897",
-          "text": "Estuardo now 347 votes behind in CD 9.\nhttps://t.co/4vl298ruv3 https://t.co/gnLeltAp0D",
-          "url": "https://x.com/UnrigLA/status/2119586398491856897",
-          "lang": "en",
-          "createdAt": "2026-11-09T00:22:32.000Z",
-          "conversationId": "2119585934627000802",
-          "inReplyToId": "2119585934627000802",
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16477,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 11,
-          "retweetCount": 1,
-          "replyCount": 2,
-          "viewCount": 1467,
-          "quoteCount": 2,
-          "bookmarkCount": 1,
-          "media": [
-            {
-              "id": "2119586394494660608",
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HWpImIKa8AAOzQ7.jpg",
-              "previewImageUrl": null
-            }
-          ],
-          "entities": {
-            "hashtags": [],
-            "mentions": [],
-            "urls": [
-              "https://x.com/unrigla/status/2119231018460983423?s=46&t=QuhGjgM5a9x7OqxCWiPPgw"
-            ]
-          },
-          "article": null,
-          "quotedPost": {
-            "id": "2119231018460983423",
-            "text": "Estuardo is now 417 votes behind in CD 9.\n\nUgarte: +1,075 (44.15%)\nMazariegos: +1,360 (55.85%)\n\nGirvan: +1,706 (55.52%)\nGaspar: +1,367 (44.48%)\nhttps://t.co/BNicdrBglk https://t.co/Qj37ley8Wt",
-            "url": "https://x.com/UnrigLA/status/2119231018460983423",
-            "lang": "en",
-            "createdAt": "2026-11-08T00:50:22.000Z",
-            "conversationId": "2119230433418457529",
-            "inReplyToId": "2119230433418457529",
-            "author": {
-              "id": "1022564507971801088",
-              "username": "UnrigLA",
-              "name": "Unrig LA",
-              "verified": false,
-              "followersCount": 16477,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-            },
-            "likeCount": 23,
-            "retweetCount": 5,
-            "replyCount": 5,
-            "viewCount": 4052,
-            "quoteCount": 3,
-            "bookmarkCount": 1,
-            "media": [
-              {
-                "id": "2119231014983876608",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HWkFYUUawAA0EN4.jpg",
-                "previewImageUrl": null
-              }
-            ],
-            "entities": {
-              "hashtags": [],
-              "mentions": [],
-              "urls": [
-                "https://x.com/unrigla/status/2118963765303783926?s=46&t=QuhGjgM5a9x7OqxCWiPPgw"
-              ]
-            },
-            "article": null
-          },
-          "retweetedPost": null
-        },
-        {
-          "id": "2110519197268906446",
-          "text": "At *least* 1x a week CM Padilla finds a chance to do her Mean Girls thing and tries to bully CM Raman over something random, but using an announcement seeking to raise awareness re: info on someone’s hit and run death is a new low. https://t.co/nGnCiJkUj5",
-          "url": "https://x.com/UnrigLA/status/2110519197268906446",
-          "lang": "en",
-          "createdAt": "2026-10-14T23:52:42.000Z",
-          "conversationId": "2110519197268906446",
-          "inReplyToId": null,
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16477,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 283,
-          "retweetCount": 22,
-          "replyCount": 13,
-          "viewCount": 59853,
-          "quoteCount": 7,
-          "bookmarkCount": 61,
-          "media": [
-            {
-              "id": "2110519118881533952",
-              "type": "video",
-              "url": "https://video.twimg.com/amplify_video/2110519118881533952/vid/avc1/1270x720/PRPH3n6rkKfzt2JP.mp4?tag=29",
-              "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2110519118881533952/img/-RuBH_nVvZxlTEp6.jpg"
-            }
-          ],
-          "entities": {
-            "hashtags": [],
-            "mentions": [],
-            "urls": []
-          },
-          "article": null,
-          "quotedPost": {
-            "id": "2087607628897886652",
-            "text": "No one on the Council is doing more to publicly smear and attack Nithya than Padilla &amp; Rodriguez. It's become pretty sloppy, shameless, &amp; this is the reward. Shaking up Committees also helps MHD tend to any weaknesses on Council to ensure no one can whip up a challenge for Pres.",
-            "url": "https://x.com/UnrigLA/status/2087607628897886652",
-            "lang": "en",
-            "createdAt": "2026-08-12T18:30:19.000Z",
-            "conversationId": "2087602881595936986",
-            "inReplyToId": "2087606464634589511",
-            "author": {
-              "id": "1022564507971801088",
-              "username": "UnrigLA",
-              "name": "Unrig LA",
-              "verified": false,
-              "followersCount": 16477,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-            },
-            "likeCount": 66,
-            "retweetCount": 4,
-            "replyCount": 3,
-            "viewCount": 16295,
-            "quoteCount": 2,
-            "bookmarkCount": 4,
-            "media": [],
-            "entities": {
-              "hashtags": [],
-              "mentions": [],
-              "urls": []
-            },
-            "article": null
-          },
-          "retweetedPost": null
-        },
-        {
-          "id": "2110551689501741398",
-          "text": "Imelda Padilla is forever Nury’s girl \nhttps://t.co/kwQL7pUbxw",
-          "url": "https://x.com/UnrigLA/status/2110551689501741398",
-          "lang": "en",
-          "createdAt": "2026-10-15T02:01:49.000Z",
-          "conversationId": "2110519197268906446",
-          "inReplyToId": "2110519926754804195",
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16477,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 32,
-          "retweetCount": 0,
-          "replyCount": 1,
-          "viewCount": 2752,
-          "quoteCount": 0,
-          "bookmarkCount": 1,
-          "media": [],
-          "entities": {
-            "hashtags": [],
-            "mentions": [],
-            "urls": [
-              "https://x.com/unrigla/status/1577820853646987264?s=46&t=QuhGjgM5a9x7OqxCWiPPgw"
-            ]
-          },
-          "article": null,
-          "quotedPost": {
-            "id": "1577820853646987264",
-            "text": "This is some real Mean Girls shit @CD6Nury https://t.co/MMLYepHoBA",
-            "url": "https://x.com/UnrigLA/status/1577820853646987264",
-            "lang": "en",
-            "createdAt": "2022-10-06T00:39:40.000Z",
-            "conversationId": "1577349994830446592",
-            "inReplyToId": "1577357412796801025",
-            "author": {
-              "id": "1022564507971801088",
-              "username": "UnrigLA",
-              "name": "Unrig LA",
-              "verified": false,
-              "followersCount": 16477,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-            },
-            "likeCount": 23,
-            "retweetCount": 3,
-            "replyCount": 2,
-            "viewCount": null,
-            "quoteCount": 1,
-            "bookmarkCount": 10,
-            "media": [
-              {
-                "id": "1577820642425962496",
-                "type": "video",
-                "url": "https://video.twimg.com/ext_tw_video/1577820642425962496/pu/vid/1280x592/ESlYwAq4UG269oWw.mp4?tag=12",
-                "previewImageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1577820642425962496/pu/img/27ibY05Xwd8NfWQ8.jpg"
-              }
-            ],
-            "entities": {
-              "hashtags": [],
-              "mentions": [
-                "cd6nury"
-              ],
-              "urls": []
-            },
-            "article": null
-          },
-          "retweetedPost": null
-        },
-        {
-          "id": "2119313212621677025",
-          "text": "https://t.co/rxNqj3SNl9",
-          "url": "https://x.com/UnrigLA/status/2119313212621677025",
-          "lang": "zxx",
-          "createdAt": "2026-11-08T06:16:59.000Z",
-          "conversationId": "2110519197268906446",
-          "inReplyToId": "2110551689501741398",
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16477,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 2,
-          "retweetCount": 0,
-          "replyCount": 0,
-          "viewCount": 649,
-          "quoteCount": 0,
-          "bookmarkCount": 0,
-          "media": [],
-          "entities": {
-            "hashtags": [],
-            "mentions": [],
-            "urls": [
-              "https://x.com/unrigla/status/2113714011263152505?s=46&t=QuhGjgM5a9x7OqxCWiPPgw"
-            ]
-          },
-          "article": null,
-          "quotedPost": {
-            "id": "2113714011263152505",
-            "text": "CM Padilla goes out of her way to repeatedly turn directly to CM Raman and speak of “betrayal…evil…ingratitude…and arrogance” in City Hall. https://t.co/M10MZZ0PVh",
-            "url": "https://x.com/UnrigLA/status/2113714011263152505",
-            "lang": "en",
-            "createdAt": "2026-10-23T19:27:45.000Z",
-            "conversationId": "2113714011263152505",
-            "inReplyToId": null,
-            "author": {
-              "id": "1022564507971801088",
-              "username": "UnrigLA",
-              "name": "Unrig LA",
-              "verified": false,
-              "followersCount": 16477,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-            },
-            "likeCount": 126,
-            "retweetCount": 10,
-            "replyCount": 14,
-            "viewCount": 49138,
-            "quoteCount": 14,
-            "bookmarkCount": 36,
-            "media": [
-              {
-                "id": "2113713970964221952",
-                "type": "video",
-                "url": "https://video.twimg.com/amplify_video/2113713970964221952/vid/avc1/828x458/gPP0J6RFk1xGayST.mp4?tag=29",
-                "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2113713970964221952/img/3w0SavDIf1RTKsGC.jpg"
-              }
-            ],
-            "entities": {
-              "hashtags": [],
-              "mentions": [],
-              "urls": []
-            },
-            "article": null
-          },
-          "retweetedPost": null
-        },
-        {
-          "id": "2119230433418457529",
-          "text": "Raman now at 54.46% w/ a lead of an almost 9 pts.\n\nRaman: +39,920 (62.96%)\nBass: +23,481 (37.04%) https://t.co/Ngacqz41mZ",
-          "url": "https://x.com/UnrigLA/status/2119230433418457529",
-          "lang": "en",
-          "createdAt": "2026-11-08T00:48:03.000Z",
-          "conversationId": "2119230433418457529",
-          "inReplyToId": null,
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16477,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 129,
-          "retweetCount": 11,
-          "replyCount": 5,
-          "viewCount": 14005,
-          "quoteCount": 5,
-          "bookmarkCount": 6,
-          "media": [
-            {
-              "id": "2119230429404524544",
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HWkE2O3a8AAZTfZ.jpg",
-              "previewImageUrl": null
-            }
-          ],
-          "entities": {
-            "hashtags": [],
-            "mentions": [],
-            "urls": []
-          },
-          "article": null,
-          "quotedPost": {
-            "id": "2118963205712326921",
-            "text": "Raman now at 53.92 w/ a lead of 7.84 pts \n\nRaman: +24,681 (62.69%)\nBass: +14,692 (37.31%)",
-            "url": "https://x.com/UnrigLA/status/2118963205712326921",
-            "lang": "en",
-            "createdAt": "2026-11-07T07:06:11.000Z",
-            "conversationId": "2118963205712326921",
-            "inReplyToId": null,
-            "author": {
-              "id": "1022564507971801088",
-              "username": "UnrigLA",
-              "name": "Unrig LA",
-              "verified": false,
-              "followersCount": 16477,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-            },
-            "likeCount": 42,
-            "retweetCount": 11,
-            "replyCount": 2,
-            "viewCount": 6262,
-            "quoteCount": 1,
-            "bookmarkCount": 2,
-            "media": [],
-            "entities": {
-              "hashtags": [],
-              "mentions": [],
-              "urls": []
-            },
-            "article": null
-          },
-          "retweetedPost": null
         }
       ],
       "meta": {
-        "requestId": "63a101f5-ddce-4e7d-8465-2577f65fa4ef",
-        "nextCursor": "v2.1HZ0i7tnM45c8V0JNdPENb_06JH5RAqJ9sZcX4emeLXuXTWsqkduqyS1qjiyaCgtS-kwplbXAoFfdPVqA5c8Fttjp1OWRpQJCHsWtq-Z9b1XfjmpNUA1hr6j1uIEzA"
+        "requestId": "102c851b-2160-4aef-a4bc-3c6a8e69971b",
+        "nextCursor": "v2.k-TNm_DDjE9tTZqoHtjlg-fpqIB4AVglRYkNmh-s4tVYUfqebVP3v7KvJEiuIw6tXouDBn6YHd-F6M64GSu3qZ10sHQuq6rWpKa_yxZ6fjTxcezw-OD3xDKyTjXJIw"
       }
     }
   },
@@ -737,7 +637,7 @@
         "protected": false
       },
       "meta": {
-        "requestId": "f1b6a3fa-bb77-45f0-b5aa-44af2927b1aa"
+        "requestId": "9a2a35b6-c53c-4011-a75a-20f3ca02fba6"
       }
     },
     "posts": {
@@ -1090,7 +990,7 @@
               "username": "rooflesser",
               "name": "landless is back",
               "verified": false,
-              "followersCount": 4676,
+              "followersCount": 4678,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/2096056141210062848/_-od5EMc_normal.jpg"
             },
             "likeCount": 5,
@@ -1158,7 +1058,7 @@
               "username": "StreetsblogLA",
               "name": "StreetsblogLA",
               "verified": false,
-              "followersCount": 217769,
+              "followersCount": 217746,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1542890723/streetsblog-la-twitter_normal.png"
             },
             "likeCount": 45,
@@ -1219,8 +1119,8 @@
         }
       ],
       "meta": {
-        "requestId": "6883f361-3079-4ded-b650-08beb7ca4fd9",
-        "nextCursor": "v2.vRe-vd-SHmYVbDajzG-RzrPVhQFw4CLP1f--QfOMPT3pM18eJjJGlngjOji7VtGu-KheqGUNMB5CX-IXoIPE_f3ioWFJzsbzaPbtBMW34XEAsdezRFGfok0uH0boIA"
+        "requestId": "e50914cf-0ea3-46c7-8dab-b89f5e05a94f",
+        "nextCursor": "v2.0Nwmh01VBaga_5VqjFWXe4cgTpYxBeb3Ic5lNf5jv6-RIGEL_suxDbUR3qPkw7A7Vd6fQQVwTc23YOs9MOvmWUcdRJMU0Io0pCrcWBi71NqJ6dZaJtW2-nd40PHShA"
       }
     }
   }
