@@ -11,10 +11,10 @@
         "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1022564507971801088/1611270110",
         "location": "Los Angeles, CA",
         "verified": false,
-        "followersCount": 16601,
+        "followersCount": 16608,
         "followingCount": 987,
-        "statusesCount": 30709,
-        "likeCount": 87119,
+        "statusesCount": 30735,
+        "likeCount": 87207,
         "createdAt": "2018-07-26T19:29:11.000Z",
         "pinnedPostIds": [
           "1938684970152927421"
@@ -22,7 +22,7 @@
         "protected": false
       },
       "meta": {
-        "requestId": "627b2f70-9e9c-46fb-8171-87432b2d9d4a"
+        "requestId": "6853f38a-ed0d-4633-802a-9705cf7050ae"
       }
     },
     "posts": {
@@ -40,13 +40,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16601,
+            "followersCount": 16608,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 378,
           "retweetCount": 66,
           "replyCount": 25,
-          "viewCount": 98298,
+          "viewCount": 98600,
           "quoteCount": 8,
           "bookmarkCount": 23,
           "media": [
@@ -67,216 +67,71 @@
           "retweetedPost": null
         },
         {
-          "id": "2120589463055470706",
-          "text": "RT @PokiJaciii: https://t.co/lCXO9EcKH7",
-          "url": "https://x.com/UnrigLA/status/2120589463055470706",
+          "id": "2120716704145871136",
+          "text": "RT @amywiwuga: https://t.co/mrZXzQcv4i",
+          "url": "https://x.com/UnrigLA/status/2120716704145871136",
           "lang": "zxx",
-          "createdAt": "2026-11-11T18:48:21.000Z",
-          "conversationId": "2120589463055470706",
+          "createdAt": "2026-11-12T03:13:57.000Z",
+          "conversationId": "2120716704145871136",
           "inReplyToId": null,
           "author": {
             "id": "1022564507971801088",
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16601,
+            "followersCount": 16608,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
-          "retweetCount": 5,
+          "retweetCount": 3,
           "replyCount": 0,
-          "viewCount": 35,
+          "viewCount": 48,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [
             {
-              "id": "2120284329981149184",
+              "id": "2120715603837337600",
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HWzDXUdagAA_IHa.png",
+              "url": "https://pbs.twimg.com/media/HW5LmwxaQAAnRqP.jpg",
               "previewImageUrl": null
             }
           ],
           "entities": {
             "hashtags": [],
             "mentions": [
-              "PokiJaciii"
+              "amywiwuga"
             ],
             "urls": []
           },
           "article": null,
           "quotedPost": null,
           "retweetedPost": {
-            "id": "2120284411535257820",
-            "text": "https://t.co/lCXO9EcKH7",
-            "url": "https://x.com/PokiJaciii/status/2120284411535257820",
+            "id": "2120715607369015705",
+            "text": "https://t.co/mrZXzQcv4i",
+            "url": "https://x.com/amywiwuga/status/2120715607369015705",
             "lang": "zxx",
-            "createdAt": "2026-11-10T22:36:11.000Z",
-            "conversationId": "2120284411535257820",
+            "createdAt": "2026-11-12T03:09:36.000Z",
+            "conversationId": "2120715607369015705",
             "inReplyToId": null,
             "author": {
-              "id": "1514764194805035042",
-              "username": "PokiJaciii",
-              "name": "♊︎ 𝓙𝓪𝓬𝓲 🧋🌴💙",
-              "verified": true,
-              "followersCount": 6817,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/2116949143403073536/wejGRmFd_normal.jpg"
-            },
-            "likeCount": 73,
-            "retweetCount": 5,
-            "replyCount": 2,
-            "viewCount": 1468,
-            "quoteCount": 0,
-            "bookmarkCount": 3,
-            "media": [
-              {
-                "id": "2120284329981149184",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HWzDXUdagAA_IHa.png",
-                "previewImageUrl": null
-              }
-            ],
-            "entities": {
-              "hashtags": [],
-              "mentions": [],
-              "urls": []
-            },
-            "article": null
-          }
-        },
-        {
-          "id": "2120576256840438176",
-          "text": "RT @SusanESeager: @latimes says there were “accusations of journalists being targeted” by LAPD during anti-ICE protests.  What?? A federal…",
-          "url": "https://x.com/UnrigLA/status/2120576256840438176",
-          "lang": "en",
-          "createdAt": "2026-11-11T17:55:52.000Z",
-          "conversationId": "2120576256840438176",
-          "inReplyToId": null,
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16601,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 0,
-          "retweetCount": 6,
-          "replyCount": 0,
-          "viewCount": 39,
-          "quoteCount": 0,
-          "bookmarkCount": 0,
-          "media": [],
-          "entities": {
-            "hashtags": [],
-            "mentions": [
-              "SusanESeager",
-              "latimes"
-            ],
-            "urls": []
-          },
-          "article": null,
-          "quotedPost": null,
-          "retweetedPost": {
-            "id": "2120542883338207383",
-            "text": "@latimes says there were “accusations of journalists being targeted” by LAPD during anti-ICE protests.  What?? A federal judge ruled that reporters WERE illegally targeted by the LAPD and issued an injunction banning cops from shooting reporters.  https://t.co/Imk3v9IYLg 1/",
-            "url": "https://x.com/SusanESeager/status/2120542883338207383",
-            "lang": "en",
-            "createdAt": "2026-11-11T15:43:15.000Z",
-            "conversationId": "2120542883338207383",
-            "inReplyToId": null,
-            "author": {
-              "id": "78671044",
-              "username": "SusanESeager",
-              "name": "Susan E. Seager",
+              "id": "20467920",
+              "username": "amywiwuga",
+              "name": "Amy Wiwuga",
               "verified": false,
-              "followersCount": 1343,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1599194458938953729/b6Xwvz4K_normal.jpg"
+              "followersCount": 2062,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1788076786506665984/TD1p1Kv0_normal.jpg"
             },
-            "likeCount": 5,
-            "retweetCount": 6,
+            "likeCount": 26,
+            "retweetCount": 3,
             "replyCount": 2,
-            "viewCount": 558,
-            "quoteCount": 0,
-            "bookmarkCount": 1,
-            "media": [],
-            "entities": {
-              "hashtags": [],
-              "mentions": [
-                "latimes"
-              ],
-              "urls": [
-                "https://www.latimes.com/california/story/2026-11-11/nithya-ramans-election-lapd-future"
-              ]
-            },
-            "article": null
-          }
-        },
-        {
-          "id": "2120422999367287030",
-          "text": "RT @PokiJaciii: VOTER ID PROP 39 NOW FAILING IN OC LMFAOOOOOOOOOOOOOOOOOOOOOOOOOO https://t.co/sravmIuuHZ",
-          "url": "https://x.com/UnrigLA/status/2120422999367287030",
-          "lang": "en",
-          "createdAt": "2026-11-11T07:46:53.000Z",
-          "conversationId": "2120422999367287030",
-          "inReplyToId": null,
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16601,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 0,
-          "retweetCount": 11,
-          "replyCount": 0,
-          "viewCount": 56,
-          "quoteCount": 0,
-          "bookmarkCount": 0,
-          "media": [
-            {
-              "id": "2120322468921614336",
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HWzmDTFaIAAlSKk.png",
-              "previewImageUrl": null
-            }
-          ],
-          "entities": {
-            "hashtags": [],
-            "mentions": [
-              "PokiJaciii"
-            ],
-            "urls": []
-          },
-          "article": null,
-          "quotedPost": null,
-          "retweetedPost": {
-            "id": "2120322521287598558",
-            "text": "VOTER ID PROP 39 NOW FAILING IN OC LMFAOOOOOOOOOOOOOOOOOOOOOOOOOO https://t.co/sravmIuuHZ",
-            "url": "https://x.com/PokiJaciii/status/2120322521287598558",
-            "lang": "en",
-            "createdAt": "2026-11-11T01:07:37.000Z",
-            "conversationId": "2120322521287598558",
-            "inReplyToId": null,
-            "author": {
-              "id": "1514764194805035042",
-              "username": "PokiJaciii",
-              "name": "♊︎ 𝓙𝓪𝓬𝓲 🧋🌴💙",
-              "verified": true,
-              "followersCount": 6817,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/2116949143403073536/wejGRmFd_normal.jpg"
-            },
-            "likeCount": 114,
-            "retweetCount": 11,
-            "replyCount": 0,
-            "viewCount": 3250,
-            "quoteCount": 2,
-            "bookmarkCount": 5,
+            "viewCount": 977,
+            "quoteCount": 1,
+            "bookmarkCount": 0,
             "media": [
               {
-                "id": "2120322468921614336",
+                "id": "2120715603837337600",
                 "type": "photo",
-                "url": "https://pbs.twimg.com/media/HWzmDTFaIAAlSKk.png",
+                "url": "https://pbs.twimg.com/media/HW5LmwxaQAAnRqP.jpg",
                 "previewImageUrl": null
               }
             ],
@@ -289,23 +144,23 @@
           }
         },
         {
-          "id": "2120400260627599775",
-          "text": "RT @FilmThePoliceLA: This is crazy work.",
-          "url": "https://x.com/UnrigLA/status/2120400260627599775",
+          "id": "2120711090451661300",
+          "text": "RT @UCLADodgerFrank: \"Thank God it was only vendors and not regular Metro patrons or pedestrians.\"-Padilla",
+          "url": "https://x.com/UnrigLA/status/2120711090451661300",
           "lang": "en",
-          "createdAt": "2026-11-11T06:16:31.000Z",
-          "conversationId": "2120400260627599775",
+          "createdAt": "2026-11-12T02:51:39.000Z",
+          "conversationId": "2120711090451661300",
           "inReplyToId": null,
           "author": {
             "id": "1022564507971801088",
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16601,
+            "followersCount": 16608,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
-          "retweetCount": 5,
+          "retweetCount": 4,
           "replyCount": 0,
           "viewCount": 48,
           "quoteCount": 0,
@@ -314,34 +169,34 @@
           "entities": {
             "hashtags": [],
             "mentions": [
-              "FilmThePoliceLA"
+              "UCLADodgerFrank"
             ],
             "urls": []
           },
           "article": null,
           "quotedPost": null,
           "retweetedPost": {
-            "id": "2120374005589057689",
-            "text": "This is crazy work.",
-            "url": "https://x.com/FilmThePoliceLA/status/2120374005589057689",
+            "id": "2120710775807570312",
+            "text": "\"Thank God it was only vendors and not regular Metro patrons or pedestrians.\"-Padilla",
+            "url": "https://x.com/UCLADodgerFrank/status/2120710775807570312",
             "lang": "en",
-            "createdAt": "2026-11-11T04:32:12.000Z",
-            "conversationId": "2120374005589057689",
+            "createdAt": "2026-11-12T02:50:24.000Z",
+            "conversationId": "2120710775807570312",
             "inReplyToId": null,
             "author": {
-              "id": "16858860",
-              "username": "FilmThePoliceLA",
-              "name": "Film The Police LA",
-              "verified": true,
-              "followersCount": 97036,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1350144666277040131/8dyEZCIy_normal.jpg"
+              "id": "36114698",
+              "username": "UCLADodgerFrank",
+              "name": "Frank Ojeda",
+              "verified": false,
+              "followersCount": 1311,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1924143889998327808/_bsmzDf5_normal.jpg"
             },
-            "likeCount": 102,
-            "retweetCount": 5,
-            "replyCount": 0,
-            "viewCount": 6967,
+            "likeCount": 16,
+            "retweetCount": 4,
+            "replyCount": 1,
+            "viewCount": 494,
             "quoteCount": 0,
-            "bookmarkCount": 5,
+            "bookmarkCount": 0,
             "media": [],
             "entities": {
               "hashtags": [],
@@ -352,71 +207,64 @@
           }
         },
         {
-          "id": "2120395790522990949",
-          "text": "RT @UnrigLA: Before anyone reads anything into CM Park not being there today, she is in DC https://t.co/5n2OFqeozQ",
-          "url": "https://x.com/UnrigLA/status/2120395790522990949",
+          "id": "2120693129464700931",
+          "text": "RT @rpyers: 🙃Lucille Bluth's Assembly district will be represented by a candidate who was enthusiastically recommended by the Orange County…",
+          "url": "https://x.com/UnrigLA/status/2120693129464700931",
           "lang": "en",
-          "createdAt": "2026-11-11T05:58:46.000Z",
-          "conversationId": "2120395790522990949",
+          "createdAt": "2026-11-12T01:40:17.000Z",
+          "conversationId": "2120693129464700931",
           "inReplyToId": null,
           "author": {
             "id": "1022564507971801088",
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16601,
+            "followersCount": 16608,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
-          "retweetCount": 2,
+          "retweetCount": 25,
           "replyCount": 0,
-          "viewCount": null,
+          "viewCount": 48,
           "quoteCount": 0,
           "bookmarkCount": 0,
-          "media": [
-            {
-              "id": "2120234641852608512",
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HWyWLFwaMAA7lI_.jpg",
-              "previewImageUrl": null
-            }
-          ],
+          "media": [],
           "entities": {
             "hashtags": [],
             "mentions": [
-              "UnrigLA"
+              "rpyers"
             ],
             "urls": []
           },
           "article": null,
           "quotedPost": null,
           "retweetedPost": {
-            "id": "2120234645635916279",
-            "text": "Before anyone reads anything into CM Park not being there today, she is in DC https://t.co/5n2OFqeozQ",
-            "url": "https://x.com/UnrigLA/status/2120234645635916279",
+            "id": "2120690233880760829",
+            "text": "🙃Lucille Bluth's Assembly district will be represented by a candidate who was enthusiastically recommended by the Orange County DSA, anticipating that 'if elected, he would easily be one of, if not the most progressive member of the State Assembly' in their glowing write-up. https://t.co/6aCBTCVxTm",
+            "url": "https://x.com/rpyers/status/2120690233880760829",
             "lang": "en",
-            "createdAt": "2026-11-10T19:18:26.000Z",
-            "conversationId": "2120234645635916279",
+            "createdAt": "2026-11-12T01:28:46.000Z",
+            "conversationId": "2120690233880760829",
             "inReplyToId": null,
             "author": {
-              "id": "1022564507971801088",
-              "username": "UnrigLA",
-              "name": "Unrig LA",
-              "verified": false,
-              "followersCount": 16601,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+              "id": "158901399",
+              "username": "rpyers",
+              "name": "Rob Pyers",
+              "verified": true,
+              "followersCount": 31599,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/647461580582490112/VG5TxEdC_normal.jpg"
             },
-            "likeCount": 10,
-            "retweetCount": 2,
-            "replyCount": 1,
-            "viewCount": 2066,
-            "quoteCount": 0,
-            "bookmarkCount": 0,
+            "likeCount": 170,
+            "retweetCount": 25,
+            "replyCount": 10,
+            "viewCount": 9835,
+            "quoteCount": 5,
+            "bookmarkCount": 25,
             "media": [
               {
-                "id": "2120234641852608512",
+                "id": "2120689431619448832",
                 "type": "photo",
-                "url": "https://pbs.twimg.com/media/HWyWLFwaMAA7lI_.jpg",
+                "url": "https://pbs.twimg.com/media/HW4zzVqaMAAkcj1.png",
                 "previewImageUrl": null
               }
             ],
@@ -429,32 +277,297 @@
           }
         },
         {
-          "id": "2120267624043180538",
-          "text": "Put it in the Louvre https://t.co/INgvtDn5Z5",
-          "url": "https://x.com/UnrigLA/status/2120267624043180538",
-          "lang": "fr",
-          "createdAt": "2026-11-10T21:29:28.000Z",
-          "conversationId": "2120267624043180538",
+          "id": "2120691276320550914",
+          "text": "RT @PokiJaciii: NEW AD72 DROP:      \nKLUWE🔵 +3,093\nVAN DER MARK🔴 +2,350\n\nCHRIS KLUWE HAS TAKEN THE LEAD!!!!!!!!!!",
+          "url": "https://x.com/UnrigLA/status/2120691276320550914",
+          "lang": "nl",
+          "createdAt": "2026-11-12T01:32:55.000Z",
+          "conversationId": "2120691276320550914",
           "inReplyToId": null,
           "author": {
             "id": "1022564507971801088",
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16601,
+            "followersCount": 16608,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
-          "likeCount": 1253,
-          "retweetCount": 92,
-          "replyCount": 24,
-          "viewCount": 70272,
-          "quoteCount": 8,
-          "bookmarkCount": 85,
+          "likeCount": 0,
+          "retweetCount": 21,
+          "replyCount": 0,
+          "viewCount": 51,
+          "quoteCount": 0,
+          "bookmarkCount": 0,
+          "media": [],
+          "entities": {
+            "hashtags": [],
+            "mentions": [
+              "PokiJaciii"
+            ],
+            "urls": []
+          },
+          "article": null,
+          "quotedPost": null,
+          "retweetedPost": {
+            "id": "2120683690049273885",
+            "text": "NEW AD72 DROP:      \nKLUWE🔵 +3,093\nVAN DER MARK🔴 +2,350\n\nCHRIS KLUWE HAS TAKEN THE LEAD!!!!!!!!!!",
+            "url": "https://x.com/PokiJaciii/status/2120683690049273885",
+            "lang": "nl",
+            "createdAt": "2026-11-12T01:02:46.000Z",
+            "conversationId": "2120683690049273885",
+            "inReplyToId": null,
+            "author": {
+              "id": "1514764194805035042",
+              "username": "PokiJaciii",
+              "name": "♊︎ 𝓙𝓪𝓬𝓲 🧋🌴💙",
+              "verified": true,
+              "followersCount": 6830,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/2116949143403073536/wejGRmFd_normal.jpg"
+            },
+            "likeCount": 145,
+            "retweetCount": 21,
+            "replyCount": 12,
+            "viewCount": 6559,
+            "quoteCount": 6,
+            "bookmarkCount": 8,
+            "media": [],
+            "entities": {
+              "hashtags": [],
+              "mentions": [],
+              "urls": []
+            },
+            "article": null
+          }
+        },
+        {
+          "id": "2120690787268821249",
+          "text": "RT @ZavalaA: Taking a live look at California— where quibbling over Xavier Becerra’s new bear logo is underway: https://t.co/To3O41yyN0",
+          "url": "https://x.com/UnrigLA/status/2120690787268821249",
+          "lang": "en",
+          "createdAt": "2026-11-12T01:30:58.000Z",
+          "conversationId": "2120690787268821249",
+          "inReplyToId": null,
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16608,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 0,
+          "retweetCount": 11,
+          "replyCount": 0,
+          "viewCount": 43,
+          "quoteCount": 0,
+          "bookmarkCount": 0,
           "media": [
             {
-              "id": "2120267620465491968",
+              "id": "2120685155279077376",
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HWy0KsqbwAAdX06.jpg",
+              "url": "https://pbs.twimg.com/media/HW4v6bDagAAI2Q8.jpg",
+              "previewImageUrl": null
+            },
+            {
+              "id": "2120685155274907648",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HW4v6bCa4AAKZVC.jpg",
+              "previewImageUrl": null
+            },
+            {
+              "id": "2120685155304280064",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HW4v6bJbEAAA-7o.jpg",
+              "previewImageUrl": null
+            },
+            {
+              "id": "2120685155300048896",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HW4v6bIagAA4Nst.jpg",
+              "previewImageUrl": null
+            }
+          ],
+          "entities": {
+            "hashtags": [],
+            "mentions": [
+              "ZavalaA"
+            ],
+            "urls": []
+          },
+          "article": null,
+          "quotedPost": null,
+          "retweetedPost": {
+            "id": "2120685157816717478",
+            "text": "Taking a live look at California— where quibbling over Xavier Becerra’s new bear logo is underway: https://t.co/To3O41yyN0",
+            "url": "https://x.com/ZavalaA/status/2120685157816717478",
+            "lang": "en",
+            "createdAt": "2026-11-12T01:08:36.000Z",
+            "conversationId": "2120685157816717478",
+            "inReplyToId": null,
+            "author": {
+              "id": "47337027",
+              "username": "ZavalaA",
+              "name": "Ashley Zavala",
+              "verified": true,
+              "followersCount": 59390,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1547270881704939520/rGP1wVYx_normal.jpg"
+            },
+            "likeCount": 75,
+            "retweetCount": 11,
+            "replyCount": 53,
+            "viewCount": 20112,
+            "quoteCount": 8,
+            "bookmarkCount": 12,
+            "media": [
+              {
+                "id": "2120685155279077376",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HW4v6bDagAAI2Q8.jpg",
+                "previewImageUrl": null
+              },
+              {
+                "id": "2120685155274907648",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HW4v6bCa4AAKZVC.jpg",
+                "previewImageUrl": null
+              },
+              {
+                "id": "2120685155304280064",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HW4v6bJbEAAA-7o.jpg",
+                "previewImageUrl": null
+              },
+              {
+                "id": "2120685155300048896",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HW4v6bIagAA4Nst.jpg",
+                "previewImageUrl": null
+              }
+            ],
+            "entities": {
+              "hashtags": [],
+              "mentions": [],
+              "urls": []
+            },
+            "article": null
+          }
+        },
+        {
+          "id": "2120661551921475870",
+          "text": "DUI driver runs onto the sidewalk, killing 3 people, and Padilla is hung up on where the street vendors were. https://t.co/W8hFwjInh3",
+          "url": "https://x.com/UnrigLA/status/2120661551921475870",
+          "lang": "en",
+          "createdAt": "2026-11-11T23:34:48.000Z",
+          "conversationId": "2120661551921475870",
+          "inReplyToId": null,
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16608,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 732,
+          "retweetCount": 59,
+          "replyCount": 15,
+          "viewCount": 43995,
+          "quoteCount": 6,
+          "bookmarkCount": 60,
+          "media": [
+            {
+              "id": "2120661548402417664",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HW4acUlbIAAzs0-.jpg",
+              "previewImageUrl": null
+            },
+            {
+              "id": "2120661548394020864",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HW4acUjbAAAsNWK.jpg",
+              "previewImageUrl": null
+            }
+          ],
+          "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+          },
+          "article": null,
+          "quotedPost": {
+            "id": "2120615699295195169",
+            "text": "🚨UPDATE – #NORTHHOLLYWOOD: 61-year-old Ihor Demianenko was arrested on suspicion of DUI and is being held on more than $6 million bail following Tuesday evening’s horrific crash that killed three women and injured two others.\n\nDemianenko has been additionally charge with three counts of murder after his Toyota Sienna slammed into pedestrians and street vendors near Lankershim and Chandler boulevards.\n\nThe victims were identified as three women, ages 40, 53 and 69. Two additional women were hospitalized.",
+            "url": "https://x.com/CodeThreeNews/status/2120615699295195169",
+            "lang": "en",
+            "createdAt": "2026-11-11T20:32:36.000Z",
+            "conversationId": "2120615699295195169",
+            "inReplyToId": null,
+            "author": {
+              "id": "1980202000341176320",
+              "username": "CodeThreeNews",
+              "name": "CodeThreeNews",
+              "verified": true,
+              "followersCount": 9815,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/2116062125559005185/FsbNS3wS_normal.jpg"
+            },
+            "likeCount": 134,
+            "retweetCount": 20,
+            "replyCount": 18,
+            "viewCount": 53864,
+            "quoteCount": 4,
+            "bookmarkCount": 21,
+            "media": [
+              {
+                "id": "2120615695763533824",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HW3wvWMacAA1_oY.jpg",
+                "previewImageUrl": null
+              }
+            ],
+            "entities": {
+              "hashtags": [
+                "NORTHHOLLYWOOD"
+              ],
+              "mentions": [],
+              "urls": []
+            },
+            "article": null
+          },
+          "retweetedPost": null
+        },
+        {
+          "id": "2120671023905566821",
+          "text": "And no, there’s nothing else in there on traffic safety other than allowing the scene to be processed. https://t.co/6QKHoxCOv9",
+          "url": "https://x.com/UnrigLA/status/2120671023905566821",
+          "lang": "en",
+          "createdAt": "2026-11-12T00:12:26.000Z",
+          "conversationId": "2120661551921475870",
+          "inReplyToId": "2120661551921475870",
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16608,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 32,
+          "retweetCount": 1,
+          "replyCount": 1,
+          "viewCount": 2305,
+          "quoteCount": 0,
+          "bookmarkCount": 1,
+          "media": [
+            {
+              "id": "2120671018960465920",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HW4jDlKasAAC-dq.jpg",
+              "previewImageUrl": null
+            },
+            {
+              "id": "2120671018939543552",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HW4jDlFbcAAyG_9.jpg",
               "previewImageUrl": null
             }
           ],
@@ -468,27 +581,27 @@
           "retweetedPost": null
         },
         {
-          "id": "2120337365382361092",
-          "text": "Who did it better? https://t.co/UTFPeFBB80",
-          "url": "https://x.com/UnrigLA/status/2120337365382361092",
+          "id": "2120658199066116129",
+          "text": "RT @UnrigLA: Who did it better? https://t.co/UTFPeFBB80",
+          "url": "https://x.com/UnrigLA/status/2120658199066116129",
           "lang": "en",
-          "createdAt": "2026-11-11T02:06:36.000Z",
-          "conversationId": "2120267624043180538",
-          "inReplyToId": "2120268217247785396",
+          "createdAt": "2026-11-11T23:21:29.000Z",
+          "conversationId": "2120658199066116129",
+          "inReplyToId": null,
           "author": {
             "id": "1022564507971801088",
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16601,
+            "followersCount": 16608,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
-          "likeCount": 104,
-          "retweetCount": 6,
-          "replyCount": 3,
-          "viewCount": 2619,
+          "likeCount": 0,
+          "retweetCount": 8,
+          "replyCount": 0,
+          "viewCount": null,
           "quoteCount": 0,
-          "bookmarkCount": 3,
+          "bookmarkCount": 0,
           "media": [
             {
               "id": "2120337360282144768",
@@ -505,89 +618,85 @@
           ],
           "entities": {
             "hashtags": [],
-            "mentions": [],
+            "mentions": [
+              "UnrigLA"
+            ],
             "urls": []
           },
           "article": null,
           "quotedPost": null,
-          "retweetedPost": null
-        },
-        {
-          "id": "2120393740535857642",
-          "text": "If you'd like to enjoy a higher quality pic:  \nhttps://t.co/zMQAkgZbY8\n\nIf you'd like to support the photographer, who regularly captures lovely moments like these at City Hall and elsewhere:\nhttps://t.co/IVMeQsL6cd https://t.co/UJZn1H3Wsr",
-          "url": "https://x.com/UnrigLA/status/2120393740535857642",
-          "lang": "en",
-          "createdAt": "2026-11-11T05:50:37.000Z",
-          "conversationId": "2120267624043180538",
-          "inReplyToId": "2120337365382361092",
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16601,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 14,
-          "retweetCount": 1,
-          "replyCount": 1,
-          "viewCount": 1280,
-          "quoteCount": 0,
-          "bookmarkCount": 1,
-          "media": [
-            {
-              "id": "2120393303715950592",
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HW0mebQbMAAfgia.jpg",
-              "previewImageUrl": null
+          "retweetedPost": {
+            "id": "2120337365382361092",
+            "text": "Who did it better? https://t.co/UTFPeFBB80",
+            "url": "https://x.com/UnrigLA/status/2120337365382361092",
+            "lang": "en",
+            "createdAt": "2026-11-11T02:06:36.000Z",
+            "conversationId": "2120267624043180538",
+            "inReplyToId": "2120268217247785396",
+            "author": {
+              "id": "1022564507971801088",
+              "username": "UnrigLA",
+              "name": "Unrig LA",
+              "verified": false,
+              "followersCount": 16608,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
             },
-            {
-              "id": "2120393336469196800",
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HW0mgVRaEAA-hs6.png",
-              "previewImageUrl": null
-            }
-          ],
-          "entities": {
-            "hashtags": [],
-            "mentions": [],
-            "urls": [
-              "https://www.reddit.com/r/LosAngeles/comments/1xt8mds/oc_photos_and_takeaways_from_todays_la_city/",
-              "https://linktr.ee/ericanders"
-            ]
-          },
-          "article": null,
-          "quotedPost": null,
-          "retweetedPost": null
+            "likeCount": 134,
+            "retweetCount": 8,
+            "replyCount": 3,
+            "viewCount": 3389,
+            "quoteCount": 0,
+            "bookmarkCount": 2,
+            "media": [
+              {
+                "id": "2120337360282144768",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HWzzmFubUAAdzRi.jpg",
+                "previewImageUrl": null
+              },
+              {
+                "id": "2120337360240164864",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HWzzmFkawAAr-N0.jpg",
+                "previewImageUrl": null
+              }
+            ],
+            "entities": {
+              "hashtags": [],
+              "mentions": [],
+              "urls": []
+            },
+            "article": null
+          }
         },
         {
-          "id": "2120239948414808099",
-          "text": "“…some of your podcast friends, in the past, have made fun of me…” https://t.co/zdClV03GN3",
-          "url": "https://x.com/UnrigLA/status/2120239948414808099",
+          "id": "2120658145634844789",
+          "text": "Throwback to when Padilla proclaimed “I’m the one that made it cool to say I’m an LAUSD alum.” https://t.co/28n26c134v",
+          "url": "https://x.com/UnrigLA/status/2120658145634844789",
           "lang": "en",
-          "createdAt": "2026-11-10T19:39:30.000Z",
-          "conversationId": "2120239948414808099",
+          "createdAt": "2026-11-11T23:21:16.000Z",
+          "conversationId": "2120658145634844789",
           "inReplyToId": null,
           "author": {
             "id": "1022564507971801088",
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16601,
+            "followersCount": 16608,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
-          "likeCount": 107,
-          "retweetCount": 5,
+          "likeCount": 78,
+          "retweetCount": 0,
           "replyCount": 9,
-          "viewCount": 37251,
-          "quoteCount": 10,
-          "bookmarkCount": 48,
+          "viewCount": 5067,
+          "quoteCount": 0,
+          "bookmarkCount": 18,
           "media": [
             {
-              "id": "2120239920027664384",
+              "id": "2120658121333051392",
               "type": "video",
-              "url": "https://video.twimg.com/amplify_video/2120239920027664384/vid/avc1/1280x716/EHPnoGWOEOCgk6Ja.mp4?tag=29",
-              "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2120239920027664384/img/hAM8fOjgJe3oUEOJ.jpg"
+              "url": "https://video.twimg.com/amplify_video/2120658121333051392/vid/avc1/822x462/galHFkRa5j2LGJXL.mp4?tag=29",
+              "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2120658121333051392/img/OvvZKc1M6ChshrfE.jpg"
             }
           ],
           "entities": {
@@ -596,13 +705,49 @@
             "urls": []
           },
           "article": null,
-          "quotedPost": null,
+          "quotedPost": {
+            "id": "2120242593284100460",
+            "text": "Here’s Padilla’s full remarks. She spends the vast majority of the time doing what she does best, making it about herself.\n\nVery normal for Padilla when “honoring” someone, but she really outdid herself this time. https://t.co/sspdtftgq0",
+            "url": "https://x.com/UnrigLA/status/2120242593284100460",
+            "lang": "en",
+            "createdAt": "2026-11-10T19:50:01.000Z",
+            "conversationId": "2120239948414808099",
+            "inReplyToId": "2120239948414808099",
+            "author": {
+              "id": "1022564507971801088",
+              "username": "UnrigLA",
+              "name": "Unrig LA",
+              "verified": false,
+              "followersCount": 16608,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+            },
+            "likeCount": 163,
+            "retweetCount": 7,
+            "replyCount": 25,
+            "viewCount": 45466,
+            "quoteCount": 18,
+            "bookmarkCount": 56,
+            "media": [
+              {
+                "id": "2120242326614482944",
+                "type": "video",
+                "url": "https://video.twimg.com/amplify_video/2120242326614482944/vid/avc1/1280x720/nRasN-BzIr8cG79b.mp4?tag=29",
+                "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2120242326614482944/img/UpwqgZrHrUFNyN9X.jpg"
+              }
+            ],
+            "entities": {
+              "hashtags": [],
+              "mentions": [],
+              "urls": []
+            },
+            "article": null
+          },
           "retweetedPost": null
         }
       ],
       "meta": {
-        "requestId": "eb3be668-16dc-4a82-a6bb-ac8ae5d4ab39",
-        "nextCursor": "v2.utxjqYP4fS7J5rAEno-4GQktAzotoBKCZ0qmOf6efW-NtaX_fgRNE5jJXvjfFx6_X8o7eesJERsFJlalniSuKS-qVTydrOzFi8sfyrVXlksqcRPKyZyxQDK7JNFYQg"
+        "requestId": "1f5827f8-8942-4a27-bb42-76c4e5932d5f",
+        "nextCursor": "v2.4VS_k3189ctUTL4ZLEJo26Vx-n7f13oyakKHou4YXAev4wGiWzXrFJdOT9xuFmmH2d55x8WzipMTSzJ57v5bIyM7980o4nC5yhBD3-akIFMGY_CzG_g1YL9D-UfB5A"
       }
     }
   },
@@ -629,7 +774,7 @@
         "protected": false
       },
       "meta": {
-        "requestId": "9a6ac638-9221-455c-809d-9392056932a2"
+        "requestId": "9fcb777d-e7f9-4bbc-a2cb-633915baf3c6"
       }
     },
     "posts": {
@@ -735,7 +880,7 @@
           "likeCount": 17,
           "retweetCount": 5,
           "replyCount": 1,
-          "viewCount": 2852,
+          "viewCount": 2853,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
@@ -982,7 +1127,7 @@
               "username": "rooflesser",
               "name": "landless is back",
               "verified": false,
-              "followersCount": 4681,
+              "followersCount": 4680,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/2096056141210062848/_-od5EMc_normal.jpg"
             },
             "likeCount": 5,
@@ -1050,7 +1195,7 @@
               "username": "StreetsblogLA",
               "name": "StreetsblogLA",
               "verified": false,
-              "followersCount": 217648,
+              "followersCount": 217527,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1542890723/streetsblog-la-twitter_normal.png"
             },
             "likeCount": 45,
@@ -1111,8 +1256,8 @@
         }
       ],
       "meta": {
-        "requestId": "1e45376d-218a-4b6c-9505-6c83648054fb",
-        "nextCursor": "v2.qzk-EPWT_O-kK5Y0momEEP_XgO9WyKjjPLs6FGfF6CkeSjbeRZzQb3N9-LuTcpzF0adLZkTynaDjQZ7NcKBNMgAdHP8kqaSemHKZUnX7PsmwyBnuzfNTwMeSVBSCoA"
+        "requestId": "3614552c-5151-4820-a48c-acb040712047",
+        "nextCursor": "v2.cj9nGHB-McaFnj-7QtZo5Kvs85YRm9F-_0K-4Zu29EpVrr0R1ZSU_kdt07esHs5bZrNbt4QJxRWxEbbfCX11nwj5T4zV_FYxZRkmcnTKpFOoxlqrP1q18dzKElnxaQ"
       }
     }
   }
