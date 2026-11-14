@@ -12,9 +12,9 @@
         "location": "Los Angeles, CA",
         "verified": false,
         "followersCount": 16603,
-        "followingCount": 987,
-        "statusesCount": 30769,
-        "likeCount": 87298,
+        "followingCount": 985,
+        "statusesCount": 30787,
+        "likeCount": 87323,
         "createdAt": "2018-07-26T19:29:11.000Z",
         "pinnedPostIds": [
           "1938684970152927421"
@@ -22,7 +22,7 @@
         "protected": false
       },
       "meta": {
-        "requestId": "eada7379-5c54-4649-8248-7f0d26385320"
+        "requestId": "aaca36fc-75f4-4381-bb2b-8b2e50a6c024"
       }
     },
     "posts": {
@@ -43,10 +43,10 @@
             "followersCount": 16603,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
-          "likeCount": 380,
+          "likeCount": 381,
           "retweetCount": 66,
           "replyCount": 25,
-          "viewCount": 98874,
+          "viewCount": 99115,
           "quoteCount": 8,
           "bookmarkCount": 23,
           "media": [
@@ -67,12 +67,12 @@
           "retweetedPost": null
         },
         {
-          "id": "2121327005895741654",
-          "text": "RT @reporterliz: Politics starts in the \"housekeeping matters,\" and Rob Quan of @UnrigLA (who's endured two charter panels not acting) got…",
-          "url": "https://x.com/UnrigLA/status/2121327005895741654",
+          "id": "2121439472680395035",
+          "text": "RT @Acyn: WOW MULLIN SAYS THE UPGRADES DUFFY PUT IN CAUSED THE OUTAGE\n\n“The new technology was overwhelming the older system” https://t.co/…",
+          "url": "https://x.com/UnrigLA/status/2121439472680395035",
           "lang": "en",
-          "createdAt": "2026-11-13T19:39:05.000Z",
-          "conversationId": "2121327005895741654",
+          "createdAt": "2026-11-14T03:05:59.000Z",
+          "conversationId": "2121439472680395035",
           "inReplyToId": null,
           "author": {
             "id": "1022564507971801088",
@@ -83,254 +83,49 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
-          "retweetCount": 2,
+          "retweetCount": 1650,
           "replyCount": 0,
-          "viewCount": 14,
+          "viewCount": 41,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
           "entities": {
             "hashtags": [],
             "mentions": [
-              "reporterliz",
-              "UnrigLA"
+              "Acyn"
             ],
             "urls": []
           },
           "article": null,
           "quotedPost": null,
           "retweetedPost": {
-            "id": "2121321695890014510",
-            "text": "Politics starts in the \"housekeeping matters,\" and Rob Quan of @UnrigLA (who's endured two charter panels not acting) got the charter committee to get started on council expansion in Jan., instead of the May. \n\n2028 is \"do or die\" for getting it done, Quan said in public comment. https://t.co/UupV9WGWqo",
-            "url": "https://x.com/reporterliz/status/2121321695890014510",
+            "id": "2121419990599647614",
+            "text": "WOW MULLIN SAYS THE UPGRADES DUFFY PUT IN CAUSED THE OUTAGE\n\n“The new technology was overwhelming the older system” https://t.co/GG6oW7CnVF",
+            "url": "https://x.com/Acyn/status/2121419990599647614",
             "lang": "en",
-            "createdAt": "2026-11-13T19:17:59.000Z",
-            "conversationId": "2121321695890014510",
+            "createdAt": "2026-11-14T01:48:34.000Z",
+            "conversationId": "2121419990599647614",
             "inReplyToId": null,
             "author": {
-              "id": "37085458",
-              "username": "reporterliz",
-              "name": "Elizabeth Chou",
-              "verified": false,
-              "followersCount": 5169,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/2085103524539695104/qGrB1jBv_normal.jpg"
-            },
-            "likeCount": 4,
-            "retweetCount": 2,
-            "replyCount": 0,
-            "viewCount": 281,
-            "quoteCount": 1,
-            "bookmarkCount": 1,
-            "media": [
-              {
-                "id": "2121320328886722560",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXBxmZIboAAyhcO.jpg",
-                "previewImageUrl": null
-              }
-            ],
-            "entities": {
-              "hashtags": [],
-              "mentions": [
-                "UnrigLA"
-              ],
-              "urls": []
-            },
-            "article": null
-          }
-        },
-        {
-          "id": "2121290263889080346",
-          "text": "RT @beckyhartung: Has zero business being on Metro board.",
-          "url": "https://x.com/UnrigLA/status/2121290263889080346",
-          "lang": "en",
-          "createdAt": "2026-11-13T17:13:05.000Z",
-          "conversationId": "2121290263889080346",
-          "inReplyToId": null,
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16603,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 0,
-          "retweetCount": 1,
-          "replyCount": 0,
-          "viewCount": 39,
-          "quoteCount": 0,
-          "bookmarkCount": 0,
-          "media": [],
-          "entities": {
-            "hashtags": [],
-            "mentions": [
-              "beckyhartung"
-            ],
-            "urls": []
-          },
-          "article": null,
-          "quotedPost": null,
-          "retweetedPost": {
-            "id": "2121285545498489260",
-            "text": "Has zero business being on Metro board.",
-            "url": "https://x.com/beckyhartung/status/2121285545498489260",
-            "lang": "en",
-            "createdAt": "2026-11-13T16:54:20.000Z",
-            "conversationId": "2121285545498489260",
-            "inReplyToId": null,
-            "author": {
-              "id": "18337417",
-              "username": "beckyhartung",
-              "name": "Becky Hartung",
+              "id": "16635277",
+              "username": "Acyn",
+              "name": "Acyn",
               "verified": true,
-              "followersCount": 1170,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/2058353383933902848/jfjlXfmH_normal.jpg"
+              "followersCount": 798536,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1332231334761119745/wMzlpuHi_normal.jpg"
             },
-            "likeCount": 27,
-            "retweetCount": 1,
-            "replyCount": 1,
-            "viewCount": 331,
-            "quoteCount": 0,
-            "bookmarkCount": 0,
-            "media": [],
-            "entities": {
-              "hashtags": [],
-              "mentions": [],
-              "urls": []
-            },
-            "article": null
-          }
-        },
-        {
-          "id": "2121263067975811407",
-          "text": "The 3 lefties remain silent. Meanwhile CM Nazarian is dropping The People’s Elbow. https://t.co/YTN1R1YyZk",
-          "url": "https://x.com/UnrigLA/status/2121263067975811407",
-          "lang": "en",
-          "createdAt": "2026-11-13T15:25:01.000Z",
-          "conversationId": "2121263067975811407",
-          "inReplyToId": null,
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16603,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 33,
-          "retweetCount": 0,
-          "replyCount": 4,
-          "viewCount": 1527,
-          "quoteCount": 1,
-          "bookmarkCount": 5,
-          "media": [
-            {
-              "id": "2121263063823417344",
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HXA9hIJaAAAD23x.jpg",
-              "previewImageUrl": null
-            }
-          ],
-          "entities": {
-            "hashtags": [],
-            "mentions": [],
-            "urls": []
-          },
-          "article": null,
-          "quotedPost": {
-            "id": "2121030918412603560",
-            "text": "Along with L.A. Councilmember Katy Yaroslavsky, CM Adrin Nazarian is also calling for a special election in CD 4 https://t.co/L78IO84509",
-            "url": "https://x.com/sherlyholmes/status/2121030918412603560",
-            "lang": "en",
-            "createdAt": "2026-11-13T00:02:32.000Z",
-            "conversationId": "2121030918412603560",
-            "inReplyToId": null,
-            "author": {
-              "id": "13479902",
-              "username": "sherlyholmes",
-              "name": "Julia Wick",
-              "verified": false,
-              "followersCount": 15758,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/2101441690485874688/M7UVZqEt_normal.jpg"
-            },
-            "likeCount": 39,
-            "retweetCount": 8,
-            "replyCount": 1,
-            "viewCount": 7636,
-            "quoteCount": 3,
-            "bookmarkCount": 3,
-            "media": [],
-            "entities": {
-              "hashtags": [],
-              "mentions": [],
-              "urls": [
-                "https://lamaterial.com/p/raman-district-vacancy-special-election-appointment"
-              ]
-            },
-            "article": null
-          },
-          "retweetedPost": null
-        },
-        {
-          "id": "2121284549401559075",
-          "text": "I’m not surprised to see Hugo and Eunisses lagging, but CM Jurado is on the ballot in 2028 just like Nazarian. Not a good look after your choice for Mayor got demolished in your CD! \nhttps://t.co/pZgQ81Ja2A",
-          "url": "https://x.com/UnrigLA/status/2121284549401559075",
-          "lang": "en",
-          "createdAt": "2026-11-13T16:50:22.000Z",
-          "conversationId": "2121263067975811407",
-          "inReplyToId": "2121263067975811407",
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16603,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 1,
-          "retweetCount": 0,
-          "replyCount": 0,
-          "viewCount": 183,
-          "quoteCount": 0,
-          "bookmarkCount": 0,
-          "media": [],
-          "entities": {
-            "hashtags": [],
-            "mentions": [],
-            "urls": [
-              "https://x.com/unrigla/status/2121263067975811407?s=46&t=QuhGjgM5a9x7OqxCWiPPgw"
-            ]
-          },
-          "article": null,
-          "quotedPost": {
-            "id": "2121263067975811407",
-            "text": "The 3 lefties remain silent. Meanwhile CM Nazarian is dropping The People’s Elbow. https://t.co/YTN1R1YyZk",
-            "url": "https://x.com/UnrigLA/status/2121263067975811407",
-            "lang": "en",
-            "createdAt": "2026-11-13T15:25:01.000Z",
-            "conversationId": "2121263067975811407",
-            "inReplyToId": null,
-            "author": {
-              "id": "1022564507971801088",
-              "username": "UnrigLA",
-              "name": "Unrig LA",
-              "verified": false,
-              "followersCount": 16603,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-            },
-            "likeCount": 33,
-            "retweetCount": 0,
-            "replyCount": 4,
-            "viewCount": 1527,
-            "quoteCount": 1,
-            "bookmarkCount": 5,
+            "likeCount": 8339,
+            "retweetCount": 1650,
+            "replyCount": 605,
+            "viewCount": 1317538,
+            "quoteCount": 540,
+            "bookmarkCount": 1290,
             "media": [
               {
-                "id": "2121263063823417344",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXA9hIJaAAAD23x.jpg",
-                "previewImageUrl": null
+                "id": "2121419954675425280",
+                "type": "video",
+                "url": "https://video.twimg.com/amplify_video/2121419954675425280/vid/avc1/1280x720/1AfYvMAqS-z7rSll.mp4?tag=16",
+                "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2121419954675425280/img/ysFODmmijLDlhcvF.jpg"
               }
             ],
             "entities": {
@@ -339,79 +134,15 @@
               "urls": []
             },
             "article": null
-          },
-          "retweetedPost": null
-        },
-        {
-          "id": "2121249039010455768",
-          "text": "RT @sahrasulaiman: Two days later, I'm still thinking about her first impulse to this horrific act of negligence being to curb hard-fought…",
-          "url": "https://x.com/UnrigLA/status/2121249039010455768",
-          "lang": "en",
-          "createdAt": "2026-11-13T14:29:16.000Z",
-          "conversationId": "2121249039010455768",
-          "inReplyToId": null,
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16603,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 0,
-          "retweetCount": 18,
-          "replyCount": 0,
-          "viewCount": 37,
-          "quoteCount": 0,
-          "bookmarkCount": 0,
-          "media": [],
-          "entities": {
-            "hashtags": [],
-            "mentions": [
-              "sahrasulaiman"
-            ],
-            "urls": []
-          },
-          "article": null,
-          "quotedPost": null,
-          "retweetedPost": {
-            "id": "2121247552703992148",
-            "text": "Two days later, I'm still thinking about her first impulse to this horrific act of negligence being to curb hard-fought protections for street vendors instead of to improve station and street infrastructure to curb drivers' ability to cause such devastating and irreversible harm.",
-            "url": "https://x.com/sahrasulaiman/status/2121247552703992148",
-            "lang": "en",
-            "createdAt": "2026-11-13T14:23:22.000Z",
-            "conversationId": "2121247552703992148",
-            "inReplyToId": null,
-            "author": {
-              "id": "2408381136",
-              "username": "sahrasulaiman",
-              "name": "sahra",
-              "verified": false,
-              "followersCount": 8520,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/2029031057904009216/78oGX95h_normal.jpg"
-            },
-            "likeCount": 150,
-            "retweetCount": 18,
-            "replyCount": 0,
-            "viewCount": 2795,
-            "quoteCount": 0,
-            "bookmarkCount": 7,
-            "media": [],
-            "entities": {
-              "hashtags": [],
-              "mentions": [],
-              "urls": []
-            },
-            "article": null
           }
         },
         {
-          "id": "2121112021064376599",
-          "text": "RT @rpyers: Republicans continue to get thrown around like a rag doll in the Central Valley. \n\nXavier Becerra now leads Steve Hilton in Tul…",
-          "url": "https://x.com/UnrigLA/status/2121112021064376599",
+          "id": "2121426860177596690",
+          "text": "RT @rpyers: The AP has now called the Central Valley AD33 race for Democrat Hipolito Cerros, who unseats California Assembly GOP Leader Ali…",
+          "url": "https://x.com/UnrigLA/status/2121426860177596690",
           "lang": "en",
-          "createdAt": "2026-11-13T05:24:48.000Z",
-          "conversationId": "2121112021064376599",
+          "createdAt": "2026-11-14T02:15:52.000Z",
+          "conversationId": "2121426860177596690",
           "inReplyToId": null,
           "author": {
             "id": "1022564507971801088",
@@ -422,9 +153,9 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
-          "retweetCount": 77,
+          "retweetCount": 54,
           "replyCount": 0,
-          "viewCount": 43,
+          "viewCount": 46,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
@@ -438,41 +169,28 @@
           "article": null,
           "quotedPost": null,
           "retweetedPost": {
-            "id": "2121104316434096621",
-            "text": "Republicans continue to get thrown around like a rag doll in the Central Valley. \n\nXavier Becerra now leads Steve Hilton in Tulare County, the first time since 1958 that county has gone Dem in the governor's race. https://t.co/zjNfm6niJG",
-            "url": "https://x.com/rpyers/status/2121104316434096621",
+            "id": "2121426007005766069",
+            "text": "The AP has now called the Central Valley AD33 race for Democrat Hipolito Cerros, who unseats California Assembly GOP Leader Ali Macedo despite raising and spending no money.",
+            "url": "https://x.com/rpyers/status/2121426007005766069",
             "lang": "en",
-            "createdAt": "2026-11-13T04:54:11.000Z",
-            "conversationId": "2121104316434096621",
+            "createdAt": "2026-11-14T02:12:28.000Z",
+            "conversationId": "2121426007005766069",
             "inReplyToId": null,
             "author": {
               "id": "158901399",
               "username": "rpyers",
               "name": "Rob Pyers",
               "verified": true,
-              "followersCount": 31620,
+              "followersCount": 31630,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/647461580582490112/VG5TxEdC_normal.jpg"
             },
-            "likeCount": 440,
-            "retweetCount": 77,
-            "replyCount": 13,
-            "viewCount": 45475,
-            "quoteCount": 17,
-            "bookmarkCount": 45,
-            "media": [
-              {
-                "id": "2121104249560109057",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HW-tE66aEAEo71M.jpg",
-                "previewImageUrl": null
-              },
-              {
-                "id": "2121104269210497026",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HW-tGEHbMAICed6.png",
-                "previewImageUrl": null
-              }
-            ],
+            "likeCount": 197,
+            "retweetCount": 54,
+            "replyCount": 10,
+            "viewCount": 10670,
+            "quoteCount": 4,
+            "bookmarkCount": 9,
+            "media": [],
             "entities": {
               "hashtags": [],
               "mentions": [],
@@ -482,12 +200,12 @@
           }
         },
         {
-          "id": "2121080335203221880",
-          "text": "RT @Cassy_Horton: There’s nothing worse IMO than existing electeds annointing someone to take over a democratically elected seat. CD 4 vote…",
-          "url": "https://x.com/UnrigLA/status/2121080335203221880",
+          "id": "2121426589997232203",
+          "text": "RT @UnrigLA: The real sickos out there can root for the race in CD 9 to end w/ City Council drawing lots. \nhttps://t.co/3OQj4geKUj https://…",
+          "url": "https://x.com/UnrigLA/status/2121426589997232203",
           "lang": "en",
-          "createdAt": "2026-11-13T03:18:54.000Z",
-          "conversationId": "2121080335203221880",
+          "createdAt": "2026-11-14T02:14:47.000Z",
+          "conversationId": "2121426589997232203",
           "inReplyToId": null,
           "author": {
             "id": "1022564507971801088",
@@ -498,42 +216,185 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
-          "retweetCount": 1,
+          "retweetCount": 3,
           "replyCount": 0,
-          "viewCount": 50,
+          "viewCount": null,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
           "entities": {
             "hashtags": [],
             "mentions": [
-              "Cassy_Horton"
+              "UnrigLA"
+            ],
+            "urls": [
+              "https://x.com/SecantSphinx/status/2121419493754986836?a=XznTKSrSZRqx0kbj_sM&s=20"
+            ]
+          },
+          "article": null,
+          "quotedPost": null,
+          "retweetedPost": {
+            "id": "2121420360008765670",
+            "text": "The real sickos out there can root for the race in CD 9 to end w/ City Council drawing lots. \nhttps://t.co/3OQj4geKUj https://t.co/sPOdHKaVS7",
+            "url": "https://x.com/UnrigLA/status/2121420360008765670",
+            "lang": "en",
+            "createdAt": "2026-11-14T01:50:02.000Z",
+            "conversationId": "2121391844148064749",
+            "inReplyToId": "2121408460004995308",
+            "author": {
+              "id": "1022564507971801088",
+              "username": "UnrigLA",
+              "name": "Unrig LA",
+              "verified": false,
+              "followersCount": 16603,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+            },
+            "likeCount": 18,
+            "retweetCount": 3,
+            "replyCount": 4,
+            "viewCount": 1811,
+            "quoteCount": 1,
+            "bookmarkCount": 2,
+            "media": [
+              {
+                "id": "2121420250394800128",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HXDMelwaMAAB-Vu.jpg",
+                "previewImageUrl": null
+              }
+            ],
+            "entities": {
+              "hashtags": [],
+              "mentions": [],
+              "urls": [
+                "https://x.com/SecantSphinx/status/2121419493754986836?a=XznTKSrSZRqx0kbj_sM&s=20"
+              ]
+            },
+            "article": null
+          }
+        },
+        {
+          "id": "2121422913408770521",
+          "text": "RT @LACountyRRCC: The estimate of outstanding ballots is 15,000 ballots (13,000 Vote by Mail -- all pending signature cure and 2,000 Provis…",
+          "url": "https://x.com/UnrigLA/status/2121422913408770521",
+          "lang": "en",
+          "createdAt": "2026-11-14T02:00:11.000Z",
+          "conversationId": "2121422913408770521",
+          "inReplyToId": null,
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16603,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 0,
+          "retweetCount": 2,
+          "replyCount": 0,
+          "viewCount": 43,
+          "quoteCount": 0,
+          "bookmarkCount": 0,
+          "media": [],
+          "entities": {
+            "hashtags": [],
+            "mentions": [
+              "LACountyRRCC"
             ],
             "urls": []
           },
           "article": null,
           "quotedPost": null,
           "retweetedPost": {
-            "id": "2121045224344703141",
-            "text": "There’s nothing worse IMO than existing electeds annointing someone to take over a democratically elected seat. CD 4 voters deserve a special election to replace Raman and a caretaker who pledges NOT to run.",
-            "url": "https://x.com/Cassy_Horton/status/2121045224344703141",
+            "id": "2121412862702702649",
+            "text": "The estimate of outstanding ballots is 15,000 ballots (13,000 Vote by Mail -- all pending signature cure and 2,000 Provisional). The next election results update is scheduled for Tuesday, November 17, at 4 PM. \n\nNews Release: https://t.co/YgCbxvxYh1",
+            "url": "https://x.com/LACountyRRCC/status/2121412862702702649",
             "lang": "en",
-            "createdAt": "2026-11-13T00:59:23.000Z",
-            "conversationId": "2121045224344703141",
+            "createdAt": "2026-11-14T01:20:15.000Z",
+            "conversationId": "2121412858969759776",
+            "inReplyToId": "2121412858969759776",
+            "author": {
+              "id": "21807663",
+              "username": "LACountyRRCC",
+              "name": "Los Angeles County Registrar-Recorder/County Clerk",
+              "verified": false,
+              "followersCount": 13184,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1675910823733239812/M2cWRC3f_normal.jpg"
+            },
+            "likeCount": 7,
+            "retweetCount": 2,
+            "replyCount": 2,
+            "viewCount": 737,
+            "quoteCount": 0,
+            "bookmarkCount": 0,
+            "media": [],
+            "entities": {
+              "hashtags": [],
+              "mentions": [],
+              "urls": [
+                "https://lavote.gov/news-room/press-releases"
+              ]
+            },
+            "article": null
+          }
+        },
+        {
+          "id": "2121391844148064749",
+          "text": "Raman is now at 54.92% of the vote, and has surpassed the share of the vote Bass received in her 2022 race vs. Caruso.\n\nRaman: +6,367 (68.27%)\nBass: +2,959 (31.73%) https://t.co/k5lubNOXv0",
+          "url": "https://x.com/UnrigLA/status/2121391844148064749",
+          "lang": "en",
+          "createdAt": "2026-11-13T23:56:43.000Z",
+          "conversationId": "2121391844148064749",
+          "inReplyToId": null,
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16603,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 54,
+          "retweetCount": 4,
+          "replyCount": 1,
+          "viewCount": 2542,
+          "quoteCount": 0,
+          "bookmarkCount": 3,
+          "media": [
+            {
+              "id": "2121391839374929920",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HXCyo2da8AAprxW.jpg",
+              "previewImageUrl": null
+            }
+          ],
+          "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+          },
+          "article": null,
+          "quotedPost": {
+            "id": "2120322718390489104",
+            "text": "Raman is now at 54.81% of the vote and has a lead of 9.62 pts.\n\nRaman: +5,266 (66.87%)\nBass: +2,609 (33.13%)",
+            "url": "https://x.com/UnrigLA/status/2120322718390489104",
+            "lang": "en",
+            "createdAt": "2026-11-11T01:08:24.000Z",
+            "conversationId": "2120322718390489104",
             "inReplyToId": null,
             "author": {
-              "id": "205113614",
-              "username": "Cassy_Horton",
-              "name": "Cassy Horton",
+              "id": "1022564507971801088",
+              "username": "UnrigLA",
+              "name": "Unrig LA",
               "verified": false,
-              "followersCount": 3310,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1804977724433563648/_yncMwmc_normal.jpg"
+              "followersCount": 16603,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
             },
-            "likeCount": 27,
-            "retweetCount": 1,
+            "likeCount": 24,
+            "retweetCount": 3,
             "replyCount": 1,
-            "viewCount": 2422,
-            "quoteCount": 0,
+            "viewCount": 5506,
+            "quoteCount": 2,
             "bookmarkCount": 1,
             "media": [],
             "entities": {
@@ -542,15 +403,160 @@
               "urls": []
             },
             "article": null
-          }
+          },
+          "retweetedPost": null
         },
         {
-          "id": "2121074256566276348",
-          "text": "RT @FilmThePoliceLA: Karen Bass strikes again. 😒 https://t.co/4w2I0a9tFC",
-          "url": "https://x.com/UnrigLA/status/2121074256566276348",
+          "id": "2121408460004995308",
+          "text": "https://t.co/BC3kY3lecP",
+          "url": "https://x.com/UnrigLA/status/2121408460004995308",
+          "lang": "zxx",
+          "createdAt": "2026-11-14T01:02:45.000Z",
+          "conversationId": "2121391844148064749",
+          "inReplyToId": "2121393731157004725",
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16603,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 0,
+          "retweetCount": 0,
+          "replyCount": 1,
+          "viewCount": 517,
+          "quoteCount": 0,
+          "bookmarkCount": 0,
+          "media": [],
+          "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": [
+              "https://x.com/secantsphinx/status/2121408112875987077?s=46&t=QuhGjgM5a9x7OqxCWiPPgw"
+            ]
+          },
+          "article": null,
+          "quotedPost": {
+            "id": "2121408112875987077",
+            "text": "Press release updated\n\nAbout 15,000 ballots remaining, with only 2,000 provisional to go\n\nhttps://t.co/q3qF0Jia07 https://t.co/ZVgyKHGzkx",
+            "url": "https://x.com/SecantSphinx/status/2121408112875987077",
+            "lang": "en",
+            "createdAt": "2026-11-14T01:01:22.000Z",
+            "conversationId": "2121408112875987077",
+            "inReplyToId": null,
+            "author": {
+              "id": "27508452",
+              "username": "SecantSphinx",
+              "name": "Maths Cat",
+              "verified": false,
+              "followersCount": 577,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1471544435930386435/GjJvHpk8_normal.jpg"
+            },
+            "likeCount": 6,
+            "retweetCount": 1,
+            "replyCount": 0,
+            "viewCount": 985,
+            "quoteCount": 1,
+            "bookmarkCount": 1,
+            "media": [
+              {
+                "id": "2121407985855733761",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HXDBUsyboAE925u.jpg",
+                "previewImageUrl": null
+              }
+            ],
+            "entities": {
+              "hashtags": [],
+              "mentions": [],
+              "urls": [
+                "https://content.lavote.gov/docs/rrcc/documents/18-20261110_eleventh-post-election-update.pdf"
+              ]
+            },
+            "article": null
+          },
+          "retweetedPost": null
+        },
+        {
+          "id": "2121420360008765670",
+          "text": "The real sickos out there can root for the race in CD 9 to end w/ City Council drawing lots. \nhttps://t.co/3OQj4geKUj https://t.co/sPOdHKaVS7",
+          "url": "https://x.com/UnrigLA/status/2121420360008765670",
           "lang": "en",
-          "createdAt": "2026-11-13T02:54:45.000Z",
-          "conversationId": "2121074256566276348",
+          "createdAt": "2026-11-14T01:50:02.000Z",
+          "conversationId": "2121391844148064749",
+          "inReplyToId": "2121408460004995308",
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16603,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 18,
+          "retweetCount": 3,
+          "replyCount": 4,
+          "viewCount": 1811,
+          "quoteCount": 1,
+          "bookmarkCount": 2,
+          "media": [
+            {
+              "id": "2121420250394800128",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HXDMelwaMAAB-Vu.jpg",
+              "previewImageUrl": null
+            }
+          ],
+          "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": [
+              "https://x.com/SecantSphinx/status/2121419493754986836?a=XznTKSrSZRqx0kbj_sM&s=20"
+            ]
+          },
+          "article": null,
+          "quotedPost": {
+            "id": "2121419493754986836",
+            "text": "Post Press Release projections, broken down. Assumes  delta % of 56.53%\n\n1.63% Participation (245.14 ballots):\nUgarte: 19,541 (50.01%)\nMazariegos: 19,532 (49.99%)\n\n2.75% Participation (413.07 ballots):\nUgarte: 19,614 (49.98%)\nMazariegos: 19,626 (50.02%)\n\nhttps://t.co/vlPP3hGQac",
+            "url": "https://x.com/SecantSphinx/status/2121419493754986836",
+            "lang": "en",
+            "createdAt": "2026-11-14T01:46:36.000Z",
+            "conversationId": "2121393148916338988",
+            "inReplyToId": "2121396025558720646",
+            "author": {
+              "id": "27508452",
+              "username": "SecantSphinx",
+              "name": "Maths Cat",
+              "verified": false,
+              "followersCount": 577,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1471544435930386435/GjJvHpk8_normal.jpg"
+            },
+            "likeCount": 2,
+            "retweetCount": 0,
+            "replyCount": 0,
+            "viewCount": 1323,
+            "quoteCount": 1,
+            "bookmarkCount": 1,
+            "media": [],
+            "entities": {
+              "hashtags": [],
+              "mentions": [],
+              "urls": [
+                "https://x.com/SecantSphinx/status/2121396025558720646"
+              ]
+            },
+            "article": null
+          },
+          "retweetedPost": null
+        },
+        {
+          "id": "2121413525130387741",
+          "text": "RT @JordanUhl: Update on this?",
+          "url": "https://x.com/UnrigLA/status/2121413525130387741",
+          "lang": "en",
+          "createdAt": "2026-11-14T01:22:53.000Z",
+          "conversationId": "2121413525130387741",
           "inReplyToId": null,
           "author": {
             "id": "1022564507971801088",
@@ -561,58 +567,44 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
-          "retweetCount": 6,
+          "retweetCount": 97,
           "replyCount": 0,
-          "viewCount": 47,
+          "viewCount": 49,
           "quoteCount": 0,
           "bookmarkCount": 0,
-          "media": [
-            {
-              "id": "2121071385418272768",
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HW-PL-caEAAIOVz.jpg",
-              "previewImageUrl": null
-            }
-          ],
+          "media": [],
           "entities": {
             "hashtags": [],
             "mentions": [
-              "FilmThePoliceLA"
+              "JordanUhl"
             ],
             "urls": []
           },
           "article": null,
           "quotedPost": null,
           "retweetedPost": {
-            "id": "2121071388622716932",
-            "text": "Karen Bass strikes again. 😒 https://t.co/4w2I0a9tFC",
-            "url": "https://x.com/FilmThePoliceLA/status/2121071388622716932",
+            "id": "2121365106198241447",
+            "text": "Update on this?",
+            "url": "https://x.com/JordanUhl/status/2121365106198241447",
             "lang": "en",
-            "createdAt": "2026-11-13T02:43:21.000Z",
-            "conversationId": "2121071388622716932",
+            "createdAt": "2026-11-13T22:10:29.000Z",
+            "conversationId": "2121365106198241447",
             "inReplyToId": null,
             "author": {
-              "id": "16858860",
-              "username": "FilmThePoliceLA",
-              "name": "Film The Police LA",
+              "id": "68752979",
+              "username": "JordanUhl",
+              "name": "jordan",
               "verified": true,
-              "followersCount": 97025,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1350144666277040131/8dyEZCIy_normal.jpg"
+              "followersCount": 243589,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1649114960033611799/B8KcUMw3_normal.jpg"
             },
-            "likeCount": 88,
-            "retweetCount": 6,
-            "replyCount": 8,
-            "viewCount": 2997,
-            "quoteCount": 0,
-            "bookmarkCount": 0,
-            "media": [
-              {
-                "id": "2121071385418272768",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HW-PL-caEAAIOVz.jpg",
-                "previewImageUrl": null
-              }
-            ],
+            "likeCount": 866,
+            "retweetCount": 97,
+            "replyCount": 2,
+            "viewCount": 17069,
+            "quoteCount": 1,
+            "bookmarkCount": 22,
+            "media": [],
             "entities": {
               "hashtags": [],
               "mentions": [],
@@ -622,12 +614,12 @@
           }
         },
         {
-          "id": "2121066139673677894",
-          "text": "RT @ChrisVanHollen: In this election, Americans called on us to unrig an economy rigged against working people &amp; fueled by political corrup…",
-          "url": "https://x.com/UnrigLA/status/2121066139673677894",
+          "id": "2121409850169290955",
+          "text": "RT @atrupar: Q: There are thoughts that this could be an AI related issue---\n\nMARKWAYNE MULLIN: We call it SI, remember. You can't rule out…",
+          "url": "https://x.com/UnrigLA/status/2121409850169290955",
           "lang": "en",
-          "createdAt": "2026-11-13T02:22:29.000Z",
-          "conversationId": "2121066139673677894",
+          "createdAt": "2026-11-14T01:08:16.000Z",
+          "conversationId": "2121409850169290955",
           "inReplyToId": null,
           "author": {
             "id": "1022564507971801088",
@@ -638,44 +630,51 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
-          "retweetCount": 25036,
+          "retweetCount": 457,
           "replyCount": 0,
-          "viewCount": 52,
+          "viewCount": 53,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
           "entities": {
             "hashtags": [],
             "mentions": [
-              "ChrisVanHollen"
+              "atrupar"
             ],
             "urls": []
           },
           "article": null,
           "quotedPost": null,
           "retweetedPost": {
-            "id": "2121061505160642660",
-            "text": "In this election, Americans called on us to unrig an economy rigged against working people &amp; fueled by political corruption.\n\nTo deliver, we need new leadership. This isn't about any one person – it’s about answering that call.\n\nThat's why I’m running for Senate Majority Leader.",
-            "url": "https://x.com/ChrisVanHollen/status/2121061505160642660",
+            "id": "2121364629645316316",
+            "text": "Q: There are thoughts that this could be an AI related issue---\n\nMARKWAYNE MULLIN: We call it SI, remember. You can't rule out anything at this point https://t.co/4qPlm1MLNX",
+            "url": "https://x.com/atrupar/status/2121364629645316316",
             "lang": "en",
-            "createdAt": "2026-11-13T02:04:04.000Z",
-            "conversationId": "2121061505160642660",
+            "createdAt": "2026-11-13T22:08:35.000Z",
+            "conversationId": "2121364629645316316",
             "inReplyToId": null,
             "author": {
-              "id": "18137749",
-              "username": "ChrisVanHollen",
-              "name": "Senator Chris Van Hollen",
+              "id": "288277167",
+              "username": "atrupar",
+              "name": "Aaron Rupar",
               "verified": true,
-              "followersCount": 312229,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1207390627400441856/4WmM925x_normal.jpg"
+              "followersCount": 1175618,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1335565046290804738/eGXNmTvg_normal.jpg"
             },
-            "likeCount": 136395,
-            "retweetCount": 25036,
-            "replyCount": 5820,
-            "viewCount": 3134795,
-            "quoteCount": 2830,
-            "bookmarkCount": 3860,
-            "media": [],
+            "likeCount": 3078,
+            "retweetCount": 457,
+            "replyCount": 788,
+            "viewCount": 519455,
+            "quoteCount": 416,
+            "bookmarkCount": 358,
+            "media": [
+              {
+                "id": "2121364576746852352",
+                "type": "video",
+                "url": "https://video.twimg.com/amplify_video/2121364576746852352/vid/avc1/1280x720/GivInhiFqnZ723Q7.mp4?tag=16",
+                "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2121364576746852352/img/Kb436LmlvA_oK7UP.jpg"
+              }
+            ],
             "entities": {
               "hashtags": [],
               "mentions": [],
@@ -686,8 +685,8 @@
         }
       ],
       "meta": {
-        "requestId": "d236993c-c2a6-4e3c-b66a-dcd4fb8bc6de",
-        "nextCursor": "v2.lPZwdtp99UAQKSlwo7ye1eJ1bq7KKy4A7EFiyq9mNTjPywBRM1lbqiTaOv43BMRgOejA4QhR60Fj7WLSAmd5yHBkdvheutlMo4p6AIzfQnxC6R73-Q1QLpK4GxN5GQ"
+        "requestId": "a9031e9b-c4f8-4cbf-b392-2a0251044c59",
+        "nextCursor": "v2.plzmSWqiqsWKopn7kY4YDd-sG08AA79xa-M5eOP2YLFaA5s_sOBT-h6e7I5yejQtAM9QaY3OwRWFj8oj_iO35Kmk06lP_Du_ukf7NM-VjiTr7c7U4KMOBze_EcgSoQ"
       }
     }
   },
@@ -703,7 +702,7 @@
         "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1125141238192021504/1629868702",
         "location": "Los Angeles, CA",
         "verified": false,
-        "followersCount": 6973,
+        "followersCount": 6971,
         "followingCount": 335,
         "statusesCount": 1089,
         "likeCount": 609,
@@ -714,7 +713,7 @@
         "protected": false
       },
       "meta": {
-        "requestId": "7b9a526b-e51f-4d80-9652-7e8ef465c300"
+        "requestId": "1187dd30-b016-432b-b6e9-f8f33c8106b2"
       }
     },
     "posts": {
@@ -732,7 +731,7 @@
             "username": "thelapod",
             "name": "LA Podcast",
             "verified": false,
-            "followersCount": 6973,
+            "followersCount": 6971,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1230168394780958720/vikWsfV4_normal.jpg"
           },
           "likeCount": 10,
@@ -773,7 +772,7 @@
             "username": "thelapod",
             "name": "LA Podcast",
             "verified": false,
-            "followersCount": 6973,
+            "followersCount": 6971,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1230168394780958720/vikWsfV4_normal.jpg"
           },
           "likeCount": 10,
@@ -814,7 +813,7 @@
             "username": "thelapod",
             "name": "LA Podcast",
             "verified": false,
-            "followersCount": 6973,
+            "followersCount": 6971,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1230168394780958720/vikWsfV4_normal.jpg"
           },
           "likeCount": 17,
@@ -848,7 +847,7 @@
             "username": "thelapod",
             "name": "LA Podcast",
             "verified": false,
-            "followersCount": 6973,
+            "followersCount": 6971,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1230168394780958720/vikWsfV4_normal.jpg"
           },
           "likeCount": 6,
@@ -887,13 +886,13 @@
             "username": "thelapod",
             "name": "LA Podcast",
             "verified": false,
-            "followersCount": 6973,
+            "followersCount": 6971,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1230168394780958720/vikWsfV4_normal.jpg"
           },
           "likeCount": 4,
           "retweetCount": 2,
           "replyCount": 0,
-          "viewCount": 1071,
+          "viewCount": 1072,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [
@@ -928,7 +927,7 @@
             "username": "thelapod",
             "name": "LA Podcast",
             "verified": false,
-            "followersCount": 6973,
+            "followersCount": 6971,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1230168394780958720/vikWsfV4_normal.jpg"
           },
           "likeCount": 0,
@@ -996,7 +995,7 @@
             "username": "thelapod",
             "name": "LA Podcast",
             "verified": false,
-            "followersCount": 6973,
+            "followersCount": 6971,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1230168394780958720/vikWsfV4_normal.jpg"
           },
           "likeCount": 24,
@@ -1032,7 +1031,7 @@
             "username": "thelapod",
             "name": "LA Podcast",
             "verified": false,
-            "followersCount": 6973,
+            "followersCount": 6971,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1230168394780958720/vikWsfV4_normal.jpg"
           },
           "likeCount": 0,
@@ -1067,7 +1066,7 @@
               "username": "rooflesser",
               "name": "landless is back",
               "verified": false,
-              "followersCount": 4682,
+              "followersCount": 4683,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/2096056141210062848/_-od5EMc_normal.jpg"
             },
             "likeCount": 5,
@@ -1102,7 +1101,7 @@
             "username": "thelapod",
             "name": "LA Podcast",
             "verified": false,
-            "followersCount": 6973,
+            "followersCount": 6971,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1230168394780958720/vikWsfV4_normal.jpg"
           },
           "likeCount": 0,
@@ -1135,7 +1134,7 @@
               "username": "StreetsblogLA",
               "name": "StreetsblogLA",
               "verified": false,
-              "followersCount": 217378,
+              "followersCount": 217402,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1542890723/streetsblog-la-twitter_normal.png"
             },
             "likeCount": 45,
@@ -1168,7 +1167,7 @@
             "username": "thelapod",
             "name": "LA Podcast",
             "verified": false,
-            "followersCount": 6973,
+            "followersCount": 6971,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1230168394780958720/vikWsfV4_normal.jpg"
           },
           "likeCount": 15,
@@ -1196,8 +1195,8 @@
         }
       ],
       "meta": {
-        "requestId": "16dceb06-bcf6-49fa-af65-dbe58c769fec",
-        "nextCursor": "v2.uMrS20IlOfLI_FQD2AlY1Umr1fWrDrWSjFTft0Ev3Ico11mKvJnPh1CZU35om-wuBqjKq8DhSTBanbZ2Fk5WvIZfDesAgf0iJLolx5GBO_ssZf70ZwuBJjgMk3L8xQ"
+        "requestId": "cb9b8d1a-87f0-482a-8ad8-abf0bf655ce5",
+        "nextCursor": "v2.7-iDr0zJUeqtyfkHWRbhi8BmljCZEdvNPpAjxxD_lkkDD40Dfs9fSm8hS4tsUzoDs2LjgxQycvOk0TzeBz21iGrUfWn_7lBJHfYe0QSNhOvL9y2jebL_10qJIuG9zA"
       }
     }
   }
