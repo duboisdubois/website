@@ -13,8 +13,8 @@
         "verified": false,
         "followersCount": 16596,
         "followingCount": 985,
-        "statusesCount": 30807,
-        "likeCount": 87436,
+        "statusesCount": 30826,
+        "likeCount": 87490,
         "createdAt": "2018-07-26T19:29:11.000Z",
         "pinnedPostIds": [
           "1938684970152927421"
@@ -22,7 +22,7 @@
         "protected": false
       },
       "meta": {
-        "requestId": "b4c0cb34-ab2a-4349-abaa-8a8ec98e6f45"
+        "requestId": "0483bfae-3570-48d3-a3a3-9b03f60cce4a"
       }
     },
     "posts": {
@@ -43,10 +43,10 @@
             "followersCount": 16596,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
-          "likeCount": 381,
+          "likeCount": 382,
           "retweetCount": 66,
           "replyCount": 25,
-          "viewCount": 99498,
+          "viewCount": 99723,
           "quoteCount": 8,
           "bookmarkCount": 23,
           "media": [
@@ -67,12 +67,12 @@
           "retweetedPost": null
         },
         {
-          "id": "2122756293090037825",
-          "text": ".@LACityClerk has finally sent out Friday's motions. Does that sound like \"a city that works\" to you? \n\nPattrice Lattimore makes Holly Wolcott and Petty Santos look like the Michael Jordan and Kobe Bryant of City Clerks. https://t.co/jQsgu3Q8v7",
-          "url": "https://x.com/UnrigLA/status/2122756293090037825",
+          "id": "2122936783403184496",
+          "text": "RT @reporterliz: Council member Tim McOsker forwarded this letter to the full council laying out a workplan showing \"council expansion\" get…",
+          "url": "https://x.com/UnrigLA/status/2122936783403184496",
           "lang": "en",
-          "createdAt": "2026-11-17T18:18:33.000Z",
-          "conversationId": "2122756293090037825",
+          "createdAt": "2026-11-18T06:15:46.000Z",
+          "conversationId": "2122936783403184496",
           "inReplyToId": null,
           "author": {
             "id": "1022564507971801088",
@@ -82,25 +82,101 @@
             "followersCount": 16596,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
-          "likeCount": 9,
-          "retweetCount": 1,
-          "replyCount": 2,
-          "viewCount": 1345,
-          "quoteCount": 1,
+          "likeCount": 0,
+          "retweetCount": 3,
+          "replyCount": 0,
+          "viewCount": 30,
+          "quoteCount": 0,
           "bookmarkCount": 0,
+          "media": [],
+          "entities": {
+            "hashtags": [],
+            "mentions": [
+              "reporterliz"
+            ],
+            "urls": []
+          },
+          "article": null,
+          "quotedPost": null,
+          "retweetedPost": {
+            "id": "2122814743669055625",
+            "text": "Council member Tim McOsker forwarded this letter to the full council laying out a workplan showing \"council expansion\" getting some air time in committee, in the Jan-March slot. \n\nThe council approved the related legislative report, 13-0, earlier today.\nhttps://t.co/n0B7T6UQZC https://t.co/radrVTn5TU",
+            "url": "https://x.com/reporterliz/status/2122814743669055625",
+            "lang": "en",
+            "createdAt": "2026-11-17T22:10:49.000Z",
+            "conversationId": "2122814743669055625",
+            "inReplyToId": null,
+            "author": {
+              "id": "37085458",
+              "username": "reporterliz",
+              "name": "Elizabeth Chou",
+              "verified": false,
+              "followersCount": 5179,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/2085103524539695104/qGrB1jBv_normal.jpg"
+            },
+            "likeCount": 8,
+            "retweetCount": 3,
+            "replyCount": 1,
+            "viewCount": 1152,
+            "quoteCount": 1,
+            "bookmarkCount": 3,
+            "media": [
+              {
+                "id": "2122811974346285056",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HXW-PlfbIAAw_bz.jpg?name=orig",
+                "previewImageUrl": null
+              },
+              {
+                "id": "2122811974337941504",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HXW-Pldb0AAprhs.jpg?name=orig",
+                "previewImageUrl": null
+              }
+            ],
+            "entities": {
+              "hashtags": [],
+              "mentions": [],
+              "urls": [
+                "https://d22tgksh1zpp6f.cloudfront.net/OnlineDocs/managed/d0383e7a-9a28-4903-b64e-b62337275dca/1.pdf"
+              ]
+            },
+            "article": null
+          }
+        },
+        {
+          "id": "2122877422974783795",
+          "text": "Sheila Irani, who ran for CD 4 in 2015, is the first candidate to file to run in 2028. Important to note that this does nothing to help w/ a potential special election. Fundraising for a special wouldn't open til after it's called &amp; she'd be starting blank w/o ability to transfer https://t.co/KzPBUx2D8l",
+          "url": "https://x.com/UnrigLA/status/2122877422974783795",
+          "lang": "en",
+          "createdAt": "2026-11-18T02:19:53.000Z",
+          "conversationId": "2122877422974783795",
+          "inReplyToId": null,
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16596,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 4,
+          "retweetCount": 2,
+          "replyCount": 6,
+          "viewCount": 1474,
+          "quoteCount": 0,
+          "bookmarkCount": 1,
           "media": [
             {
-              "id": "2122754451673116672",
+              "id": "2122877272176881664",
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HXWJ7U1a8AAdC5m.jpg?name=orig",
+              "url": "https://pbs.twimg.com/media/HXX5oa3acAAp-Vl.jpg?name=orig",
               "previewImageUrl": null
             }
           ],
           "entities": {
             "hashtags": [],
-            "mentions": [
-              "LACityClerk"
-            ],
+            "mentions": [],
             "urls": []
           },
           "article": null,
@@ -108,13 +184,13 @@
           "retweetedPost": null
         },
         {
-          "id": "2122792763339292765",
-          "text": "https://t.co/sEYwvvZerX",
-          "url": "https://x.com/UnrigLA/status/2122792763339292765",
+          "id": "2122927155311223222",
+          "text": "https://t.co/SRMR2R2kty",
+          "url": "https://x.com/UnrigLA/status/2122927155311223222",
           "lang": "zxx",
-          "createdAt": "2026-11-17T20:43:29.000Z",
-          "conversationId": "2122756293090037825",
-          "inReplyToId": "2122756293090037825",
+          "createdAt": "2026-11-18T05:37:30.000Z",
+          "conversationId": "2122877422974783795",
+          "inReplyToId": "2122877422974783795",
           "author": {
             "id": "1022564507971801088",
             "username": "UnrigLA",
@@ -126,7 +202,7 @@
           "likeCount": 0,
           "retweetCount": 0,
           "replyCount": 0,
-          "viewCount": 85,
+          "viewCount": 222,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
@@ -134,18 +210,18 @@
             "hashtags": [],
             "mentions": [],
             "urls": [
-              "https://x.com/unrigla/status/2122783326654304500?s=46&t=QuhGjgM5a9x7OqxCWiPPgw"
+              "https://x.com/unrigla/status/2122896036725489791?s=46&t=QuhGjgM5a9x7OqxCWiPPgw"
             ]
           },
           "article": null,
           "quotedPost": {
-            "id": "2122783326654304500",
-            "text": "Holly Wolcott &amp; Petty Santos would've never let this happen. https://t.co/SlHXjWBqxz",
-            "url": "https://x.com/UnrigLA/status/2122783326654304500",
+            "id": "2122896036725489791",
+            "text": "@SecantSphinx Not at all abnormal to see this happen, honestly surprised it took so long. Could be a mistake in not realizing it can’t be transferred, but sometimes candidates do this intentionally to plant a flag.",
+            "url": "https://x.com/UnrigLA/status/2122896036725489791",
             "lang": "en",
-            "createdAt": "2026-11-17T20:05:59.000Z",
-            "conversationId": "2122783326654304500",
-            "inReplyToId": null,
+            "createdAt": "2026-11-18T03:33:51.000Z",
+            "conversationId": "2122877422974783795",
+            "inReplyToId": "2122877613207413167",
             "author": {
               "id": "1022564507971801088",
               "username": "UnrigLA",
@@ -154,28 +230,95 @@
               "followersCount": 16596,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
             },
-            "likeCount": 1,
+            "likeCount": 2,
             "retweetCount": 0,
-            "replyCount": 0,
-            "viewCount": 342,
+            "replyCount": 1,
+            "viewCount": 305,
             "quoteCount": 1,
             "bookmarkCount": 0,
+            "media": [],
+            "entities": {
+              "hashtags": [],
+              "mentions": [
+                "SecantSphinx"
+              ],
+              "urls": []
+            },
+            "article": null
+          },
+          "retweetedPost": null
+        },
+        {
+          "id": "2122910300261474604",
+          "text": "RT @nithyavraman: We’re putting together a team that can help us build a city that works. We are looking for talented, diverse, and results…",
+          "url": "https://x.com/UnrigLA/status/2122910300261474604",
+          "lang": "en",
+          "createdAt": "2026-11-18T04:30:32.000Z",
+          "conversationId": "2122910300261474604",
+          "inReplyToId": null,
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16596,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 0,
+          "retweetCount": 176,
+          "replyCount": 0,
+          "viewCount": 42,
+          "quoteCount": 0,
+          "bookmarkCount": 0,
+          "media": [],
+          "entities": {
+            "hashtags": [],
+            "mentions": [
+              "nithyavraman"
+            ],
+            "urls": []
+          },
+          "article": null,
+          "quotedPost": null,
+          "retweetedPost": {
+            "id": "2122513300189798781",
+            "text": "We’re putting together a team that can help us build a city that works. We are looking for talented, diverse, and results-driven candidates that are committed to creating a more affordable and ambitious city.\n\nInterested in joining? Share your resume using our portal: https://t.co/b0l8FzjxpP",
+            "url": "https://x.com/nithyavraman/status/2122513300189798781",
+            "lang": "en",
+            "createdAt": "2026-11-17T02:12:59.000Z",
+            "conversationId": "2122513300189798781",
+            "inReplyToId": null,
+            "author": {
+              "id": "89218664",
+              "username": "nithyavraman",
+              "name": "Nithya Raman",
+              "verified": true,
+              "followersCount": 60028,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/2047431728634241024/Oo686v5L_normal.jpg"
+            },
+            "likeCount": 1328,
+            "retweetCount": 176,
+            "replyCount": 74,
+            "viewCount": 97037,
+            "quoteCount": 22,
+            "bookmarkCount": 369,
             "media": [
               {
-                "id": "2122783021686472704",
+                "id": "2122513296997990400",
                 "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXWj6UbaQAA1NqZ.jpg?name=orig",
+                "url": "https://pbs.twimg.com/media/HXSumRqbwAA6PaD.jpg?name=orig",
                 "previewImageUrl": null
               }
             ],
             "entities": {
               "hashtags": [],
               "mentions": [],
-              "urls": []
+              "urls": [
+                "http://acitythatworks.la"
+              ]
             },
             "article": null
-          },
-          "retweetedPost": null
+          }
         },
         {
           "id": "2122768665749905651",
@@ -193,12 +336,12 @@
             "followersCount": 16596,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
-          "likeCount": 12,
+          "likeCount": 46,
           "retweetCount": 2,
-          "replyCount": 2,
-          "viewCount": 1596,
-          "quoteCount": 1,
-          "bookmarkCount": 3,
+          "replyCount": 4,
+          "viewCount": 6167,
+          "quoteCount": 3,
+          "bookmarkCount": 5,
           "media": [
             {
               "id": "2122768661681496064",
@@ -226,13 +369,13 @@
               "username": "sherlyholmes",
               "name": "Julia Wick",
               "verified": false,
-              "followersCount": 15769,
+              "followersCount": 15768,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/2101441690485874688/M7UVZqEt_normal.jpg"
             },
-            "likeCount": 41,
+            "likeCount": 44,
             "retweetCount": 9,
-            "replyCount": 1,
-            "viewCount": 11406,
+            "replyCount": 2,
+            "viewCount": 14757,
             "quoteCount": 3,
             "bookmarkCount": 4,
             "media": [],
@@ -248,13 +391,13 @@
           "retweetedPost": null
         },
         {
-          "id": "2122787358412357859",
-          "text": "Liz has the goods. \nhttps://t.co/BjJIkbwUuy",
-          "url": "https://x.com/UnrigLA/status/2122787358412357859",
+          "id": "2122812936494436631",
+          "text": "Supporting a report back =/= supporting a special election. Short of MHD going on the record in support there’s no reason to assume he’s moved from where he was on this issue.\nhttps://t.co/bSdGvsIfXg",
+          "url": "https://x.com/UnrigLA/status/2122812936494436631",
           "lang": "en",
-          "createdAt": "2026-11-17T20:22:00.000Z",
+          "createdAt": "2026-11-17T22:03:38.000Z",
           "conversationId": "2122768665749905651",
-          "inReplyToId": "2122768665749905651",
+          "inReplyToId": "2122805635825967297",
           "author": {
             "id": "1022564507971801088",
             "username": "UnrigLA",
@@ -263,10 +406,10 @@
             "followersCount": 16596,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
-          "likeCount": 2,
+          "likeCount": 1,
           "retweetCount": 0,
           "replyCount": 0,
-          "viewCount": 119,
+          "viewCount": 409,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
@@ -274,62 +417,130 @@
             "hashtags": [],
             "mentions": [],
             "urls": [
-              "https://x.com/reporterliz/status/2122786128445272215?s=46&t=QuhGjgM5a9x7OqxCWiPPgw"
+              "https://x.com/unrigla/status/2122805635825967297?s=46&t=QuhGjgM5a9x7OqxCWiPPgw"
             ]
           },
           "article": null,
           "quotedPost": {
-            "id": "2122786128445272215",
-            "text": "Council member Monica Rodriguez posted these motions to call for a special elx for CD4, and to reactivate a council file on the process for filling vacancies. (LAPD officer gave me extra time, before the usual shooing, to grab these because they posted just as they adjourned). https://t.co/jPxyKRrfhe",
-            "url": "https://x.com/reporterliz/status/2122786128445272215",
+            "id": "2122805635825967297",
+            "text": "That's a lot of last seconders (max under Brown Act) https://t.co/pnf7ymngu7 https://t.co/41uJChv673",
+            "url": "https://x.com/UnrigLA/status/2122805635825967297",
             "lang": "en",
-            "createdAt": "2026-11-17T20:17:07.000Z",
-            "conversationId": "2122786128445272215",
-            "inReplyToId": null,
+            "createdAt": "2026-11-17T21:34:38.000Z",
+            "conversationId": "2122768665749905651",
+            "inReplyToId": "2122787358412357859",
             "author": {
-              "id": "37085458",
-              "username": "reporterliz",
-              "name": "Elizabeth Chou",
+              "id": "1022564507971801088",
+              "username": "UnrigLA",
+              "name": "Unrig LA",
               "verified": false,
-              "followersCount": 5176,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/2085103524539695104/qGrB1jBv_normal.jpg"
+              "followersCount": 16596,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
             },
-            "likeCount": 6,
-            "retweetCount": 1,
+            "likeCount": 8,
+            "retweetCount": 0,
             "replyCount": 1,
-            "viewCount": 486,
+            "viewCount": 828,
             "quoteCount": 1,
-            "bookmarkCount": 0,
+            "bookmarkCount": 1,
             "media": [
               {
-                "id": "2122786124695490560",
+                "id": "2122805431936663552",
                 "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXWmu8CaUAAcKH1.jpg?name=orig",
-                "previewImageUrl": null
-              },
-              {
-                "id": "2122786124662034433",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXWmu76b0AEy2Z0.jpg?name=orig",
+                "url": "https://pbs.twimg.com/media/HXW4SxHawAAS1oG.jpg?name=orig",
                 "previewImageUrl": null
               }
             ],
             "entities": {
               "hashtags": [],
               "mentions": [],
-              "urls": []
+              "urls": [
+                "https://x.com/UnrigLA/status/2122768665749905651?a=YHHgsLKrFhgd6x9xkh8&s=20"
+              ]
             },
             "article": null
           },
           "retweetedPost": null
         },
         {
-          "id": "2122787279504900500",
-          "text": "RT @reporterliz: Council member Monica Rodriguez posted these motions to call for a special elx for CD4, and to reactivate a council file o…",
-          "url": "https://x.com/UnrigLA/status/2122787279504900500",
+          "id": "2122907225094287841",
+          "text": "Raman coming out in support of a special dramatically tips the odds that we see one. More important than being the incumbent rep, she could plausibly force Council’s hand by resigning in the days prior to the Dec 14 transition for new terms \nhttps://t.co/aZKe8ItJyK https://t.co/eMh4cUspGe",
+          "url": "https://x.com/UnrigLA/status/2122907225094287841",
           "lang": "en",
-          "createdAt": "2026-11-17T20:21:41.000Z",
-          "conversationId": "2122787279504900500",
+          "createdAt": "2026-11-18T04:18:18.000Z",
+          "conversationId": "2122768665749905651",
+          "inReplyToId": "2122812936494436631",
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16596,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 1,
+          "retweetCount": 0,
+          "replyCount": 1,
+          "viewCount": 215,
+          "quoteCount": 0,
+          "bookmarkCount": 0,
+          "media": [
+            {
+              "id": "2122907222158290944",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HXYU3vPbMAAMG-F.jpg?name=orig",
+              "previewImageUrl": null
+            }
+          ],
+          "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": [
+              "https://x.com/latimes/status/2122884248164077768?s=46&t=QuhGjgM5a9x7OqxCWiPPgw"
+            ]
+          },
+          "article": null,
+          "quotedPost": {
+            "id": "2122884248164077768",
+            "text": "Mayor-elect Raman calls for special election to fill her City Council seat https://t.co/CCqopW3h0h",
+            "url": "https://x.com/latimes/status/2122884248164077768",
+            "lang": "en",
+            "createdAt": "2026-11-18T02:47:00.000Z",
+            "conversationId": "2122884248164077768",
+            "inReplyToId": null,
+            "author": {
+              "id": "16664681",
+              "username": "latimes",
+              "name": "Los Angeles Times",
+              "verified": true,
+              "followersCount": 3820592,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1587517258129035264/GVhkwB-D_normal.jpg"
+            },
+            "likeCount": 206,
+            "retweetCount": 19,
+            "replyCount": 11,
+            "viewCount": 14497,
+            "quoteCount": 4,
+            "bookmarkCount": 7,
+            "media": [],
+            "entities": {
+              "hashtags": [],
+              "mentions": [],
+              "urls": [
+                "https://www.latimes.com/california/story/2026-11-17/raman-calls-for-special-election-to-fill-her-council-seat"
+              ]
+            },
+            "article": null
+          },
+          "retweetedPost": null
+        },
+        {
+          "id": "2122904843467792696",
+          "text": "RT @acquaintf8: The podcast friends strike again @CD6LosAngeles https://t.co/AKanqoOkcP",
+          "url": "https://x.com/UnrigLA/status/2122904843467792696",
+          "lang": "en",
+          "createdAt": "2026-11-18T04:08:51.000Z",
+          "conversationId": "2122904843467792696",
           "inReplyToId": null,
           "author": {
             "id": "1022564507971801088",
@@ -342,166 +553,61 @@
           "likeCount": 0,
           "retweetCount": 1,
           "replyCount": 0,
-          "viewCount": 16,
+          "viewCount": 50,
           "quoteCount": 0,
-          "bookmarkCount": 0,
-          "media": [],
-          "entities": {
-            "hashtags": [],
-            "mentions": [
-              "reporterliz"
-            ],
-            "urls": []
-          },
-          "article": null,
-          "quotedPost": null,
-          "retweetedPost": {
-            "id": "2122786128445272215",
-            "text": "Council member Monica Rodriguez posted these motions to call for a special elx for CD4, and to reactivate a council file on the process for filling vacancies. (LAPD officer gave me extra time, before the usual shooing, to grab these because they posted just as they adjourned). https://t.co/jPxyKRrfhe",
-            "url": "https://x.com/reporterliz/status/2122786128445272215",
-            "lang": "en",
-            "createdAt": "2026-11-17T20:17:07.000Z",
-            "conversationId": "2122786128445272215",
-            "inReplyToId": null,
-            "author": {
-              "id": "37085458",
-              "username": "reporterliz",
-              "name": "Elizabeth Chou",
-              "verified": false,
-              "followersCount": 5176,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/2085103524539695104/qGrB1jBv_normal.jpg"
-            },
-            "likeCount": 6,
-            "retweetCount": 1,
-            "replyCount": 1,
-            "viewCount": 486,
-            "quoteCount": 1,
-            "bookmarkCount": 0,
-            "media": [
-              {
-                "id": "2122786124695490560",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXWmu8CaUAAcKH1.jpg?name=orig",
-                "previewImageUrl": null
-              },
-              {
-                "id": "2122786124662034433",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXWmu76b0AEy2Z0.jpg?name=orig",
-                "previewImageUrl": null
-              }
-            ],
-            "entities": {
-              "hashtags": [],
-              "mentions": [],
-              "urls": []
-            },
-            "article": null
-          }
-        },
-        {
-          "id": "2122783326654304500",
-          "text": "Holly Wolcott &amp; Petty Santos would've never let this happen. https://t.co/SlHXjWBqxz",
-          "url": "https://x.com/UnrigLA/status/2122783326654304500",
-          "lang": "en",
-          "createdAt": "2026-11-17T20:05:59.000Z",
-          "conversationId": "2122783326654304500",
-          "inReplyToId": null,
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16596,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 1,
-          "retweetCount": 0,
-          "replyCount": 0,
-          "viewCount": 342,
-          "quoteCount": 1,
           "bookmarkCount": 0,
           "media": [
             {
-              "id": "2122783021686472704",
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HXWj6UbaQAA1NqZ.jpg?name=orig",
-              "previewImageUrl": null
+              "id": "2122898349963796480",
+              "type": "video",
+              "url": "https://video.twimg.com/amplify_video/2122898349963796480/vid/avc1/1206x1186/4srk7o5eTapyTNxR.mp4?tag=29",
+              "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2122898349963796480/img/yk7M5bQk4Ez1bKm-.jpg"
             }
           ],
           "entities": {
             "hashtags": [],
-            "mentions": [],
-            "urls": []
-          },
-          "article": null,
-          "quotedPost": null,
-          "retweetedPost": null
-        },
-        {
-          "id": "2122771516224164170",
-          "text": "RT @NicoSGonzalez: Thanks to the leadership of @FreddyPuzaCC, @YasmineMcMorrin and @bubbathefish, Culver City has voted to cancel our contr…",
-          "url": "https://x.com/UnrigLA/status/2122771516224164170",
-          "lang": "en",
-          "createdAt": "2026-11-17T19:19:03.000Z",
-          "conversationId": "2122771516224164170",
-          "inReplyToId": null,
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16596,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 0,
-          "retweetCount": 4,
-          "replyCount": 0,
-          "viewCount": 33,
-          "quoteCount": 0,
-          "bookmarkCount": 0,
-          "media": [],
-          "entities": {
-            "hashtags": [],
             "mentions": [
-              "NicoSGonzalez",
-              "FreddyPuzaCC",
-              "YasmineMcMorrin",
-              "bubbathefish"
+              "acquaintf8",
+              "CD6LosAngeles"
             ],
             "urls": []
           },
           "article": null,
           "quotedPost": null,
           "retweetedPost": {
-            "id": "2122725828643684849",
-            "text": "Thanks to the leadership of @FreddyPuzaCC, @YasmineMcMorrin and @bubbathefish, Culver City has voted to cancel our contract with Flock cameras! That’s neat",
-            "url": "https://x.com/NicoSGonzalez/status/2122725828643684849",
+            "id": "2122898514636341431",
+            "text": "The podcast friends strike again @CD6LosAngeles https://t.co/AKanqoOkcP",
+            "url": "https://x.com/acquaintf8/status/2122898514636341431",
             "lang": "en",
-            "createdAt": "2026-11-17T16:17:30.000Z",
-            "conversationId": "2122725828643684849",
+            "createdAt": "2026-11-18T03:43:42.000Z",
+            "conversationId": "2122898514636341431",
             "inReplyToId": null,
             "author": {
-              "id": "129653547",
-              "username": "NicoSGonzalez",
-              "name": "Nicolas Gonzalez",
+              "id": "3643352052",
+              "username": "acquaintf8",
+              "name": "o",
               "verified": false,
-              "followersCount": 8095,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1986634841241362433/-8hFibY8_normal.jpg"
+              "followersCount": 22882,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1781152487732637696/kOj5Gaay_normal.jpg"
             },
-            "likeCount": 20,
-            "retweetCount": 4,
-            "replyCount": 0,
-            "viewCount": 765,
+            "likeCount": 16,
+            "retweetCount": 1,
+            "replyCount": 1,
+            "viewCount": 943,
             "quoteCount": 0,
-            "bookmarkCount": 1,
-            "media": [],
+            "bookmarkCount": 3,
+            "media": [
+              {
+                "id": "2122898349963796480",
+                "type": "video",
+                "url": "https://video.twimg.com/amplify_video/2122898349963796480/vid/avc1/1206x1186/4srk7o5eTapyTNxR.mp4?tag=29",
+                "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2122898349963796480/img/yk7M5bQk4Ez1bKm-.jpg"
+              }
+            ],
             "entities": {
               "hashtags": [],
               "mentions": [
-                "FreddyPuzaCC",
-                "YasmineMcMorrin",
-                "bubbathefish"
+                "CD6LosAngeles"
               ],
               "urls": []
             },
@@ -509,12 +615,12 @@
           }
         },
         {
-          "id": "2122759066422505899",
-          "text": "RT @reporterliz: Motions get posted to a public board immediately, and it's always been puzzling to me that digital versions aren't also se…",
-          "url": "https://x.com/UnrigLA/status/2122759066422505899",
+          "id": "2122884952627011733",
+          "text": "RT @latimes: Mayor-elect Raman calls for special election to fill her City Council seat https://t.co/CCqopW3h0h",
+          "url": "https://x.com/UnrigLA/status/2122884952627011733",
           "lang": "en",
-          "createdAt": "2026-11-17T18:29:35.000Z",
-          "conversationId": "2122759066422505899",
+          "createdAt": "2026-11-18T02:49:48.000Z",
+          "conversationId": "2122884952627011733",
           "inReplyToId": null,
           "author": {
             "id": "1022564507971801088",
@@ -525,119 +631,60 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
-          "retweetCount": 2,
+          "retweetCount": 19,
           "replyCount": 0,
-          "viewCount": 31,
+          "viewCount": 35,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
           "entities": {
             "hashtags": [],
             "mentions": [
-              "reporterliz"
+              "latimes"
             ],
-            "urls": []
+            "urls": [
+              "https://www.latimes.com/california/story/2026-11-17/raman-calls-for-special-election-to-fill-her-council-seat"
+            ]
           },
           "article": null,
           "quotedPost": null,
           "retweetedPost": {
-            "id": "2122757547321118868",
-            "text": "Motions get posted to a public board immediately, and it's always been puzzling to me that digital versions aren't also sent out just as quickly.",
-            "url": "https://x.com/reporterliz/status/2122757547321118868",
+            "id": "2122884248164077768",
+            "text": "Mayor-elect Raman calls for special election to fill her City Council seat https://t.co/CCqopW3h0h",
+            "url": "https://x.com/latimes/status/2122884248164077768",
             "lang": "en",
-            "createdAt": "2026-11-17T18:23:32.000Z",
-            "conversationId": "2122757547321118868",
+            "createdAt": "2026-11-18T02:47:00.000Z",
+            "conversationId": "2122884248164077768",
             "inReplyToId": null,
             "author": {
-              "id": "37085458",
-              "username": "reporterliz",
-              "name": "Elizabeth Chou",
-              "verified": false,
-              "followersCount": 5176,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/2085103524539695104/qGrB1jBv_normal.jpg"
-            },
-            "likeCount": 4,
-            "retweetCount": 2,
-            "replyCount": 2,
-            "viewCount": 587,
-            "quoteCount": 0,
-            "bookmarkCount": 1,
-            "media": [],
-            "entities": {
-              "hashtags": [],
-              "mentions": [],
-              "urls": []
-            },
-            "article": null
-          }
-        },
-        {
-          "id": "2122567781229191175",
-          "text": "RT @FilmThePoliceLA: Can’t make this shit up.",
-          "url": "https://x.com/UnrigLA/status/2122567781229191175",
-          "lang": "en",
-          "createdAt": "2026-11-17T05:49:29.000Z",
-          "conversationId": "2122567781229191175",
-          "inReplyToId": null,
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16596,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 0,
-          "retweetCount": 205,
-          "replyCount": 0,
-          "viewCount": 49,
-          "quoteCount": 0,
-          "bookmarkCount": 0,
-          "media": [],
-          "entities": {
-            "hashtags": [],
-            "mentions": [
-              "FilmThePoliceLA"
-            ],
-            "urls": []
-          },
-          "article": null,
-          "quotedPost": null,
-          "retweetedPost": {
-            "id": "2122564255530766423",
-            "text": "Can’t make this shit up.",
-            "url": "https://x.com/FilmThePoliceLA/status/2122564255530766423",
-            "lang": "en",
-            "createdAt": "2026-11-17T05:35:28.000Z",
-            "conversationId": "2122564255530766423",
-            "inReplyToId": null,
-            "author": {
-              "id": "16858860",
-              "username": "FilmThePoliceLA",
-              "name": "Film The Police LA",
+              "id": "16664681",
+              "username": "latimes",
+              "name": "Los Angeles Times",
               "verified": true,
-              "followersCount": 97017,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1350144666277040131/8dyEZCIy_normal.jpg"
+              "followersCount": 3820592,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1587517258129035264/GVhkwB-D_normal.jpg"
             },
-            "likeCount": 1051,
-            "retweetCount": 205,
+            "likeCount": 206,
+            "retweetCount": 19,
             "replyCount": 11,
-            "viewCount": 12137,
-            "quoteCount": 1,
-            "bookmarkCount": 35,
+            "viewCount": 14497,
+            "quoteCount": 4,
+            "bookmarkCount": 7,
             "media": [],
             "entities": {
               "hashtags": [],
               "mentions": [],
-              "urls": []
+              "urls": [
+                "https://www.latimes.com/california/story/2026-11-17/raman-calls-for-special-election-to-fill-her-council-seat"
+              ]
             },
             "article": null
           }
         }
       ],
       "meta": {
-        "requestId": "8ff9589c-2860-4114-87df-c68f7349aacf",
-        "nextCursor": "v2.g1MzZLOJGCFnLUZ1A9wy08fBndXRJEFaboR6ePFzZXlyf5SOyopzx1I-shkzYF1aOOCcQbOwkBilhla8l-cZh7gqBlJH68cwFBQ7iWRfFyN8-yG0zSy65CD7ZccoBw"
+        "requestId": "d5a382e2-8e9b-43f2-b0c8-83001a379f3d",
+        "nextCursor": "v2.0Zy30J76rEFzFs6BPSnFkJAzaVsVbNjBNFwaa0UiYWeBW2mgCDu3aVJuO5WRYb_YHVkmAGEVmw53CafrdgND_wU9TCOgwvnAOeytxSII77urxoYNtWn5qZCkgkTQ2Q"
       }
     }
   },
@@ -664,7 +711,7 @@
         "protected": false
       },
       "meta": {
-        "requestId": "57f6cfc9-a4b7-4046-b614-d13f0318b81d"
+        "requestId": "4ddbdaa4-fb9c-4da8-8a2b-936fe7d11824"
       }
     },
     "posts": {
@@ -770,7 +817,7 @@
           "likeCount": 17,
           "retweetCount": 5,
           "replyCount": 1,
-          "viewCount": 2854,
+          "viewCount": 2855,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
@@ -1085,7 +1132,7 @@
               "username": "StreetsblogLA",
               "name": "StreetsblogLA",
               "verified": false,
-              "followersCount": 217254,
+              "followersCount": 217223,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1542890723/streetsblog-la-twitter_normal.png"
             },
             "likeCount": 45,
@@ -1146,8 +1193,8 @@
         }
       ],
       "meta": {
-        "requestId": "cec64428-9563-4e65-8016-2ddbd4261e81",
-        "nextCursor": "v2.0PJZcSg3B7ISNGhtmSpDG16IgVM4uG3f0e8coh-T0KGTMfRVxdAactO4gFWCka5FSqdlmCyjkiIu8JbZKMrZvFDXoNlc4AmzcwGP9Zsinsr1IKIGgGRocaQrDn0rrg"
+        "requestId": "9aa3facb-53e8-4a56-b2ca-5530b97de21a",
+        "nextCursor": "v2.yWIoz5pJ_tIKbfWNesF2pYlO6TuprsgG8YdWxp8ds6_QsWWhw9KZ9peMZ_urVsg2JfValYmqf16pBUFtJYOGBPYbibRBpybysQ9IuqjA0LJQGC0T8RhAM6_yQvZx-g"
       }
     }
   }
