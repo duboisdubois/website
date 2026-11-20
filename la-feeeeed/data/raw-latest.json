@@ -11,10 +11,10 @@
         "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1022564507971801088/1611270110",
         "location": "Los Angeles, CA",
         "verified": false,
-        "followersCount": 16604,
+        "followersCount": 16609,
         "followingCount": 986,
-        "statusesCount": 30890,
-        "likeCount": 87587,
+        "statusesCount": 30902,
+        "likeCount": 87644,
         "createdAt": "2018-07-26T19:29:11.000Z",
         "pinnedPostIds": [
           "1938684970152927421"
@@ -22,7 +22,7 @@
         "protected": false
       },
       "meta": {
-        "requestId": "e576b83b-834b-4d9d-94c5-1bd6495c2e40"
+        "requestId": "94715542-1fc0-4440-83db-c7f4060c27f9"
       }
     },
     "posts": {
@@ -40,15 +40,15 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16604,
+            "followersCount": 16609,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 381,
           "retweetCount": 66,
           "replyCount": 25,
-          "viewCount": 100018,
+          "viewCount": 100170,
           "quoteCount": 8,
-          "bookmarkCount": 23,
+          "bookmarkCount": 24,
           "media": [
             {
               "id": "1938684966671667200",
@@ -67,115 +67,256 @@
           "retweetedPost": null
         },
         {
-          "id": "2123516790743663053",
-          "text": "RT @LACityPets: Coming up today during the one o'clock hour... Meet Stark #A2306498, our @KTLA #PetOfTheWeek! \n\nHe's 10 months old, 8 lbs,…",
-          "url": "https://x.com/UnrigLA/status/2123516790743663053",
+          "id": "2123580326509441088",
+          "text": "RT @reporterliz: Data center fighter Steven Kung gained 5 votes, and the incumbent Vinh Ngo gained 6 in this razor-thin contest in the 5th…",
+          "url": "https://x.com/UnrigLA/status/2123580326509441088",
           "lang": "en",
-          "createdAt": "2026-11-19T20:40:30.000Z",
-          "conversationId": "2123516790743663053",
+          "createdAt": "2026-11-20T00:52:58.000Z",
+          "conversationId": "2123580326509441088",
           "inReplyToId": null,
           "author": {
             "id": "1022564507971801088",
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16604,
+            "followersCount": 16609,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
-          "retweetCount": 2,
+          "retweetCount": 1,
           "replyCount": 0,
-          "viewCount": 8,
+          "viewCount": 44,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
           "entities": {
-            "hashtags": [
-              "A2306498",
-              "PetOfTheWeek"
-            ],
+            "hashtags": [],
             "mentions": [
-              "LACityPets",
-              "KTLA"
+              "reporterliz"
             ],
             "urls": []
           },
           "article": null,
           "quotedPost": null,
           "retweetedPost": {
-            "id": "2123515456950563113",
-            "text": "Coming up today during the one o'clock hour... Meet Stark #A2306498, our @KTLA #PetOfTheWeek! \n\nHe's 10 months old, 8 lbs, and this Pomeranian-mix will be available at our East Valley Services Center on Saturday, November 21  at 11am. #LACityPets #Adopt #Foster #LosAngeles https://t.co/PCh9xQSJmf",
-            "url": "https://x.com/LACityPets/status/2123515456950563113",
+            "id": "2123578685496430786",
+            "text": "Data center fighter Steven Kung gained 5 votes, and the incumbent Vinh Ngo gained 6 in this razor-thin contest in the 5th Monterey Park City Council race. \n\nThat means the 2 vote difference has widened to 3 votes. The candidates must be 😵‍💫 rn. https://t.co/pAc9gfvZQi",
+            "url": "https://x.com/reporterliz/status/2123578685496430786",
             "lang": "en",
-            "createdAt": "2026-11-19T20:35:12.000Z",
-            "conversationId": "2123515456950563113",
+            "createdAt": "2026-11-20T00:46:27.000Z",
+            "conversationId": "2123578685496430786",
             "inReplyToId": null,
             "author": {
-              "id": "81230937",
-              "username": "LACityPets",
-              "name": "LA Animal Services",
+              "id": "37085458",
+              "username": "reporterliz",
+              "name": "Elizabeth Chou",
               "verified": false,
-              "followersCount": 11306,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1582064213911998464/SIHydN_y_normal.jpg"
+              "followersCount": 5176,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/2085103524539695104/qGrB1jBv_normal.jpg"
             },
-            "likeCount": 1,
-            "retweetCount": 2,
-            "replyCount": 0,
-            "viewCount": 41,
+            "likeCount": 5,
+            "retweetCount": 1,
+            "replyCount": 3,
+            "viewCount": 555,
             "quoteCount": 0,
             "bookmarkCount": 0,
             "media": [
               {
-                "id": "2123515454131949568",
+                "id": "2123577507744190464",
                 "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXg-Df6WUAAukyM.jpg?name=orig",
+                "url": "https://pbs.twimg.com/media/HXh2ffoaEAAh9Ug.jpg?name=orig",
                 "previewImageUrl": null
               }
             ],
             "entities": {
-              "hashtags": [
-                "A2306498",
-                "PetOfTheWeek",
-                "LACityPets",
-                "Adopt",
-                "Foster",
-                "LosAngeles"
-              ],
-              "mentions": [
-                "KTLA"
-              ],
+              "hashtags": [],
+              "mentions": [],
               "urls": []
             },
             "article": null
           }
         },
         {
-          "id": "2123512567251583320",
-          "text": "🫠 https://t.co/4UoFuD5Z5w",
-          "url": "https://x.com/UnrigLA/status/2123512567251583320",
-          "lang": "qme",
-          "createdAt": "2026-11-19T20:23:43.000Z",
-          "conversationId": "2123512567251583320",
+          "id": "2123573921123606958",
+          "text": "Another update goes Ugarte’s way. His lead is now 87.\n\nStill absurdly close but not an encouraging trend.\n\nUgarte: +50 (65.79%)\nMazariegos: +26 (34.21%) https://t.co/ef7D1VOMRl",
+          "url": "https://x.com/UnrigLA/status/2123573921123606958",
+          "lang": "en",
+          "createdAt": "2026-11-20T00:27:31.000Z",
+          "conversationId": "2123573921123606958",
           "inReplyToId": null,
           "author": {
             "id": "1022564507971801088",
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16604,
+            "followersCount": 16609,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
-          "likeCount": 3,
-          "retweetCount": 1,
+          "likeCount": 28,
+          "retweetCount": 4,
+          "replyCount": 8,
+          "viewCount": 5013,
+          "quoteCount": 6,
+          "bookmarkCount": 3,
+          "media": [
+            {
+              "id": "2123573917545795584",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HXhzOhGaEAAGk6r.jpg?name=orig",
+              "previewImageUrl": null
+            }
+          ],
+          "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+          },
+          "article": null,
+          "quotedPost": {
+            "id": "2122849916787864015",
+            "text": "Today’s update goes Ugarte’s way. Lead is now 63.\n\nUgarte: +73 (58.87%)\nMazariegos: +51 (41.13%)\n\nGirvan: +53 (56.38%)\nGaspar: +41 (43.62%)\nhttps://t.co/AEt1V9UWlj https://t.co/7rlo38Fn5z",
+            "url": "https://x.com/UnrigLA/status/2122849916787864015",
+            "lang": "en",
+            "createdAt": "2026-11-18T00:30:35.000Z",
+            "conversationId": "2122849050953392363",
+            "inReplyToId": "2122849050953392363",
+            "author": {
+              "id": "1022564507971801088",
+              "username": "UnrigLA",
+              "name": "Unrig LA",
+              "verified": false,
+              "followersCount": 16609,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+            },
+            "likeCount": 14,
+            "retweetCount": 2,
+            "replyCount": 4,
+            "viewCount": 3719,
+            "quoteCount": 5,
+            "bookmarkCount": 3,
+            "media": [
+              {
+                "id": "2122849914111897600",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HXXgv-IbsAAarBr.jpg?name=orig",
+                "previewImageUrl": null
+              }
+            ],
+            "entities": {
+              "hashtags": [],
+              "mentions": [],
+              "urls": [
+                "https://x.com/unrigla/status/2121392406633541787?s=46&t=QuhGjgM5a9x7OqxCWiPPgw"
+              ]
+            },
+            "article": null
+          },
+          "retweetedPost": null
+        },
+        {
+          "id": "2123577316727197723",
+          "text": "Raman: +363 (60.5%)\nBass: +237 (39.5%)\nhttps://t.co/dBo4ZyusTC https://t.co/yJn7apo9a6",
+          "url": "https://x.com/UnrigLA/status/2123577316727197723",
+          "lang": "en",
+          "createdAt": "2026-11-20T00:41:01.000Z",
+          "conversationId": "2123573921123606958",
+          "inReplyToId": "2123573921123606958",
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16609,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 2,
+          "retweetCount": 0,
           "replyCount": 0,
-          "viewCount": 170,
+          "viewCount": 415,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [
             {
-              "id": "2123512563623473152",
+              "id": "2123577313870950400",
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HXg7bP7bMAARxGJ.jpg?name=orig",
+              "url": "https://pbs.twimg.com/media/HXh2UNZbMAAZ7xC.jpg?name=orig",
+              "previewImageUrl": null
+            }
+          ],
+          "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": [
+              "https://x.com/unrigla/status/2122849050953392363?s=46&t=QuhGjgM5a9x7OqxCWiPPgw"
+            ]
+          },
+          "article": null,
+          "quotedPost": {
+            "id": "2122849050953392363",
+            "text": "Raman: +1,231 (64.59%)\nBass: +675 (35.41%) https://t.co/JugPtTzXrC",
+            "url": "https://x.com/UnrigLA/status/2122849050953392363",
+            "lang": "en",
+            "createdAt": "2026-11-18T00:27:09.000Z",
+            "conversationId": "2122849050953392363",
+            "inReplyToId": null,
+            "author": {
+              "id": "1022564507971801088",
+              "username": "UnrigLA",
+              "name": "Unrig LA",
+              "verified": false,
+              "followersCount": 16609,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+            },
+            "likeCount": 18,
+            "retweetCount": 3,
+            "replyCount": 2,
+            "viewCount": 2170,
+            "quoteCount": 2,
+            "bookmarkCount": 1,
+            "media": [
+              {
+                "id": "2122849047077928960",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HXXf9gLbQAAM3OT.jpg?name=orig",
+                "previewImageUrl": null
+              }
+            ],
+            "entities": {
+              "hashtags": [],
+              "mentions": [],
+              "urls": []
+            },
+            "article": null
+          },
+          "retweetedPost": null
+        },
+        {
+          "id": "2123546578598449601",
+          "text": "BIG if true https://t.co/uqTJv9tLe8",
+          "url": "https://x.com/UnrigLA/status/2123546578598449601",
+          "lang": "en",
+          "createdAt": "2026-11-19T22:38:52.000Z",
+          "conversationId": "2123546578598449601",
+          "inReplyToId": null,
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16609,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 63,
+          "retweetCount": 5,
+          "replyCount": 2,
+          "viewCount": 2477,
+          "quoteCount": 2,
+          "bookmarkCount": 6,
+          "media": [
+            {
+              "id": "2123546575217778688",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HXhaW-_aYAAucBt.jpg?name=orig",
               "previewImageUrl": null
             }
           ],
@@ -189,460 +330,276 @@
           "retweetedPost": null
         },
         {
-          "id": "2123510870571614298",
-          "text": "RT @UnrigLA: TBC, Charter measures cannot go to voters at a special election ballot. My assumption is that these items will be amended on F…",
-          "url": "https://x.com/UnrigLA/status/2123510870571614298",
+          "id": "2123570064796590534",
+          "text": "No, CA Post hasn’t turned on Monica/Imelda. Sorry to disappoint.\nhttps://t.co/FHM94fx7LB",
+          "url": "https://x.com/UnrigLA/status/2123570064796590534",
           "lang": "en",
-          "createdAt": "2026-11-19T20:16:59.000Z",
-          "conversationId": "2123510870571614298",
+          "createdAt": "2026-11-20T00:12:12.000Z",
+          "conversationId": "2123546578598449601",
+          "inReplyToId": "2123546578598449601",
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16609,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 6,
+          "retweetCount": 0,
+          "replyCount": 0,
+          "viewCount": 277,
+          "quoteCount": 0,
+          "bookmarkCount": 0,
+          "media": [],
+          "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": [
+              "https://x.com/capostopinion/status/2123542028592050292?s=46&t=QuhGjgM5a9x7OqxCWiPPgw"
+            ]
+          },
+          "article": null,
+          "quotedPost": {
+            "id": "2123542028592050292",
+            "text": "Utah's 'Mormon Wives' have met their match in SoCal's nasty, backstabbing queen bees https://t.co/uKt9hehesL https://t.co/rxd3VIl1Kt",
+            "url": "https://x.com/capostopinion/status/2123542028592050292",
+            "lang": "en",
+            "createdAt": "2026-11-19T22:20:47.000Z",
+            "conversationId": "2123542028592050292",
+            "inReplyToId": null,
+            "author": {
+              "id": "1981351588842147840",
+              "username": "capostopinion",
+              "name": "California Post Opinion",
+              "verified": true,
+              "followersCount": 1897,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1987916145287163904/BbvMTupB_normal.jpg"
+            },
+            "likeCount": 0,
+            "retweetCount": 0,
+            "replyCount": 1,
+            "viewCount": 1306,
+            "quoteCount": 1,
+            "bookmarkCount": 1,
+            "media": [
+              {
+                "id": "2123542020509544448",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HXhWN3YWMAA_Xrr.jpg?name=orig",
+                "previewImageUrl": null
+              }
+            ],
+            "entities": {
+              "hashtags": [],
+              "mentions": [],
+              "urls": [
+                "https://trib.al/4RqDpoj"
+              ]
+            },
+            "article": null
+          },
+          "retweetedPost": null
+        },
+        {
+          "id": "2123569201713713232",
+          "text": "RT @jrivanob: Our reporters obtained emails from SFMTA staff showing they knowingly signed a deal giving ICE vehicles dozens of spaces at a…",
+          "url": "https://x.com/UnrigLA/status/2123569201713713232",
+          "lang": "en",
+          "createdAt": "2026-11-20T00:08:46.000Z",
+          "conversationId": "2123569201713713232",
           "inReplyToId": null,
           "author": {
             "id": "1022564507971801088",
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16604,
+            "followersCount": 16609,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
-          "retweetCount": 1,
+          "retweetCount": 122,
           "replyCount": 0,
-          "viewCount": null,
+          "viewCount": 51,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
           "entities": {
             "hashtags": [],
             "mentions": [
-              "UnrigLA"
+              "jrivanob"
             ],
             "urls": []
           },
           "article": null,
           "quotedPost": null,
           "retweetedPost": {
-            "id": "2123292893771374818",
-            "text": "TBC, Charter measures cannot go to voters at a special election ballot. My assumption is that these items will be amended on Friday to ask for reports back from the CLA. City Hall has painfully taught me that \"it can always get worse &amp; probably will\" but   https://t.co/ZWAMXNqdVy",
-            "url": "https://x.com/UnrigLA/status/2123292893771374818",
+            "id": "2123533561143935284",
+            "text": "Our reporters obtained emails from SFMTA staff showing they knowingly signed a deal giving ICE vehicles dozens of spaces at a city-owned garage \n\nOne staffer wrote, “I don’t mind taking the money”\n\nIt appears to be a plain &amp; blatant violation of the city’s sanctuary law https://t.co/8mYTfL8sHm",
+            "url": "https://x.com/jrivanob/status/2123533561143935284",
             "lang": "en",
-            "createdAt": "2026-11-19T05:50:49.000Z",
-            "conversationId": "2123176680521142691",
-            "inReplyToId": "2123178518154781089",
+            "createdAt": "2026-11-19T21:47:08.000Z",
+            "conversationId": "2123533561143935284",
+            "inReplyToId": null,
             "author": {
-              "id": "1022564507971801088",
-              "username": "UnrigLA",
-              "name": "Unrig LA",
+              "id": "2581614060",
+              "username": "jrivanob",
+              "name": "Joe Rivano Barros",
               "verified": false,
-              "followersCount": 16604,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+              "followersCount": 4335,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1229213627946688513/Chzzxlnj_normal.jpg"
             },
-            "likeCount": 9,
-            "retweetCount": 1,
-            "replyCount": 1,
-            "viewCount": 355,
-            "quoteCount": 0,
-            "bookmarkCount": 0,
-            "media": [],
+            "likeCount": 365,
+            "retweetCount": 122,
+            "replyCount": 15,
+            "viewCount": 13279,
+            "quoteCount": 8,
+            "bookmarkCount": 38,
+            "media": [
+              {
+                "id": "2123533557390069760",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HXhOhPzbUAA0xpN.jpg?name=orig",
+                "previewImageUrl": null
+              }
+            ],
             "entities": {
               "hashtags": [],
               "mentions": [],
+              "urls": []
+            },
+            "article": null
+          }
+        },
+        {
+          "id": "2123555099868090747",
+          "text": "RT @robertanglen: Investigation finds Gilbert police officials improperly ran my name through department computer systems to undermine our…",
+          "url": "https://x.com/UnrigLA/status/2123555099868090747",
+          "lang": "en",
+          "createdAt": "2026-11-19T23:12:44.000Z",
+          "conversationId": "2123555099868090747",
+          "inReplyToId": null,
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16609,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 0,
+          "retweetCount": 59,
+          "replyCount": 0,
+          "viewCount": 51,
+          "quoteCount": 0,
+          "bookmarkCount": 0,
+          "media": [],
+          "entities": {
+            "hashtags": [],
+            "mentions": [
+              "robertanglen"
+            ],
+            "urls": []
+          },
+          "article": null,
+          "quotedPost": null,
+          "retweetedPost": {
+            "id": "2123479928478024108",
+            "text": "Investigation finds Gilbert police officials improperly ran my name through department computer systems to undermine our reporting on the Gilbert Goons. \n\nThat was months before Councilmember Chuck Bongiovanni falsely claimed I had a criminal “history” with the department. Story by @HarrisonMantas via @azcentral \nhttps://t.co/Ee6T4SGbXo",
+            "url": "https://x.com/robertanglen/status/2123479928478024108",
+            "lang": "en",
+            "createdAt": "2026-11-19T18:14:01.000Z",
+            "conversationId": "2123479928478024108",
+            "inReplyToId": null,
+            "author": {
+              "id": "65758192",
+              "username": "robertanglen",
+              "name": "Robert Anglen",
+              "verified": true,
+              "followersCount": 4707,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1580226983010529280/WDMtamZS_normal.jpg"
+            },
+            "likeCount": 136,
+            "retweetCount": 59,
+            "replyCount": 6,
+            "viewCount": 3724,
+            "quoteCount": 3,
+            "bookmarkCount": 7,
+            "media": [],
+            "entities": {
+              "hashtags": [],
+              "mentions": [
+                "HarrisonMantas",
+                "azcentral"
+              ],
               "urls": [
-                "https://x.com/UnrigLA/status/2123267545881079856?a=nb5eQEuqw_8fqXzYbDo&s=20"
+                "https://www.azcentral.com/story/news/metro-phoenix/2026/11/18/former-gilbert-police-officer-used-database-to-look-up-reporter/92850836007/?utm_source=azcentral-dailybriefing-strada&utm_medium=email&utm_campaign=dailybriefing-greeting&utm_term=hero&utm_content=pphx-phoenix-nletter02"
               ]
             },
             "article": null
           }
         },
         {
-          "id": "2123496104641925192",
-          "text": "RT @jelly_pack: The biggest, most influential videogame on the planet teaching young men how to have a girlfriend and be socially normal is…",
-          "url": "https://x.com/UnrigLA/status/2123496104641925192",
+          "id": "2123535482135191588",
+          "text": "RT @AdamHerbets: Los Angeles Mayor Karen Bass faces investigation after stories by The Center Square.\n\nThe FPPC has declined to comment, bu…",
+          "url": "https://x.com/UnrigLA/status/2123535482135191588",
           "lang": "en",
-          "createdAt": "2026-11-19T19:18:18.000Z",
-          "conversationId": "2123496104641925192",
+          "createdAt": "2026-11-19T21:54:46.000Z",
+          "conversationId": "2123535482135191588",
           "inReplyToId": null,
           "author": {
             "id": "1022564507971801088",
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16604,
+            "followersCount": 16609,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
-          "retweetCount": 10314,
+          "retweetCount": 13,
           "replyCount": 0,
-          "viewCount": 32,
+          "viewCount": 55,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
           "entities": {
             "hashtags": [],
             "mentions": [
-              "jelly_pack"
+              "AdamHerbets"
             ],
             "urls": []
           },
           "article": null,
           "quotedPost": null,
           "retweetedPost": {
-            "id": "2123352266547605646",
-            "text": "The biggest, most influential videogame on the planet teaching young men how to have a girlfriend and be socially normal is an extinction level threat for these mutants lol",
-            "url": "https://x.com/jelly_pack/status/2123352266547605646",
+            "id": "2123525925216366630",
+            "text": "Los Angeles Mayor Karen Bass faces investigation after stories by The Center Square.\n\nThe FPPC has declined to comment, but they confirmed  investigations into politicians do not cease simply because they were voted out of office.\n\nhttps://t.co/hbcnPxqsp1",
+            "url": "https://x.com/AdamHerbets/status/2123525925216366630",
             "lang": "en",
-            "createdAt": "2026-11-19T09:46:44.000Z",
-            "conversationId": "2123352266547605646",
+            "createdAt": "2026-11-19T21:16:48.000Z",
+            "conversationId": "2123525925216366630",
             "inReplyToId": null,
             "author": {
-              "id": "45194112",
-              "username": "jelly_pack",
-              "name": "Ewan",
+              "id": "717100525",
+              "username": "AdamHerbets",
+              "name": "Adam Herbets",
               "verified": false,
-              "followersCount": 5128,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1417228607433461764/ZqwU5rHw_normal.jpg"
+              "followersCount": 15015,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1972683014212837376/0nPW6o8D_normal.jpg"
             },
-            "likeCount": 127051,
-            "retweetCount": 10314,
-            "replyCount": 883,
-            "viewCount": 1171154,
-            "quoteCount": 185,
-            "bookmarkCount": 5221,
+            "likeCount": 59,
+            "retweetCount": 13,
+            "replyCount": 4,
+            "viewCount": 7424,
+            "quoteCount": 4,
+            "bookmarkCount": 8,
             "media": [],
             "entities": {
               "hashtags": [],
               "mentions": [],
-              "urls": []
-            },
-            "article": null
-          }
-        },
-        {
-          "id": "2123496090712608811",
-          "text": "RT @emeriticus: Not even six months ago he was signaling support for executing race traitors, and now one bad midterm later he’s singing “I…",
-          "url": "https://x.com/UnrigLA/status/2123496090712608811",
-          "lang": "en",
-          "createdAt": "2026-11-19T19:18:15.000Z",
-          "conversationId": "2123496090712608811",
-          "inReplyToId": null,
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16604,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 0,
-          "retweetCount": 3317,
-          "replyCount": 0,
-          "viewCount": 32,
-          "quoteCount": 0,
-          "bookmarkCount": 0,
-          "media": [],
-          "entities": {
-            "hashtags": [],
-            "mentions": [
-              "emeriticus"
-            ],
-            "urls": []
-          },
-          "article": null,
-          "quotedPost": null,
-          "retweetedPost": {
-            "id": "2123195247370850352",
-            "text": "Not even six months ago he was signaling support for executing race traitors, and now one bad midterm later he’s singing “I’m a moderate, I’m a gentle boy” https://t.co/Kx0dEXPxXm",
-            "url": "https://x.com/emeriticus/status/2123195247370850352",
-            "lang": "en",
-            "createdAt": "2026-11-18T23:22:48.000Z",
-            "conversationId": "2123195247370850352",
-            "inReplyToId": null,
-            "author": {
-              "id": "859409582426251269",
-              "username": "emeriticus",
-              "name": "Pedro L. Gonzalez",
-              "verified": true,
-              "followersCount": 175067,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1653234127250808833/aJFryRiD_normal.jpg"
-            },
-            "likeCount": 27404,
-            "retweetCount": 3317,
-            "replyCount": 113,
-            "viewCount": 292144,
-            "quoteCount": 47,
-            "bookmarkCount": 1404,
-            "media": [
-              {
-                "id": "2123195227993145344",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXcaz4lWAAAYOW4.jpg?name=orig",
-                "previewImageUrl": null
-              }
-            ],
-            "entities": {
-              "hashtags": [],
-              "mentions": [],
-              "urls": []
-            },
-            "article": null
-          }
-        },
-        {
-          "id": "2123485207085138406",
-          "text": "RT @FilmThePoliceLA: The LAPD just sent me documents from a records request regarding Kimberly Lobos — a suspected LAPD gang member.\n\nLook…",
-          "url": "https://x.com/UnrigLA/status/2123485207085138406",
-          "lang": "en",
-          "createdAt": "2026-11-19T18:35:00.000Z",
-          "conversationId": "2123485207085138406",
-          "inReplyToId": null,
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16604,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 0,
-          "retweetCount": 9,
-          "replyCount": 0,
-          "viewCount": 33,
-          "quoteCount": 0,
-          "bookmarkCount": 0,
-          "media": [],
-          "entities": {
-            "hashtags": [],
-            "mentions": [
-              "FilmThePoliceLA"
-            ],
-            "urls": []
-          },
-          "article": null,
-          "quotedPost": null,
-          "retweetedPost": {
-            "id": "2123483180078674395",
-            "text": "The LAPD just sent me documents from a records request regarding Kimberly Lobos — a suspected LAPD gang member.\n\nLook at these 20 pages. Do you think Chief McDonnell is covering something up, or nah? https://t.co/IRFkJiTSu8",
-            "url": "https://x.com/FilmThePoliceLA/status/2123483180078674395",
-            "lang": "en",
-            "createdAt": "2026-11-19T18:26:57.000Z",
-            "conversationId": "2123483180078674395",
-            "inReplyToId": null,
-            "author": {
-              "id": "16858860",
-              "username": "FilmThePoliceLA",
-              "name": "Film The Police LA",
-              "verified": true,
-              "followersCount": 97142,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1350144666277040131/8dyEZCIy_normal.jpg"
-            },
-            "likeCount": 47,
-            "retweetCount": 9,
-            "replyCount": 3,
-            "viewCount": 2006,
-            "quoteCount": 0,
-            "bookmarkCount": 5,
-            "media": [
-              {
-                "id": "2123482113844645888",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXgfu1qbEAA33j7.jpg?name=orig",
-                "previewImageUrl": null
-              },
-              {
-                "id": "2123482113840492544",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXgfu1pbsAAfdS0.jpg?name=orig",
-                "previewImageUrl": null
-              },
-              {
-                "id": "2123482113840447488",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXgfu1pbAAAlsUr.jpg?name=orig",
-                "previewImageUrl": null
-              },
-              {
-                "id": "2123482114016575488",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXgfu2TagAA6qEN.jpg?name=orig",
-                "previewImageUrl": null
-              },
-              {
-                "id": "2123483136592064512",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXggqXsaMAA4xd7.jpg?name=orig",
-                "previewImageUrl": null
-              },
-              {
-                "id": "2123482113857261568",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXgfu1tbkAA6lr8.jpg?name=orig",
-                "previewImageUrl": null
-              },
-              {
-                "id": "2123482113924284416",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXgfu19aQAA2-Uc.jpg?name=orig",
-                "previewImageUrl": null
-              },
-              {
-                "id": "2123482113945317376",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXgfu2CbMAA2Vsh.jpg?name=orig",
-                "previewImageUrl": null
-              },
-              {
-                "id": "2123482113970511872",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXgfu2IboAAjQms.jpg?name=orig",
-                "previewImageUrl": null
-              },
-              {
-                "id": "2123482113974710272",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXgfu2JbsAAHRaM.jpg?name=orig",
-                "previewImageUrl": null
-              },
-              {
-                "id": "2123482113962086400",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXgfu2GbEAAbo5v.jpg?name=orig",
-                "previewImageUrl": null
-              },
-              {
-                "id": "2123482114108907520",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXgfu2pbYAAESas.jpg?name=orig",
-                "previewImageUrl": null
-              },
-              {
-                "id": "2123482114175971328",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXgfu25asAALiMG.jpg?name=orig",
-                "previewImageUrl": null
-              },
-              {
-                "id": "2123483136323657728",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXggqWsaoAAfqTG.jpg?name=orig",
-                "previewImageUrl": null
-              },
-              {
-                "id": "2123482114272423936",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXgfu3QacAAlza8.jpg?name=orig",
-                "previewImageUrl": null
-              },
-              {
-                "id": "2123483136390799360",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXggqW8bIAAHDXM.jpg?name=orig",
-                "previewImageUrl": null
-              },
-              {
-                "id": "2123482114163421184",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXgfu22bMAA22_v.jpg?name=orig",
-                "previewImageUrl": null
-              },
-              {
-                "id": "2123483136541798400",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXggqXgbMAAHiT-.jpg?name=orig",
-                "previewImageUrl": null
-              },
-              {
-                "id": "2123483136495587328",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXggqXVaEAA1EQr.jpg?name=orig",
-                "previewImageUrl": null
-              },
-              {
-                "id": "2123482114285056000",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXgfu3TbMAA9gIo.jpg?name=orig",
-                "previewImageUrl": null
-              }
-            ],
-            "entities": {
-              "hashtags": [],
-              "mentions": [],
-              "urls": []
-            },
-            "article": null
-          }
-        },
-        {
-          "id": "2123483815368937688",
-          "text": "RT @kylietcheung: Me when im not MAGA https://t.co/6lO7MbMxxH",
-          "url": "https://x.com/UnrigLA/status/2123483815368937688",
-          "lang": "en",
-          "createdAt": "2026-11-19T18:29:28.000Z",
-          "conversationId": "2123483815368937688",
-          "inReplyToId": null,
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16604,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 0,
-          "retweetCount": 270,
-          "replyCount": 0,
-          "viewCount": 36,
-          "quoteCount": 0,
-          "bookmarkCount": 0,
-          "media": [
-            {
-              "id": "2123215096541597696",
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HXcs4Ysb0AAfAPV.jpg?name=orig",
-              "previewImageUrl": null
-            }
-          ],
-          "entities": {
-            "hashtags": [],
-            "mentions": [
-              "kylietcheung"
-            ],
-            "urls": []
-          },
-          "article": null,
-          "quotedPost": null,
-          "retweetedPost": {
-            "id": "2123215099251028027",
-            "text": "Me when im not MAGA https://t.co/6lO7MbMxxH",
-            "url": "https://x.com/kylietcheung/status/2123215099251028027",
-            "lang": "en",
-            "createdAt": "2026-11-19T00:41:41.000Z",
-            "conversationId": "2123215099251028027",
-            "inReplyToId": null,
-            "author": {
-              "id": "1271691679",
-              "username": "kylietcheung",
-              "name": "Kylie Cheung",
-              "verified": true,
-              "followersCount": 53467,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/2084861265470447617/9DhBvc5P_normal.jpg"
-            },
-            "likeCount": 4669,
-            "retweetCount": 270,
-            "replyCount": 1,
-            "viewCount": 39383,
-            "quoteCount": 2,
-            "bookmarkCount": 87,
-            "media": [
-              {
-                "id": "2123215096541597696",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXcs4Ysb0AAfAPV.jpg?name=orig",
-                "previewImageUrl": null
-              }
-            ],
-            "entities": {
-              "hashtags": [],
-              "mentions": [],
-              "urls": []
+              "urls": [
+                "https://www.thecentersquare.com/california/article_c4ef7489-2c08-4ecc-8720-09ff9a6d15b8.html"
+              ]
             },
             "article": null
           }
@@ -660,13 +617,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16604,
+            "followersCount": 16609,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
-          "likeCount": 11,
+          "likeCount": 21,
           "retweetCount": 1,
-          "replyCount": 1,
-          "viewCount": 679,
+          "replyCount": 2,
+          "viewCount": 1456,
           "quoteCount": 0,
           "bookmarkCount": 2,
           "media": [
@@ -696,13 +653,13 @@
               "username": "UnrigLA",
               "name": "Unrig LA",
               "verified": false,
-              "followersCount": 16604,
+              "followersCount": 16609,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
             },
-            "likeCount": 24,
+            "likeCount": 27,
             "retweetCount": 0,
             "replyCount": 1,
-            "viewCount": 1572,
+            "viewCount": 2382,
             "quoteCount": 1,
             "bookmarkCount": 0,
             "media": [],
@@ -714,96 +671,11 @@
             "article": null
           },
           "retweetedPost": null
-        },
-        {
-          "id": "2123475243058790854",
-          "text": "RT @unstableair: Highest I’ve ever seen it! Woodman/Milbank in Sherman oaks; 8:45am #CAwx #rain #LosAngeles https://t.co/RVj7GCQ9G0",
-          "url": "https://x.com/UnrigLA/status/2123475243058790854",
-          "lang": "en",
-          "createdAt": "2026-11-19T17:55:24.000Z",
-          "conversationId": "2123475243058790854",
-          "inReplyToId": null,
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16604,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 0,
-          "retweetCount": 106,
-          "replyCount": 0,
-          "viewCount": 37,
-          "quoteCount": 0,
-          "bookmarkCount": 0,
-          "media": [
-            {
-              "id": "2123464197656981504",
-              "type": "video",
-              "url": "https://video.twimg.com/amplify_video/2123464197656981504/vid/avc1/720x1280/U1hCkEVgCGlNAkYu.mp4?tag=29",
-              "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2123464197656981504/img/tQA1udHcX-8DxcU5.jpg"
-            }
-          ],
-          "entities": {
-            "hashtags": [
-              "CAwx",
-              "rain",
-              "LosAngeles"
-            ],
-            "mentions": [
-              "unstableair"
-            ],
-            "urls": []
-          },
-          "article": null,
-          "quotedPost": null,
-          "retweetedPost": {
-            "id": "2123464251046293788",
-            "text": "Highest I’ve ever seen it! Woodman/Milbank in Sherman oaks; 8:45am #CAwx #rain #LosAngeles https://t.co/RVj7GCQ9G0",
-            "url": "https://x.com/unstableair/status/2123464251046293788",
-            "lang": "en",
-            "createdAt": "2026-11-19T17:11:44.000Z",
-            "conversationId": "2123464251046293788",
-            "inReplyToId": null,
-            "author": {
-              "id": "1620848100431757312",
-              "username": "unstableair",
-              "name": "Molly",
-              "verified": false,
-              "followersCount": 78,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1629697111800582144/ZA4qQ5U7_normal.jpg"
-            },
-            "likeCount": 824,
-            "retweetCount": 106,
-            "replyCount": 27,
-            "viewCount": 27067,
-            "quoteCount": 25,
-            "bookmarkCount": 95,
-            "media": [
-              {
-                "id": "2123464197656981504",
-                "type": "video",
-                "url": "https://video.twimg.com/amplify_video/2123464197656981504/vid/avc1/720x1280/U1hCkEVgCGlNAkYu.mp4?tag=29",
-                "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2123464197656981504/img/tQA1udHcX-8DxcU5.jpg"
-              }
-            ],
-            "entities": {
-              "hashtags": [
-                "CAwx",
-                "rain",
-                "LosAngeles"
-              ],
-              "mentions": [],
-              "urls": []
-            },
-            "article": null
-          }
         }
       ],
       "meta": {
-        "requestId": "b62241aa-c183-4f54-b524-5e945bb5a665",
-        "nextCursor": "v2.O5LEkQcOKiOkIT19U7Oo-WKTFhgGH76f8AbUHuj6Nji6TkGXNwYuOXxAzl0pDbEdipyxp2QtLgkuOBZwbAAdfzM9MvpIWFrFQwfUewC0eCDMv7HFhMX_fD4dwSPJMg"
+        "requestId": "a0c928c2-6c35-4bcc-8d8a-5996c0d0f7a6",
+        "nextCursor": "v2.v3kV0O_T4ffggQel-gvvhXFwxNIB95tlPvD0yc8xF5ZKc3UPoGqVkE1ZEJL708fwhwSxPojT0zGYlxT33lL-BhSsnUPujuclVAWy4dqcZCLX5v6noFJHLQOhpouoJQ"
       }
     }
   },
@@ -830,7 +702,7 @@
         "protected": false
       },
       "meta": {
-        "requestId": "021a1ad5-7b6a-463f-bab0-b04b872a3550"
+        "requestId": "718b12ce-aacc-439a-b819-3fd0d9c69bb0"
       }
     },
     "posts": {
@@ -1251,7 +1123,7 @@
               "username": "StreetsblogLA",
               "name": "StreetsblogLA",
               "verified": false,
-              "followersCount": 217156,
+              "followersCount": 217126,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1542890723/streetsblog-la-twitter_normal.png"
             },
             "likeCount": 45,
@@ -1312,8 +1184,8 @@
         }
       ],
       "meta": {
-        "requestId": "51c56bc8-f548-4ace-8054-1eb1b43e5007",
-        "nextCursor": "v2.P3XQzeSoTnY4X6s1zKhXyOrzdiM7QZ1IYvCJkTLlc11tchiU3ieX10fjIRIGzh-CHfLJfWqUl1COQgejStPWrZQWOs70IiAD_9Sd0FmUhc5HCFX3N1bk-5yj0Ickug"
+        "requestId": "c279dad0-5413-49f6-989c-955cba195e5c",
+        "nextCursor": "v2.TcBRyeIDbC4z4aPBUkvUXkEcDU8y_1Z5v2ETJbRTDfGzxdRagCwL0BhdJSw4nRaohkh7GSH98Ia4MDY_PdFf9Sxj6--46sb1tzyZeH2UB-IgqGkf2lfEtF-tymN9Tw"
       }
     }
   }
