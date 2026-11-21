@@ -11,10 +11,10 @@
         "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1022564507971801088/1611270110",
         "location": "Los Angeles, CA",
         "verified": false,
-        "followersCount": 16612,
+        "followersCount": 16613,
         "followingCount": 986,
-        "statusesCount": 30918,
-        "likeCount": 87661,
+        "statusesCount": 30947,
+        "likeCount": 87713,
         "createdAt": "2018-07-26T19:29:11.000Z",
         "pinnedPostIds": [
           "1938684970152927421"
@@ -22,7 +22,7 @@
         "protected": false
       },
       "meta": {
-        "requestId": "b70726f3-f9f8-4457-860f-36c6f15071ae"
+        "requestId": "e07fb67c-7a0e-4f41-bbc6-241651bbefed"
       }
     },
     "posts": {
@@ -40,15 +40,15 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16612,
+            "followersCount": 16613,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 381,
           "retweetCount": 66,
           "replyCount": 25,
-          "viewCount": 100271,
+          "viewCount": 100778,
           "quoteCount": 8,
-          "bookmarkCount": 24,
+          "bookmarkCount": 25,
           "media": [
             {
               "id": "1938684966671667200",
@@ -67,458 +67,155 @@
           "retweetedPost": null
         },
         {
-          "id": "2123871258840596665",
-          "text": "Remarkably on brand, they cutoff public comment after 30 minutes. \n\nTons of people turned out today to speak on this. They are kicking people out now.",
-          "url": "https://x.com/UnrigLA/status/2123871258840596665",
+          "id": "2123991762784096335",
+          "text": "RT @latimes: D.A. won't charge LAPD officer who shot mentally ill man in family's Koreatown apartment https://t.co/GLbbYkduCT",
+          "url": "https://x.com/UnrigLA/status/2123991762784096335",
           "lang": "en",
-          "createdAt": "2026-11-20T20:09:02.000Z",
-          "conversationId": "2123871258840596665",
+          "createdAt": "2026-11-21T04:07:52.000Z",
+          "conversationId": "2123991762784096335",
           "inReplyToId": null,
           "author": {
             "id": "1022564507971801088",
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16612,
+            "followersCount": 16613,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
-          "likeCount": 5,
-          "retweetCount": 0,
+          "likeCount": 0,
+          "retweetCount": 4,
           "replyCount": 0,
-          "viewCount": 151,
+          "viewCount": 32,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
           "entities": {
             "hashtags": [],
-            "mentions": [],
-            "urls": []
+            "mentions": [
+              "latimes"
+            ],
+            "urls": [
+              "https://www.latimes.com/california/story/2026-11-20/yong-yang-lapd-officer-koreatown-shooting-da-charging-decision"
+            ]
           },
           "article": null,
-          "quotedPost": {
-            "id": "2123839485754626431",
-            "text": "Very on brand for MHD to drop a smug statement like this that does nothing to acknowledge he could have done better or actually clarify what action can be expected (jamming on ballot wouldn’t be a final decision and would require a second vote). https://t.co/ZspuQsRJsq",
-            "url": "https://x.com/UnrigLA/status/2123839485754626431",
+          "quotedPost": null,
+          "retweetedPost": {
+            "id": "2123990035967963273",
+            "text": "D.A. won't charge LAPD officer who shot mentally ill man in family's Koreatown apartment https://t.co/GLbbYkduCT",
+            "url": "https://x.com/latimes/status/2123990035967963273",
             "lang": "en",
-            "createdAt": "2026-11-20T18:02:47.000Z",
-            "conversationId": "2123839485754626431",
+            "createdAt": "2026-11-21T04:01:01.000Z",
+            "conversationId": "2123990035967963273",
             "inReplyToId": null,
             "author": {
-              "id": "1022564507971801088",
-              "username": "UnrigLA",
-              "name": "Unrig LA",
-              "verified": false,
-              "followersCount": 16612,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+              "id": "16664681",
+              "username": "latimes",
+              "name": "Los Angeles Times",
+              "verified": true,
+              "followersCount": 3819228,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1587517258129035264/GVhkwB-D_normal.jpg"
             },
-            "likeCount": 16,
-            "retweetCount": 1,
+            "likeCount": 0,
+            "retweetCount": 4,
             "replyCount": 1,
-            "viewCount": 1228,
-            "quoteCount": 2,
-            "bookmarkCount": 0,
-            "media": [
-              {
-                "id": "2123839482411823104",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXlkwbUbMAAqWEM.jpg?name=orig",
-                "previewImageUrl": null
-              }
-            ],
-            "entities": {
-              "hashtags": [],
-              "mentions": [],
-              "urls": []
-            },
-            "article": null
-          },
-          "retweetedPost": null
-        },
-        {
-          "id": "2123839485754626431",
-          "text": "Very on brand for MHD to drop a smug statement like this that does nothing to acknowledge he could have done better or actually clarify what action can be expected (jamming on ballot wouldn’t be a final decision and would require a second vote). https://t.co/ZspuQsRJsq",
-          "url": "https://x.com/UnrigLA/status/2123839485754626431",
-          "lang": "en",
-          "createdAt": "2026-11-20T18:02:47.000Z",
-          "conversationId": "2123839485754626431",
-          "inReplyToId": null,
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16612,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 16,
-          "retweetCount": 1,
-          "replyCount": 1,
-          "viewCount": 1228,
-          "quoteCount": 2,
-          "bookmarkCount": 0,
-          "media": [
-            {
-              "id": "2123839482411823104",
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HXlkwbUbMAAqWEM.jpg?name=orig",
-              "previewImageUrl": null
-            }
-          ],
-          "entities": {
-            "hashtags": [],
-            "mentions": [],
-            "urls": []
-          },
-          "article": null,
-          "quotedPost": {
-            "id": "2123292893771374818",
-            "text": "TBC, Charter measures cannot go to voters at a special election ballot. My assumption is that these items will be amended on Friday to ask for reports back from the CLA. City Hall has painfully taught me that \"it can always get worse &amp; probably will\" but   https://t.co/ZWAMXNqdVy",
-            "url": "https://x.com/UnrigLA/status/2123292893771374818",
-            "lang": "en",
-            "createdAt": "2026-11-19T05:50:49.000Z",
-            "conversationId": "2123176680521142691",
-            "inReplyToId": "2123178518154781089",
-            "author": {
-              "id": "1022564507971801088",
-              "username": "UnrigLA",
-              "name": "Unrig LA",
-              "verified": false,
-              "followersCount": 16612,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-            },
-            "likeCount": 12,
-            "retweetCount": 3,
-            "replyCount": 1,
-            "viewCount": 1513,
-            "quoteCount": 0,
-            "bookmarkCount": 1,
+            "viewCount": 7135,
+            "quoteCount": 1,
+            "bookmarkCount": 2,
             "media": [],
             "entities": {
               "hashtags": [],
               "mentions": [],
               "urls": [
-                "https://x.com/UnrigLA/status/2123267545881079856?a=nb5eQEuqw_8fqXzYbDo&s=20"
+                "https://www.latimes.com/california/story/2026-11-20/yong-yang-lapd-officer-koreatown-shooting-da-charging-decision"
               ]
             },
             "article": null
-          },
-          "retweetedPost": null
+          }
         },
         {
-          "id": "2123860054092963863",
-          "text": "Also laughing at the idea the CLA would be turning these reports before they leave for recess, let alone in the 10 days before their next Committee meeting.  \nhttps://t.co/qVPY8TGsMh",
-          "url": "https://x.com/UnrigLA/status/2123860054092963863",
+          "id": "2123963723627077959",
+          "text": "If our absurdly oversized Council Districts served to magically dilute NIMBY voices why are we governed by a bunch of NIMBYs?",
+          "url": "https://x.com/UnrigLA/status/2123963723627077959",
           "lang": "en",
-          "createdAt": "2026-11-20T19:24:30.000Z",
-          "conversationId": "2123839485754626431",
-          "inReplyToId": "2123859345587028034",
+          "createdAt": "2026-11-21T02:16:27.000Z",
+          "conversationId": "2123963723627077959",
+          "inReplyToId": null,
           "author": {
             "id": "1022564507971801088",
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16612,
+            "followersCount": 16613,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
-          "likeCount": 1,
-          "retweetCount": 0,
-          "replyCount": 1,
-          "viewCount": 131,
-          "quoteCount": 0,
-          "bookmarkCount": 0,
+          "likeCount": 20,
+          "retweetCount": 1,
+          "replyCount": 3,
+          "viewCount": 1118,
+          "quoteCount": 1,
+          "bookmarkCount": 1,
           "media": [],
           "entities": {
             "hashtags": [],
             "mentions": [],
-            "urls": [
-              "https://x.com/UnrigLA/status/2123851238806782460?a=F5orWBsnCk71UOGDOjU&s=20"
-            ]
+            "urls": []
           },
           "article": null,
           "quotedPost": {
-            "id": "2123851238806782460",
-            "text": "CM McOsker addresses the two charter reform items (which are now being sent back to committee) and the general process. Maybe he shoulda given a better overview of that Tuesday? https://t.co/HuqAE1YdXI",
-            "url": "https://x.com/UnrigLA/status/2123851238806782460",
+            "id": "2123910888071799131",
+            "text": "🥱 Same story every few years.  I was literally on Colorado blvd last night going to Yogurtland on Eagle Rock blvd.   DSA Councilwoman Jurado sounds very normal in her comments in this LAT story, which is good.  Eagle Rock votes, the homes above Colorado Blvd are all worth millions, tend to be more conservative in their voting patterns (still Dem tho).  Ysabel did well in those precincts since they tend to always vote against City Hall incumbents, and now she’s reflecting their perspective.  \n\nThe one funny item about city council expansion is, established HOA’s wholly within a district get stronger, because their impact is greater now in a small geographic area, your seeing the strength of Eagle Rock homeowners in terms of a bus lane, think forward now to Eagle Rock being in a smaller district.  That voice gains weight.   Will be interesting to observe and see.",
+            "url": "https://x.com/mikehtrujillo/status/2123910888071799131",
             "lang": "en",
-            "createdAt": "2026-11-20T18:49:29.000Z",
-            "conversationId": "2123839485754626431",
-            "inReplyToId": "2123846662057836910",
+            "createdAt": "2026-11-20T22:46:30.000Z",
+            "conversationId": "2123910888071799131",
+            "inReplyToId": null,
             "author": {
-              "id": "1022564507971801088",
-              "username": "UnrigLA",
-              "name": "Unrig LA",
-              "verified": false,
-              "followersCount": 16612,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-            },
-            "likeCount": 0,
-            "retweetCount": 0,
-            "replyCount": 2,
-            "viewCount": 587,
-            "quoteCount": 1,
-            "bookmarkCount": 1,
-            "media": [
-              {
-                "id": "2123849542542262272",
-                "type": "video",
-                "url": "https://video.twimg.com/amplify_video/2123849542542262272/vid/avc1/1280x732/spgbGLdj8zU_J35f.mp4?tag=29",
-                "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2123849542542262272/img/HeYh_cBKM0LJ2sDh.jpg"
-              }
-            ],
-            "entities": {
-              "hashtags": [],
-              "mentions": [],
-              "urls": []
-            },
-            "article": null
-          },
-          "retweetedPost": null
-        },
-        {
-          "id": "2123870727682355515",
-          "text": "So many times where something pops up and everyone around the horseshoe is wondering wtf is going on. They don’t get their answers through public means, it’s by 1 to 1 convos happening off the record. \nhttps://t.co/pEl092fAAv",
-          "url": "https://x.com/UnrigLA/status/2123870727682355515",
-          "lang": "en",
-          "createdAt": "2026-11-20T20:06:55.000Z",
-          "conversationId": "2123839485754626431",
-          "inReplyToId": "2123860054092963863",
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16612,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 0,
-          "retweetCount": 0,
-          "replyCount": 0,
-          "viewCount": 51,
-          "quoteCount": 0,
-          "bookmarkCount": 0,
-          "media": [],
-          "entities": {
-            "hashtags": [],
-            "mentions": [],
-            "urls": [
-              "https://x.com/unrigla/status/2123859345587028034?s=46&t=QuhGjgM5a9x7OqxCWiPPgw"
-            ]
-          },
-          "article": null,
-          "quotedPost": {
-            "id": "2123859345587028034",
-            "text": "These days, you really need to have contacts in City Hall to know what's going on in the background and what's actually being proposed. One thing to have that general approach, another to take that approach w/ something like Charter reform. https://t.co/7V4pqUR7NI",
-            "url": "https://x.com/UnrigLA/status/2123859345587028034",
-            "lang": "en",
-            "createdAt": "2026-11-20T19:21:42.000Z",
-            "conversationId": "2123839485754626431",
-            "inReplyToId": "2123858995031195902",
-            "author": {
-              "id": "1022564507971801088",
-              "username": "UnrigLA",
-              "name": "Unrig LA",
-              "verified": false,
-              "followersCount": 16612,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+              "id": "624826831",
+              "username": "mikehtrujillo",
+              "name": "Michael Trujillo",
+              "verified": true,
+              "followersCount": 7987,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1291610404167147521/EJztaPDg_normal.jpg"
             },
             "likeCount": 4,
-            "retweetCount": 1,
-            "replyCount": 2,
-            "viewCount": 166,
-            "quoteCount": 1,
-            "bookmarkCount": 0,
+            "retweetCount": 0,
+            "replyCount": 0,
+            "viewCount": 2710,
+            "quoteCount": 0,
+            "bookmarkCount": 3,
             "media": [],
-            "entities": {
-              "hashtags": [],
-              "mentions": [],
-              "urls": [
-                "https://x.com/UnrigLA/status/2123858995031195902?a=sdRIhF0eJwDQIBieSxg&s=20"
-              ]
-            },
-            "article": null
-          },
-          "retweetedPost": null
-        },
-        {
-          "id": "2123865068085678252",
-          "text": "RT @StellaNoxEclair: this is killing me https://t.co/skoyYVsQjN",
-          "url": "https://x.com/UnrigLA/status/2123865068085678252",
-          "lang": "en",
-          "createdAt": "2026-11-20T19:44:26.000Z",
-          "conversationId": "2123865068085678252",
-          "inReplyToId": null,
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16612,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 0,
-          "retweetCount": 751,
-          "replyCount": 0,
-          "viewCount": 25,
-          "quoteCount": 0,
-          "bookmarkCount": 0,
-          "media": [
-            {
-              "id": "2123808251724640256",
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HXlIWj8XMAA6dqu.png?name=orig",
-              "previewImageUrl": null
-            }
-          ],
-          "entities": {
-            "hashtags": [],
-            "mentions": [
-              "StellaNoxEclair"
-            ],
-            "urls": []
-          },
-          "article": null,
-          "quotedPost": null,
-          "retweetedPost": {
-            "id": "2123808258288947617",
-            "text": "this is killing me https://t.co/skoyYVsQjN",
-            "url": "https://x.com/StellaNoxEclair/status/2123808258288947617",
-            "lang": "en",
-            "createdAt": "2026-11-20T15:58:41.000Z",
-            "conversationId": "2123808258288947617",
-            "inReplyToId": null,
-            "author": {
-              "id": "1278325874107076608",
-              "username": "StellaNoxEclair",
-              "name": "🩶🌑❄️",
-              "verified": false,
-              "followersCount": 9678,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/2122674135423758336/LiCe-X1w_normal.jpg"
-            },
-            "likeCount": 9638,
-            "retweetCount": 751,
-            "replyCount": 35,
-            "viewCount": 91328,
-            "quoteCount": 30,
-            "bookmarkCount": 540,
-            "media": [
-              {
-                "id": "2123808251724640256",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXlIWj8XMAA6dqu.png?name=orig",
-                "previewImageUrl": null
-              }
-            ],
             "entities": {
               "hashtags": [],
               "mentions": [],
               "urls": []
             },
             "article": null
-          }
+          },
+          "retweetedPost": null
         },
         {
-          "id": "2123864809812922448",
-          "text": "RT @UnrigLA: MHD goes off on the Controller. \nhttps://t.co/su6ShbUG8j https://t.co/xVvjg3p0t6",
-          "url": "https://x.com/UnrigLA/status/2123864809812922448",
+          "id": "2123966041311363429",
+          "text": "Smaller districts means more competitive elections which forces all politicians to look beyond simply catering to low hanging fruit like HOAs and appeal to a broader swath of their districts. Sure, if we go to a council w/ 35+ reps districts could become polarized/localized.",
+          "url": "https://x.com/UnrigLA/status/2123966041311363429",
           "lang": "en",
-          "createdAt": "2026-11-20T19:43:24.000Z",
-          "conversationId": "2123864809812922448",
-          "inReplyToId": null,
+          "createdAt": "2026-11-21T02:25:40.000Z",
+          "conversationId": "2123963723627077959",
+          "inReplyToId": "2123964959050944820",
           "author": {
             "id": "1022564507971801088",
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16612,
+            "followersCount": 16613,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
-          "likeCount": 0,
-          "retweetCount": 1,
-          "replyCount": 0,
-          "viewCount": null,
+          "likeCount": 3,
+          "retweetCount": 0,
+          "replyCount": 1,
+          "viewCount": 191,
           "quoteCount": 0,
           "bookmarkCount": 0,
-          "media": [
-            {
-              "id": "2123852161520214016",
-              "type": "video",
-              "url": "https://video.twimg.com/amplify_video/2123852161520214016/vid/avc1/1280x732/1tT4ly2KN9pR_yrX.mp4?tag=29",
-              "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2123852161520214016/img/GmjO52fsEgoz5Zvj.jpg"
-            }
-          ],
-          "entities": {
-            "hashtags": [],
-            "mentions": [
-              "UnrigLA"
-            ],
-            "urls": [
-              "https://x.com/unrigla/status/2123851238806782460?s=46&t=QuhGjgM5a9x7OqxCWiPPgw"
-            ]
-          },
-          "article": null,
-          "quotedPost": null,
-          "retweetedPost": {
-            "id": "2123852330613514746",
-            "text": "MHD goes off on the Controller. \nhttps://t.co/su6ShbUG8j https://t.co/xVvjg3p0t6",
-            "url": "https://x.com/UnrigLA/status/2123852330613514746",
-            "lang": "en",
-            "createdAt": "2026-11-20T18:53:49.000Z",
-            "conversationId": "2123839485754626431",
-            "inReplyToId": "2123851238806782460",
-            "author": {
-              "id": "1022564507971801088",
-              "username": "UnrigLA",
-              "name": "Unrig LA",
-              "verified": false,
-              "followersCount": 16612,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-            },
-            "likeCount": 0,
-            "retweetCount": 1,
-            "replyCount": 2,
-            "viewCount": 368,
-            "quoteCount": 0,
-            "bookmarkCount": 3,
-            "media": [
-              {
-                "id": "2123852161520214016",
-                "type": "video",
-                "url": "https://video.twimg.com/amplify_video/2123852161520214016/vid/avc1/1280x732/1tT4ly2KN9pR_yrX.mp4?tag=29",
-                "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2123852161520214016/img/GmjO52fsEgoz5Zvj.jpg"
-              }
-            ],
-            "entities": {
-              "hashtags": [],
-              "mentions": [],
-              "urls": [
-                "https://x.com/unrigla/status/2123851238806782460?s=46&t=QuhGjgM5a9x7OqxCWiPPgw"
-              ]
-            },
-            "article": null
-          }
-        },
-        {
-          "id": "2123862508759052637",
-          "text": "Kieffer helped shepherd in 1999 charter reform as the chair of the appointed commission.",
-          "url": "https://x.com/UnrigLA/status/2123862508759052637",
-          "lang": "en",
-          "createdAt": "2026-11-20T19:34:16.000Z",
-          "conversationId": "2123862508759052637",
-          "inReplyToId": null,
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16612,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 13,
-          "retweetCount": 1,
-          "replyCount": 0,
-          "viewCount": 547,
-          "quoteCount": 0,
-          "bookmarkCount": 2,
           "media": [],
           "entities": {
             "hashtags": [],
@@ -526,68 +223,144 @@
             "urls": []
           },
           "article": null,
-          "quotedPost": {
-            "id": "2123859766304985250",
-            "text": "Mayor-elect Nithya Raman announced her transition team today, which will be led by her council chief of staff Andrea Conant and longtime lawyer and civic leader George Kieffer \n\nhttps://t.co/lGlxo86qv6",
-            "url": "https://x.com/Noah__Goldberg/status/2123859766304985250",
-            "lang": "en",
-            "createdAt": "2026-11-20T19:23:22.000Z",
-            "conversationId": "2123859766304985250",
-            "inReplyToId": null,
-            "author": {
-              "id": "2241682598",
-              "username": "Noah__Goldberg",
-              "name": "Noah Goldberg",
-              "verified": false,
-              "followersCount": 11097,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1562121397983277057/g8p659_k_normal.jpg"
-            },
-            "likeCount": 29,
-            "retweetCount": 3,
-            "replyCount": 1,
-            "viewCount": 2355,
-            "quoteCount": 3,
-            "bookmarkCount": 11,
-            "media": [],
-            "entities": {
-              "hashtags": [],
-              "mentions": [],
-              "urls": [
-                "https://www.latimes.com/california/story/2026-11-20/nithya-raman-names-conant-kieffer-to-lead-transition-team"
-              ]
-            },
-            "article": null
-          },
+          "quotedPost": null,
           "retweetedPost": null
         },
         {
-          "id": "2123861192708067770",
-          "text": "CM Adrin Nazarian’s name gets botched all the time but this was a new one. https://t.co/50MrMaQFrO",
-          "url": "https://x.com/UnrigLA/status/2123861192708067770",
+          "id": "2123966800757240298",
+          "text": "No one on council is entertaining anything above 30 and we can always look at options that hedge against local fiefdoms like 1. A combo of districts and regions. Or 2. Proportional RCV w/ multi member districts (ex. 3 reps each CD like Portland).",
+          "url": "https://x.com/UnrigLA/status/2123966800757240298",
           "lang": "en",
-          "createdAt": "2026-11-20T19:29:02.000Z",
-          "conversationId": "2123861192708067770",
-          "inReplyToId": null,
+          "createdAt": "2026-11-21T02:28:41.000Z",
+          "conversationId": "2123963723627077959",
+          "inReplyToId": "2123966041311363429",
           "author": {
             "id": "1022564507971801088",
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16612,
+            "followersCount": 16613,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 2,
           "retweetCount": 0,
           "replyCount": 0,
-          "viewCount": 349,
-          "quoteCount": 1,
+          "viewCount": 167,
+          "quoteCount": 0,
+          "bookmarkCount": 0,
+          "media": [],
+          "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+          },
+          "article": null,
+          "quotedPost": null,
+          "retweetedPost": null
+        },
+        {
+          "id": "2123942786613604713",
+          "text": "RT @metro460: that’s my mayor",
+          "url": "https://x.com/UnrigLA/status/2123942786613604713",
+          "lang": "en",
+          "createdAt": "2026-11-21T00:53:15.000Z",
+          "conversationId": "2123942786613604713",
+          "inReplyToId": null,
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16613,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 0,
+          "retweetCount": 2,
+          "replyCount": 0,
+          "viewCount": 50,
+          "quoteCount": 0,
+          "bookmarkCount": 0,
+          "media": [],
+          "entities": {
+            "hashtags": [],
+            "mentions": [
+              "metro460"
+            ],
+            "urls": []
+          },
+          "article": null,
+          "quotedPost": null,
+          "retweetedPost": {
+            "id": "2123942276238135761",
+            "text": "that’s my mayor",
+            "url": "https://x.com/metro460/status/2123942276238135761",
+            "lang": "en",
+            "createdAt": "2026-11-21T00:51:14.000Z",
+            "conversationId": "2123942276238135761",
+            "inReplyToId": null,
+            "author": {
+              "id": "984304196966014976",
+              "username": "metro460",
+              "name": "ninka",
+              "verified": false,
+              "followersCount": 1513,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/2119554755278372864/l9gHzzDf_normal.jpg"
+            },
+            "likeCount": 7,
+            "retweetCount": 2,
+            "replyCount": 0,
+            "viewCount": 414,
+            "quoteCount": 0,
+            "bookmarkCount": 0,
+            "media": [],
+            "entities": {
+              "hashtags": [],
+              "mentions": [],
+              "urls": []
+            },
+            "article": null
+          }
+        },
+        {
+          "id": "2123936910540435891",
+          "text": "Motion from CM McOsker &amp; Blumenfield looking to reactivate an old council file that sought to explore a regional governance system for our Neighborhood Councils. https://t.co/TweqdQ8HrP",
+          "url": "https://x.com/UnrigLA/status/2123936910540435891",
+          "lang": "en",
+          "createdAt": "2026-11-21T00:29:54.000Z",
+          "conversationId": "2123936910540435891",
+          "inReplyToId": null,
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16613,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 3,
+          "retweetCount": 0,
+          "replyCount": 0,
+          "viewCount": 674,
+          "quoteCount": 0,
           "bookmarkCount": 2,
           "media": [
             {
-              "id": "2123861172315394048",
-              "type": "video",
-              "url": "https://video.twimg.com/amplify_video/2123861172315394048/vid/avc1/1268x720/GheYVbrhwBCrT9vo.mp4?tag=29",
-              "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2123861172315394048/img/HmMFDQoJQTlydWFS.jpg"
+              "id": "2123936799576006656",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HXm9RCAboAAsX-Z.jpg?name=orig",
+              "previewImageUrl": null
+            },
+            {
+              "id": "2123936846195703808",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HXm9TvrbwAA9Ipe.png?name=orig",
+              "previewImageUrl": null
+            },
+            {
+              "id": "2123936846233350145",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HXm9Tv0aMAEGOB6.png?name=orig",
+              "previewImageUrl": null
             }
           ],
           "entities": {
@@ -600,79 +373,176 @@
           "retweetedPost": null
         },
         {
-          "id": "2123580326509441088",
-          "text": "RT @reporterliz: Data center fighter Steven Kung gained 5 votes, and the incumbent Vinh Ngo gained 6 in this razor-thin contest in the 5th…",
-          "url": "https://x.com/UnrigLA/status/2123580326509441088",
+          "id": "2123928175369703728",
+          "text": "Much better. https://t.co/iPdTOR9GOf",
+          "url": "https://x.com/UnrigLA/status/2123928175369703728",
           "lang": "en",
-          "createdAt": "2026-11-20T00:52:58.000Z",
-          "conversationId": "2123580326509441088",
+          "createdAt": "2026-11-20T23:55:12.000Z",
+          "conversationId": "2123928175369703728",
           "inReplyToId": null,
           "author": {
             "id": "1022564507971801088",
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16612,
+            "followersCount": 16613,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
-          "likeCount": 0,
-          "retweetCount": 2,
+          "likeCount": 9,
+          "retweetCount": 0,
           "replyCount": 0,
-          "viewCount": 49,
+          "viewCount": 832,
           "quoteCount": 0,
           "bookmarkCount": 0,
-          "media": [],
+          "media": [
+            {
+              "id": "2123927683562409984",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HXm0-aNbEAAvXBQ.jpg?name=orig",
+              "previewImageUrl": null
+            }
+          ],
           "entities": {
             "hashtags": [],
-            "mentions": [
-              "reporterliz"
-            ],
+            "mentions": [],
             "urls": []
           },
           "article": null,
-          "quotedPost": null,
-          "retweetedPost": {
-            "id": "2123578685496430786",
-            "text": "Data center fighter Steven Kung gained 5 votes, and the incumbent Vinh Ngo gained 6 in this razor-thin contest in the 5th Monterey Park City Council race. \n\nThat means the 2 vote difference has widened to 3 votes. The candidates must be 😵‍💫 rn. https://t.co/pAc9gfvZQi",
-            "url": "https://x.com/reporterliz/status/2123578685496430786",
+          "quotedPost": {
+            "id": "2123520331180818571",
+            "text": "All caught up. Feels like Mrod might have sufficiently traumatized the City Clerk's office. \nhttps://t.co/9K5gxc9Qc1 https://t.co/Fwjq3kdm3Y",
+            "url": "https://x.com/UnrigLA/status/2123520331180818571",
             "lang": "en",
-            "createdAt": "2026-11-20T00:46:27.000Z",
-            "conversationId": "2123578685496430786",
-            "inReplyToId": null,
+            "createdAt": "2026-11-19T20:54:34.000Z",
+            "conversationId": "2123478408621674734",
+            "inReplyToId": "2123478408621674734",
             "author": {
-              "id": "37085458",
-              "username": "reporterliz",
-              "name": "Elizabeth Chou",
+              "id": "1022564507971801088",
+              "username": "UnrigLA",
+              "name": "Unrig LA",
               "verified": false,
-              "followersCount": 5178,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/2085103524539695104/qGrB1jBv_normal.jpg"
+              "followersCount": 16613,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
             },
-            "likeCount": 6,
-            "retweetCount": 2,
-            "replyCount": 3,
-            "viewCount": 707,
-            "quoteCount": 0,
+            "likeCount": 2,
+            "retweetCount": 0,
+            "replyCount": 0,
+            "viewCount": 1106,
+            "quoteCount": 1,
             "bookmarkCount": 0,
             "media": [
               {
-                "id": "2123577507744190464",
+                "id": "2123520002594848768",
                 "type": "photo",
-                "url": "https://pbs.twimg.com/media/HXh2ffoaEAAh9Ug.jpg?name=orig",
+                "url": "https://pbs.twimg.com/media/HXhCMQQaQAAXMo3.jpg?name=orig",
                 "previewImageUrl": null
               }
             ],
             "entities": {
               "hashtags": [],
               "mentions": [],
-              "urls": []
+              "urls": [
+                "https://x.com/UnrigLA/status/2123194354479317103?a=Cr_zEkiam_CB8FALCpc&s=20"
+              ]
             },
             "article": null
-          }
+          },
+          "retweetedPost": null
+        },
+        {
+          "id": "2123927248676040779",
+          "text": "CM Soto-Martinez &amp; McOsker w/ a motion seeking a bunch of info on the 290+ LAPD officers who've engaged in varying levels of questionable conduct that can result in them facing \"duty restrictions\" limiting their ability to interact w/ the public or perform their normal role. https://t.co/8CZquzgJ7H",
+          "url": "https://x.com/UnrigLA/status/2123927248676040779",
+          "lang": "en",
+          "createdAt": "2026-11-20T23:51:31.000Z",
+          "conversationId": "2123927248676040779",
+          "inReplyToId": null,
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16613,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 10,
+          "retweetCount": 2,
+          "replyCount": 0,
+          "viewCount": 731,
+          "quoteCount": 0,
+          "bookmarkCount": 4,
+          "media": [
+            {
+              "id": "2123927065619820544",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HXm0acMbcAAUftb.jpg?name=orig",
+              "previewImageUrl": null
+            },
+            {
+              "id": "2123927065615540224",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HXm0acLaIAAFsiu.jpg?name=orig",
+              "previewImageUrl": null
+            }
+          ],
+          "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+          },
+          "article": null,
+          "quotedPost": null,
+          "retweetedPost": null
+        },
+        {
+          "id": "2123905020110467433",
+          "text": "CM Jurado has picked up a second challenger. https://t.co/rYX20oG0bc",
+          "url": "https://x.com/UnrigLA/status/2123905020110467433",
+          "lang": "en",
+          "createdAt": "2026-11-20T22:23:11.000Z",
+          "conversationId": "2123905020110467433",
+          "inReplyToId": null,
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16613,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 29,
+          "retweetCount": 1,
+          "replyCount": 2,
+          "viewCount": 3430,
+          "quoteCount": 0,
+          "bookmarkCount": 6,
+          "media": [
+            {
+              "id": "2123904943338000384",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HXmgSwRbkAA9fRi.png?name=orig",
+              "previewImageUrl": null
+            },
+            {
+              "id": "2123904982885994496",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HXmgVDmaEAAfG3H.jpg?name=orig",
+              "previewImageUrl": null
+            }
+          ],
+          "entities": {
+            "hashtags": [],
+            "mentions": [],
+            "urls": []
+          },
+          "article": null,
+          "quotedPost": null,
+          "retweetedPost": null
         }
       ],
       "meta": {
-        "requestId": "aec6796d-77b9-40f6-924c-f0fe794279a5",
-        "nextCursor": "v2.y13rk9bkfap61vttF27nMz8NjFokdYRjgkRGdhBaWS97yR7ZRkUBUp21bRjOOjy2V5bPxvazpMnbWAFcjk4DFGE3vZ4qvR_r2sH3wVJvJlYi-x8CZfnpGsQ71YYiiA"
+        "requestId": "cf31ab3a-5dc5-42a3-803a-a8462a9dcaa6",
+        "nextCursor": "v2.hONrBijx06pCzrNO--KMTzt08szi0tTJpqhe7AJHnuMDCu5ftIdPpB5sgvWiXiAqz1EHQ1wqfaRbtjV4BUiC-Cdf8FEk6zopSXyYcwECGBqCJVgdIgky6QP4DdHZMw"
       }
     }
   },
@@ -699,7 +569,7 @@
         "protected": false
       },
       "meta": {
-        "requestId": "d6fdad95-ec71-46de-a2b0-c0bf67d6eddf"
+        "requestId": "8ea93994-54c0-414f-83af-26a520bd50eb"
       }
     },
     "posts": {
@@ -1120,7 +990,7 @@
               "username": "StreetsblogLA",
               "name": "StreetsblogLA",
               "verified": false,
-              "followersCount": 217081,
+              "followersCount": 217009,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1542890723/streetsblog-la-twitter_normal.png"
             },
             "likeCount": 45,
@@ -1181,8 +1051,8 @@
         }
       ],
       "meta": {
-        "requestId": "b403e60d-4bec-4dc6-9a71-ba79ff77114b",
-        "nextCursor": "v2.7uxxlSwYoI-ERmcV7F6jDZThssO3RiWnrKHoR-UODjN660cocSid09MiUJHAqimZTUbkgVhVo0IwKmUrhGng2vRTfNVA51Oa7SsxKyYyBntEvggPiFN08--74un-rQ"
+        "requestId": "c2ad0593-fdf8-40d1-b052-4d7662f29bb5",
+        "nextCursor": "v2.KsZVDGXdpSwFV99ZerKbmZC5uZ5KTyCt-nYXF-co5f8T9h546vj9J0eu1kMP9uTjHw9AlSyaWoarJfMrlBoQGhdjJdYbTVfq54Fg8lc7-LWBZiN_1s7cIouc_phTUw"
       }
     }
   }
