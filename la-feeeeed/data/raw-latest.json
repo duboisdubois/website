@@ -11,10 +11,10 @@
         "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1022564507971801088/1611270110",
         "location": "Los Angeles, CA",
         "verified": false,
-        "followersCount": 16611,
+        "followersCount": 16606,
         "followingCount": 986,
         "statusesCount": 30958,
-        "likeCount": 87765,
+        "likeCount": 87785,
         "createdAt": "2018-07-26T19:29:11.000Z",
         "pinnedPostIds": [
           "1938684970152927421"
@@ -22,7 +22,7 @@
         "protected": false
       },
       "meta": {
-        "requestId": "80d02463-5923-448a-be37-e86a2109637e"
+        "requestId": "aec23ccf-ecc2-41b7-9b54-87f4fb8d3e2b"
       }
     },
     "posts": {
@@ -40,13 +40,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16611,
+            "followersCount": 16606,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 381,
           "retweetCount": 66,
           "replyCount": 25,
-          "viewCount": 100983,
+          "viewCount": 101008,
           "quoteCount": 9,
           "bookmarkCount": 25,
           "media": [
@@ -79,13 +79,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16611,
+            "followersCount": 16606,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
-          "retweetCount": 752,
+          "retweetCount": 762,
           "replyCount": 0,
-          "viewCount": 53,
+          "viewCount": 56,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [
@@ -118,15 +118,15 @@
               "username": "ditzkoff",
               "name": "Dave Itzkoff",
               "verified": true,
-              "followersCount": 204788,
+              "followersCount": 204773,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1268281557321687040/KXhU3D88_normal.jpg"
             },
-            "likeCount": 7738,
-            "retweetCount": 752,
+            "likeCount": 7941,
+            "retweetCount": 762,
             "replyCount": 23,
-            "viewCount": 117544,
-            "quoteCount": 3,
-            "bookmarkCount": 248,
+            "viewCount": 121170,
+            "quoteCount": 4,
+            "bookmarkCount": 251,
             "media": [
               {
                 "id": "2124247612861698049",
@@ -156,15 +156,15 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16611,
+            "followersCount": 16606,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
-          "likeCount": 54,
-          "retweetCount": 5,
-          "replyCount": 0,
-          "viewCount": 1909,
+          "likeCount": 63,
+          "retweetCount": 6,
+          "replyCount": 1,
+          "viewCount": 2211,
           "quoteCount": 0,
-          "bookmarkCount": 3,
+          "bookmarkCount": 4,
           "media": [],
           "entities": {
             "hashtags": [],
@@ -185,15 +185,15 @@
               "username": "jessezwick",
               "name": "Jesse Zwick",
               "verified": false,
-              "followersCount": 3738,
+              "followersCount": 3737,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1542193087903981568/oWMo8jS2_normal.jpg"
             },
-            "likeCount": 182,
+            "likeCount": 188,
             "retweetCount": 7,
             "replyCount": 6,
-            "viewCount": 7385,
+            "viewCount": 7932,
             "quoteCount": 5,
-            "bookmarkCount": 7,
+            "bookmarkCount": 8,
             "media": [
               {
                 "id": "2123974475960221696",
@@ -224,13 +224,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16611,
+            "followersCount": 16606,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
-          "retweetCount": 5,
+          "retweetCount": 6,
           "replyCount": 0,
-          "viewCount": 47,
+          "viewCount": 50,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
@@ -256,13 +256,13 @@
               "username": "FilmThePoliceLA",
               "name": "Film The Police LA",
               "verified": true,
-              "followersCount": 97131,
+              "followersCount": 97137,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1350144666277040131/8dyEZCIy_normal.jpg"
             },
-            "likeCount": 74,
-            "retweetCount": 5,
+            "likeCount": 84,
+            "retweetCount": 6,
             "replyCount": 3,
-            "viewCount": 2979,
+            "viewCount": 3358,
             "quoteCount": 0,
             "bookmarkCount": 3,
             "media": [],
@@ -287,13 +287,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16611,
+            "followersCount": 16606,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
           "retweetCount": 15,
           "replyCount": 0,
-          "viewCount": 49,
+          "viewCount": 52,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
@@ -319,13 +319,13 @@
               "username": "mindyisser",
               "name": "mindy🌷",
               "verified": false,
-              "followersCount": 30558,
+              "followersCount": 30553,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1977488072401948674/lBn5chwX_normal.jpg"
             },
-            "likeCount": 342,
+            "likeCount": 345,
             "retweetCount": 15,
             "replyCount": 3,
-            "viewCount": 19489,
+            "viewCount": 19861,
             "quoteCount": 1,
             "bookmarkCount": 28,
             "media": [],
@@ -350,13 +350,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16611,
+            "followersCount": 16606,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
           "retweetCount": 1,
           "replyCount": 0,
-          "viewCount": 53,
+          "viewCount": 56,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
@@ -382,13 +382,13 @@
               "username": "BornToChill",
               "name": "Karen Bass' Deleted Texts",
               "verified": false,
-              "followersCount": 790,
+              "followersCount": 788,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/531188072474365952/-MGI3-aI_normal.jpeg"
             },
             "likeCount": 14,
             "retweetCount": 1,
             "replyCount": 2,
-            "viewCount": 537,
+            "viewCount": 582,
             "quoteCount": 0,
             "bookmarkCount": 2,
             "media": [],
@@ -413,13 +413,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16611,
+            "followersCount": 16606,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
           "retweetCount": 1,
           "replyCount": 0,
-          "viewCount": 42,
+          "viewCount": 45,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
@@ -448,10 +448,10 @@
               "followersCount": 5191,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/2085103524539695104/qGrB1jBv_normal.jpg"
             },
-            "likeCount": 13,
+            "likeCount": 14,
             "retweetCount": 1,
             "replyCount": 0,
-            "viewCount": 847,
+            "viewCount": 919,
             "quoteCount": 0,
             "bookmarkCount": 4,
             "media": [],
@@ -476,13 +476,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16611,
+            "followersCount": 16606,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
-          "likeCount": 123,
+          "likeCount": 129,
           "retweetCount": 12,
           "replyCount": 2,
-          "viewCount": 5396,
+          "viewCount": 6133,
           "quoteCount": 3,
           "bookmarkCount": 14,
           "media": [
@@ -530,15 +530,15 @@
               "username": "latimes",
               "name": "Los Angeles Times",
               "verified": true,
-              "followersCount": 3818385,
+              "followersCount": 3817995,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1587517258129035264/GVhkwB-D_normal.jpg"
             },
-            "likeCount": 435,
-            "retweetCount": 59,
-            "replyCount": 15,
-            "viewCount": 48636,
+            "likeCount": 462,
+            "retweetCount": 62,
+            "replyCount": 17,
+            "viewCount": 53601,
             "quoteCount": 12,
-            "bookmarkCount": 46,
+            "bookmarkCount": 49,
             "media": [],
             "entities": {
               "hashtags": [],
@@ -564,13 +564,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16611,
+            "followersCount": 16606,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
-          "retweetCount": 37,
+          "retweetCount": 38,
           "replyCount": 0,
-          "viewCount": 49,
+          "viewCount": 52,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
@@ -596,13 +596,13 @@
               "username": "FilmThePoliceLA",
               "name": "Film The Police LA",
               "verified": true,
-              "followersCount": 97131,
+              "followersCount": 97137,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1350144666277040131/8dyEZCIy_normal.jpg"
             },
-            "likeCount": 183,
-            "retweetCount": 37,
+            "likeCount": 188,
+            "retweetCount": 38,
             "replyCount": 3,
-            "viewCount": 3280,
+            "viewCount": 3440,
             "quoteCount": 0,
             "bookmarkCount": 6,
             "media": [
@@ -634,13 +634,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16611,
+            "followersCount": 16606,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 80,
           "retweetCount": 7,
           "replyCount": 1,
-          "viewCount": 1988,
+          "viewCount": 2004,
           "quoteCount": 0,
           "bookmarkCount": 2,
           "media": [
@@ -670,13 +670,13 @@
               "username": "californiapost",
               "name": "California Post",
               "verified": false,
-              "followersCount": 67653,
+              "followersCount": 67665,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1990493148703813636/vH1Tysat_normal.jpg"
             },
             "likeCount": 15,
             "retweetCount": 2,
             "replyCount": 3,
-            "viewCount": 4777,
+            "viewCount": 4812,
             "quoteCount": 1,
             "bookmarkCount": 0,
             "media": [
@@ -700,8 +700,8 @@
         }
       ],
       "meta": {
-        "requestId": "83d790f3-fc6b-4f3c-a2c3-d42d6f65b3d2",
-        "nextCursor": "v2.18ffvq3mZMyIQ3tqpAJrfnwVQ1iHJMk_BxlU3lPzkQ50knc3gYq-lztPWqlNDR1TjarqMpmsgtVnIc5KMww6shu3QJCcC96WWJz8MOzk0YmhsZGBiNBrorHGt1HqxQ"
+        "requestId": "b8749744-4036-4f91-9533-c5555e0b5ec9",
+        "nextCursor": "v2.lWcb8BLgJp4voiIERsX3nGoO05MI0j6TlD2IdfIpY9JnLkWWzfM2OFQNR-omGWc962jlyXfeDDA1vMvtbe8rQQ-V-6cpKncDimWsVGjudxPwm9PWOFWrKzu4w5Ce7Q"
       }
     }
   },
@@ -728,7 +728,7 @@
         "protected": false
       },
       "meta": {
-        "requestId": "7a69f4b1-fa5e-4dff-ad0f-7ad2893d2763"
+        "requestId": "dec679bd-e4b0-424d-9c8e-985a0fd07157"
       }
     },
     "posts": {
@@ -1081,7 +1081,7 @@
               "username": "rooflesser",
               "name": "landless is back",
               "verified": false,
-              "followersCount": 4689,
+              "followersCount": 4687,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/2096056141210062848/_-od5EMc_normal.jpg"
             },
             "likeCount": 5,
@@ -1149,7 +1149,7 @@
               "username": "StreetsblogLA",
               "name": "StreetsblogLA",
               "verified": false,
-              "followersCount": 216939,
+              "followersCount": 216914,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1542890723/streetsblog-la-twitter_normal.png"
             },
             "likeCount": 45,
@@ -1210,8 +1210,8 @@
         }
       ],
       "meta": {
-        "requestId": "9d090643-fcbc-4233-82eb-00ca22f4487d",
-        "nextCursor": "v2.NA-RDLVgUP0Y-sFb75NRTW5_CfRGfSCT_6y8IlVt5nihjyxB41Jc2ODONP41wNlmiWU3B2-wPwc5ajLKg438xRj_okGKdKs0rUQBMm1E3HRFoY2ISjz1hdr7CmjYUQ"
+        "requestId": "ba9e00b0-b756-4f22-be0f-4b8755a58de1",
+        "nextCursor": "v2.0v-2W2yFsyZW4vmOIjZRhs0mVgBU_FdRA6CJJsWocMjyosRjimgox6qeqMhWEcCZGOooDc4IItB4ttDge_4BQRgOCIYHg5_typaJmpWULrJ22Dwl7fsMHi2dyqHP9w"
       }
     }
   }
