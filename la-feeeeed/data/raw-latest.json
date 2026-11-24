@@ -11,10 +11,10 @@
         "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1022564507971801088/1611270110",
         "location": "Los Angeles, CA",
         "verified": false,
-        "followersCount": 16605,
+        "followersCount": 16598,
         "followingCount": 986,
-        "statusesCount": 30963,
-        "likeCount": 87825,
+        "statusesCount": 30964,
+        "likeCount": 87841,
         "createdAt": "2018-07-26T19:29:11.000Z",
         "pinnedPostIds": [
           "1938684970152927421"
@@ -22,7 +22,7 @@
         "protected": false
       },
       "meta": {
-        "requestId": "8c06d4be-7720-4e83-b684-40164f877845"
+        "requestId": "a2db58cc-d0f3-4e90-bc27-e7f2d63f191d"
       }
     },
     "posts": {
@@ -40,13 +40,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16605,
+            "followersCount": 16598,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 381,
           "retweetCount": 66,
           "replyCount": 25,
-          "viewCount": 101074,
+          "viewCount": 101085,
           "quoteCount": 9,
           "bookmarkCount": 25,
           "media": [
@@ -67,6 +67,71 @@
           "retweetedPost": null
         },
         {
+          "id": "2125279584430219468",
+          "text": "RT @nicholasgerda: NEW: A judge is ordering a forensic search of the outgoing LA city attorney’s personal and work devices, looking for mes…",
+          "url": "https://x.com/UnrigLA/status/2125279584430219468",
+          "lang": "en",
+          "createdAt": "2026-11-24T17:25:13.000Z",
+          "conversationId": "2125279584430219468",
+          "inReplyToId": null,
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16598,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 0,
+          "retweetCount": 33,
+          "replyCount": 0,
+          "viewCount": 39,
+          "quoteCount": 0,
+          "bookmarkCount": 0,
+          "media": [],
+          "entities": {
+            "hashtags": [],
+            "mentions": [
+              "nicholasgerda"
+            ],
+            "urls": []
+          },
+          "article": null,
+          "quotedPost": null,
+          "retweetedPost": {
+            "id": "2125240666313908416",
+            "text": "NEW: A judge is ordering a forensic search of the outgoing LA city attorney’s personal and work devices, looking for messages about a former top prosecutor who says Hydee Feldstein Soto fired her for reporting allegedly illegal conduct by the city attorney\nhttps://t.co/S6nxTwICxz",
+            "url": "https://x.com/nicholasgerda/status/2125240666313908416",
+            "lang": "en",
+            "createdAt": "2026-11-24T14:50:34.000Z",
+            "conversationId": "2125240666313908416",
+            "inReplyToId": null,
+            "author": {
+              "id": "127161081",
+              "username": "nicholasgerda",
+              "name": "Nick Gerda",
+              "verified": false,
+              "followersCount": 7842,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1006337646908456960/2WuLT-1m_normal.jpg"
+            },
+            "likeCount": 123,
+            "retweetCount": 33,
+            "replyCount": 8,
+            "viewCount": 9505,
+            "quoteCount": 12,
+            "bookmarkCount": 11,
+            "media": [],
+            "entities": {
+              "hashtags": [],
+              "mentions": [],
+              "urls": [
+                "https://laist.com/news/criminal-justice/la-city-attorney-hydee-feldstein-soto-sanctions-device-search"
+              ]
+            },
+            "article": null
+          }
+        },
+        {
           "id": "2125109160278917310",
           "text": "RT @misstessowen: NEW\nHigh-ranking government officials have been attending Doug Wilson's radical new church in DC which advocates for Amer…",
           "url": "https://x.com/UnrigLA/status/2125109160278917310",
@@ -79,13 +144,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16605,
+            "followersCount": 16598,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
-          "retweetCount": 255,
+          "retweetCount": 314,
           "replyCount": 0,
-          "viewCount": 43,
+          "viewCount": 55,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
@@ -111,15 +176,15 @@
               "username": "misstessowen",
               "name": "Tess Owen",
               "verified": false,
-              "followersCount": 35350,
+              "followersCount": 35358,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1833243929791078400/Ys8Qn1jH_normal.jpg"
             },
-            "likeCount": 353,
-            "retweetCount": 255,
-            "replyCount": 16,
-            "viewCount": 29532,
-            "quoteCount": 14,
-            "bookmarkCount": 104,
+            "likeCount": 454,
+            "retweetCount": 314,
+            "replyCount": 17,
+            "viewCount": 47807,
+            "quoteCount": 19,
+            "bookmarkCount": 155,
             "media": [],
             "entities": {
               "hashtags": [],
@@ -144,13 +209,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16605,
+            "followersCount": 16598,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
-          "retweetCount": 58,
+          "retweetCount": 63,
           "replyCount": 0,
-          "viewCount": 45,
+          "viewCount": 46,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
@@ -179,12 +244,12 @@
               "followersCount": 53155,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/2110572207361445888/B7CnRh1E_normal.jpg"
             },
-            "likeCount": 159,
-            "retweetCount": 58,
-            "replyCount": 3,
-            "viewCount": 31089,
-            "quoteCount": 5,
-            "bookmarkCount": 31,
+            "likeCount": 176,
+            "retweetCount": 63,
+            "replyCount": 4,
+            "viewCount": 38175,
+            "quoteCount": 6,
+            "bookmarkCount": 33,
             "media": [
               {
                 "id": "2124949982696333312",
@@ -216,15 +281,15 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16605,
+            "followersCount": 16598,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
-          "likeCount": 13,
+          "likeCount": 15,
           "retweetCount": 3,
           "replyCount": 1,
-          "viewCount": 1408,
+          "viewCount": 1583,
           "quoteCount": 0,
-          "bookmarkCount": 1,
+          "bookmarkCount": 2,
           "media": [
             {
               "id": "2125004782389932032",
@@ -255,15 +320,15 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16605,
+            "followersCount": 16598,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
           "retweetCount": 0,
           "replyCount": 0,
-          "viewCount": 271,
+          "viewCount": 293,
           "quoteCount": 0,
-          "bookmarkCount": 0,
+          "bookmarkCount": 1,
           "media": [],
           "entities": {
             "hashtags": [],
@@ -289,15 +354,15 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16605,
+            "followersCount": 16598,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
-          "likeCount": 9,
+          "likeCount": 10,
           "retweetCount": 2,
           "replyCount": 1,
-          "viewCount": 1318,
+          "viewCount": 1542,
           "quoteCount": 0,
-          "bookmarkCount": 2,
+          "bookmarkCount": 3,
           "media": [
             {
               "id": "2124962415033094144",
@@ -325,13 +390,13 @@
               "username": "UnrigLA",
               "name": "Unrig LA",
               "verified": false,
-              "followersCount": 16605,
+              "followersCount": 16598,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
             },
             "likeCount": 2,
             "retweetCount": 0,
             "replyCount": 0,
-            "viewCount": 2650,
+            "viewCount": 2848,
             "quoteCount": 1,
             "bookmarkCount": 0,
             "media": [
@@ -366,7 +431,7 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16605,
+            "followersCount": 16598,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
@@ -405,13 +470,13 @@
               "username": "ditzkoff",
               "name": "Dave Itzkoff",
               "verified": true,
-              "followersCount": 204815,
+              "followersCount": 204824,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1268281557321687040/KXhU3D88_normal.jpg"
             },
-            "likeCount": 8022,
+            "likeCount": 8017,
             "retweetCount": 768,
             "replyCount": 23,
-            "viewCount": 123173,
+            "viewCount": 123332,
             "quoteCount": 4,
             "bookmarkCount": 254,
             "media": [
@@ -443,13 +508,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16605,
+            "followersCount": 16598,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 64,
           "retweetCount": 6,
           "replyCount": 1,
-          "viewCount": 2343,
+          "viewCount": 2358,
           "quoteCount": 0,
           "bookmarkCount": 4,
           "media": [],
@@ -472,15 +537,15 @@
               "username": "jessezwick",
               "name": "Jesse Zwick",
               "verified": false,
-              "followersCount": 3738,
+              "followersCount": 3739,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1542193087903981568/oWMo8jS2_normal.jpg"
             },
             "likeCount": 191,
             "retweetCount": 7,
             "replyCount": 6,
-            "viewCount": 8116,
+            "viewCount": 8136,
             "quoteCount": 5,
-            "bookmarkCount": 8,
+            "bookmarkCount": 7,
             "media": [
               {
                 "id": "2123974475960221696",
@@ -511,7 +576,7 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16605,
+            "followersCount": 16598,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
@@ -543,78 +608,15 @@
               "username": "FilmThePoliceLA",
               "name": "Film The Police LA",
               "verified": true,
-              "followersCount": 97069,
+              "followersCount": 96992,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1350144666277040131/8dyEZCIy_normal.jpg"
             },
             "likeCount": 84,
             "retweetCount": 6,
             "replyCount": 3,
-            "viewCount": 3519,
+            "viewCount": 3532,
             "quoteCount": 0,
             "bookmarkCount": 3,
-            "media": [],
-            "entities": {
-              "hashtags": [],
-              "mentions": [],
-              "urls": []
-            },
-            "article": null
-          }
-        },
-        {
-          "id": "2124218659388465619",
-          "text": "RT @mindyisser: another banger i fear",
-          "url": "https://x.com/UnrigLA/status/2124218659388465619",
-          "lang": "en",
-          "createdAt": "2026-11-21T19:09:29.000Z",
-          "conversationId": "2124218659388465619",
-          "inReplyToId": null,
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16605,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 0,
-          "retweetCount": 15,
-          "replyCount": 0,
-          "viewCount": 56,
-          "quoteCount": 0,
-          "bookmarkCount": 0,
-          "media": [],
-          "entities": {
-            "hashtags": [],
-            "mentions": [
-              "mindyisser"
-            ],
-            "urls": []
-          },
-          "article": null,
-          "quotedPost": null,
-          "retweetedPost": {
-            "id": "2124138116059431237",
-            "text": "another banger i fear",
-            "url": "https://x.com/mindyisser/status/2124138116059431237",
-            "lang": "en",
-            "createdAt": "2026-11-21T13:49:26.000Z",
-            "conversationId": "2124138116059431237",
-            "inReplyToId": null,
-            "author": {
-              "id": "79856192",
-              "username": "mindyisser",
-              "name": "mindy🌷",
-              "verified": false,
-              "followersCount": 30557,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1977488072401948674/lBn5chwX_normal.jpg"
-            },
-            "likeCount": 345,
-            "retweetCount": 15,
-            "replyCount": 3,
-            "viewCount": 20002,
-            "quoteCount": 1,
-            "bookmarkCount": 28,
             "media": [],
             "entities": {
               "hashtags": [],
@@ -626,8 +628,8 @@
         }
       ],
       "meta": {
-        "requestId": "00cf68a1-b9f0-4896-ae0f-fe13ad99ac58",
-        "nextCursor": "v2.w5ocxAj6BGwyxGX_iwFUh36gVsNbW7K1gN4KOj_Uabr4cqOHsUquq_XE_k9v62W7uBMJnNMc7vJb6xx5z8HCFDLvwlPZ1MRxYq9gefa43pEZozvXsvUrN2xqwmau4Q"
+        "requestId": "db49aa4a-d338-48c4-a22d-ddb87334eb15",
+        "nextCursor": "v2.N1v5U0k0zBJAML5YgIvqMzEpqSDfmWp4vEYVfgtsqykPMcRIyrB2rAj1uTnZ2wkFl_fkZLODKbFEF1eB3r26rUY4AqbU0tJP2iOqe7nnxu8DhxqYZeCUkJzHshxElw"
       }
     }
   },
@@ -654,7 +656,7 @@
         "protected": false
       },
       "meta": {
-        "requestId": "9a708c39-c833-4db1-989a-b675341ce82b"
+        "requestId": "0b818c0a-1e11-48e0-85b7-a5984b09d7e4"
       }
     },
     "posts": {
@@ -1007,7 +1009,7 @@
               "username": "rooflesser",
               "name": "landless is back",
               "verified": false,
-              "followersCount": 4691,
+              "followersCount": 4689,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/2096056141210062848/_-od5EMc_normal.jpg"
             },
             "likeCount": 5,
@@ -1075,7 +1077,7 @@
               "username": "StreetsblogLA",
               "name": "StreetsblogLA",
               "verified": false,
-              "followersCount": 216882,
+              "followersCount": 216847,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1542890723/streetsblog-la-twitter_normal.png"
             },
             "likeCount": 45,
@@ -1136,8 +1138,8 @@
         }
       ],
       "meta": {
-        "requestId": "82758e13-3483-44f3-81ec-6446e8549f17",
-        "nextCursor": "v2.F9VUT1HVp8HBnDPkVJheuh6XBX2QSbriaNoVtoCY08u-Vak7dJiHkgJ7S8Ejy7jLWp1omEkbFhzP_ZsQ5gb7z-CZ324-t_7taNwZjfn142UfyXDrXQBD7OAae6xjTg"
+        "requestId": "a67bc807-d406-44e8-ad1e-58e418913374",
+        "nextCursor": "v2.Wbc5X4acOO9crHg4CDJbWExkgnx5z-DXgj7cqOd_0MM78kE2kWjjuOqYwNjEHStbHbWtu-CZs4o4b9tzFfQJVzBBDOEtlkqhtKKPAKiKStGbt4Ul3RCGMcWDcC4sdw"
       }
     }
   }
