@@ -13,8 +13,8 @@
         "verified": false,
         "followersCount": 16598,
         "followingCount": 986,
-        "statusesCount": 30979,
-        "likeCount": 87910,
+        "statusesCount": 30981,
+        "likeCount": 87912,
         "createdAt": "2018-07-26T19:29:11.000Z",
         "pinnedPostIds": [
           "1938684970152927421"
@@ -22,7 +22,7 @@
         "protected": false
       },
       "meta": {
-        "requestId": "ecee3277-191c-466c-8fff-a7894b982978"
+        "requestId": "14207f9b-11b2-4338-b507-20e11c2cc08e"
       }
     },
     "posts": {
@@ -46,7 +46,7 @@
           "likeCount": 380,
           "retweetCount": 66,
           "replyCount": 25,
-          "viewCount": 101297,
+          "viewCount": 101319,
           "quoteCount": 9,
           "bookmarkCount": 25,
           "media": [
@@ -67,6 +67,146 @@
           "retweetedPost": null
         },
         {
+          "id": "2126106971577385396",
+          "text": "RT @RedistrictNet: Them: Don't talk about gerrymandering during Thanksgiving\n\nMe: https://t.co/5ZRSVywfbD",
+          "url": "https://x.com/UnrigLA/status/2126106971577385396",
+          "lang": "en",
+          "createdAt": "2026-11-27T00:12:57.000Z",
+          "conversationId": "2126106971577385396",
+          "inReplyToId": null,
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16598,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 0,
+          "retweetCount": 7138,
+          "replyCount": 0,
+          "viewCount": 48,
+          "quoteCount": 0,
+          "bookmarkCount": 0,
+          "media": [
+            {
+              "id": "1727435181458427904",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/F_kVJStXkAA9CaF.jpg?name=orig",
+              "previewImageUrl": null
+            }
+          ],
+          "entities": {
+            "hashtags": [],
+            "mentions": [
+              "RedistrictNet"
+            ],
+            "urls": []
+          },
+          "article": null,
+          "quotedPost": null,
+          "retweetedPost": {
+            "id": "1727435185258635276",
+            "text": "Them: Don't talk about gerrymandering during Thanksgiving\n\nMe: https://t.co/5ZRSVywfbD",
+            "url": "https://x.com/RedistrictNet/status/1727435185258635276",
+            "lang": "en",
+            "createdAt": "2023-11-22T21:13:37.000Z",
+            "conversationId": "1727435185258635276",
+            "inReplyToId": null,
+            "author": {
+              "id": "1058038885765255175",
+              "username": "RedistrictNet",
+              "name": "The Redistrict Network",
+              "verified": true,
+              "followersCount": 16158,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1849852216389271555/ZjIQYaJU_normal.jpg"
+            },
+            "likeCount": 51475,
+            "retweetCount": 7138,
+            "replyCount": 194,
+            "viewCount": 3515959,
+            "quoteCount": 380,
+            "bookmarkCount": 1218,
+            "media": [
+              {
+                "id": "1727435181458427904",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/F_kVJStXkAA9CaF.jpg?name=orig",
+                "previewImageUrl": null
+              }
+            ],
+            "entities": {
+              "hashtags": [],
+              "mentions": [],
+              "urls": []
+            },
+            "article": null
+          }
+        },
+        {
+          "id": "2126100587318333937",
+          "text": "RT @KingDaboll: This pic makes him look like a politician in a R+17 district that was just voted out for the first time in decades",
+          "url": "https://x.com/UnrigLA/status/2126100587318333937",
+          "lang": "en",
+          "createdAt": "2026-11-26T23:47:35.000Z",
+          "conversationId": "2126100587318333937",
+          "inReplyToId": null,
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16598,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 0,
+          "retweetCount": 744,
+          "replyCount": 0,
+          "viewCount": 54,
+          "quoteCount": 0,
+          "bookmarkCount": 0,
+          "media": [],
+          "entities": {
+            "hashtags": [],
+            "mentions": [
+              "KingDaboll"
+            ],
+            "urls": []
+          },
+          "article": null,
+          "quotedPost": null,
+          "retweetedPost": {
+            "id": "2125979816109420764",
+            "text": "This pic makes him look like a politician in a R+17 district that was just voted out for the first time in decades",
+            "url": "https://x.com/KingDaboll/status/2125979816109420764",
+            "lang": "en",
+            "createdAt": "2026-11-26T15:47:41.000Z",
+            "conversationId": "2125979816109420764",
+            "inReplyToId": null,
+            "author": {
+              "id": "1593752498535268353",
+              "username": "KingDaboll",
+              "name": ".",
+              "verified": false,
+              "followersCount": 2481,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/1593754039073767426/rZ9VR4gi_normal.jpg"
+            },
+            "likeCount": 16303,
+            "retweetCount": 744,
+            "replyCount": 39,
+            "viewCount": 235936,
+            "quoteCount": 5,
+            "bookmarkCount": 418,
+            "media": [],
+            "entities": {
+              "hashtags": [],
+              "mentions": [],
+              "urls": []
+            },
+            "article": null
+          }
+        },
+        {
           "id": "2125819434447339800",
           "text": "RT @acquaintf8: https://t.co/twZtD4BMqJ",
           "url": "https://x.com/UnrigLA/status/2125819434447339800",
@@ -85,7 +225,7 @@
           "likeCount": 0,
           "retweetCount": 2,
           "replyCount": 0,
-          "viewCount": 56,
+          "viewCount": 61,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [
@@ -118,13 +258,13 @@
               "username": "acquaintf8",
               "name": "o",
               "verified": false,
-              "followersCount": 22844,
+              "followersCount": 22842,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1781152487732637696/kOj5Gaay_normal.jpg"
             },
-            "likeCount": 24,
+            "likeCount": 30,
             "retweetCount": 2,
             "replyCount": 1,
-            "viewCount": 1261,
+            "viewCount": 1535,
             "quoteCount": 0,
             "bookmarkCount": 2,
             "media": [
@@ -159,12 +299,12 @@
             "followersCount": 16598,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
-          "likeCount": 54,
-          "retweetCount": 6,
+          "likeCount": 63,
+          "retweetCount": 7,
           "replyCount": 2,
-          "viewCount": 2238,
+          "viewCount": 2845,
           "quoteCount": 0,
-          "bookmarkCount": 7,
+          "bookmarkCount": 8,
           "media": [],
           "entities": {
             "hashtags": [],
@@ -185,15 +325,15 @@
               "username": "spencerpratt",
               "name": "Spencer Pratt",
               "verified": true,
-              "followersCount": 1479653,
+              "followersCount": 1479998,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/2087563439225159680/pRMJRkqz_normal.jpg"
             },
-            "likeCount": 11225,
-            "retweetCount": 2027,
-            "replyCount": 180,
-            "viewCount": 199552,
-            "quoteCount": 23,
-            "bookmarkCount": 435,
+            "likeCount": 13121,
+            "retweetCount": 2389,
+            "replyCount": 203,
+            "viewCount": 259900,
+            "quoteCount": 33,
+            "bookmarkCount": 548,
             "media": [
               {
                 "id": "2125805416760115200",
@@ -230,7 +370,7 @@
           "likeCount": 2,
           "retweetCount": 0,
           "replyCount": 0,
-          "viewCount": 301,
+          "viewCount": 342,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
@@ -260,9 +400,9 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
-          "retweetCount": 93,
+          "retweetCount": 92,
           "replyCount": 0,
-          "viewCount": 53,
+          "viewCount": 57,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
@@ -293,10 +433,10 @@
               "followersCount": 35825,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1817660037910974464/oLfp8_ax_normal.jpg"
             },
-            "likeCount": 151,
-            "retweetCount": 93,
+            "likeCount": 153,
+            "retweetCount": 92,
             "replyCount": 7,
-            "viewCount": 18678,
+            "viewCount": 19036,
             "quoteCount": 13,
             "bookmarkCount": 46,
             "media": [],
@@ -326,10 +466,10 @@
             "followersCount": 16598,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
-          "likeCount": 40,
+          "likeCount": 41,
           "retweetCount": 5,
           "replyCount": 5,
-          "viewCount": 4461,
+          "viewCount": 4912,
           "quoteCount": 3,
           "bookmarkCount": 3,
           "media": [
@@ -365,7 +505,7 @@
             "likeCount": 34,
             "retweetCount": 4,
             "replyCount": 9,
-            "viewCount": 9555,
+            "viewCount": 9713,
             "quoteCount": 7,
             "bookmarkCount": 3,
             "media": [
@@ -401,10 +541,10 @@
             "followersCount": 16598,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
-          "likeCount": 6,
+          "likeCount": 7,
           "retweetCount": 0,
           "replyCount": 0,
-          "viewCount": 503,
+          "viewCount": 542,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [
@@ -442,7 +582,7 @@
             "likeCount": 2,
             "retweetCount": 0,
             "replyCount": 1,
-            "viewCount": 1136,
+            "viewCount": 1175,
             "quoteCount": 1,
             "bookmarkCount": 0,
             "media": [
@@ -481,9 +621,9 @@
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
-          "retweetCount": 12,
+          "retweetCount": 13,
           "replyCount": 0,
-          "viewCount": 52,
+          "viewCount": 54,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
@@ -509,15 +649,15 @@
               "username": "PokiJaciii",
               "name": "♊︎ 𝓙𝓪𝓬𝓲 🧋🌴💙",
               "verified": true,
-              "followersCount": 6873,
+              "followersCount": 6872,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/2116949143403073536/wejGRmFd_normal.jpg"
             },
-            "likeCount": 145,
-            "retweetCount": 12,
-            "replyCount": 9,
-            "viewCount": 7238,
+            "likeCount": 150,
+            "retweetCount": 13,
+            "replyCount": 10,
+            "viewCount": 7646,
             "quoteCount": 3,
-            "bookmarkCount": 15,
+            "bookmarkCount": 16,
             "media": [
               {
                 "id": "2125713423250182144",
@@ -533,151 +673,11 @@
             },
             "article": null
           }
-        },
-        {
-          "id": "2125709763904442545",
-          "text": "And what? So does @PresKrekorian.  https://t.co/0tQpWR8htu",
-          "url": "https://x.com/UnrigLA/status/2125709763904442545",
-          "lang": "en",
-          "createdAt": "2026-11-25T21:54:36.000Z",
-          "conversationId": "2125709763904442545",
-          "inReplyToId": null,
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16598,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 15,
-          "retweetCount": 1,
-          "replyCount": 2,
-          "viewCount": 1189,
-          "quoteCount": 0,
-          "bookmarkCount": 3,
-          "media": [
-            {
-              "id": "1555634602403778560",
-              "type": "video",
-              "url": "https://video.twimg.com/ext_tw_video/1555634602403778560/pu/vid/1280x720/fm0Z9z9S0gomCf6V.mp4?tag=12",
-              "previewImageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1555634602403778560/pu/img/-J_Aj13fryWcP4UK.jpg"
-            }
-          ],
-          "entities": {
-            "hashtags": [],
-            "mentions": [
-              "PresKrekorian"
-            ],
-            "urls": []
-          },
-          "article": null,
-          "quotedPost": {
-            "id": "2124889000200602042",
-            "text": "*TRUMP: HUANG IS ALREADY THINKING THREE CHIPS INTO THE FUTURE",
-            "url": "https://x.com/DeItaone/status/2124889000200602042",
-            "lang": "en",
-            "createdAt": "2026-11-23T15:33:10.000Z",
-            "conversationId": "2124889000200602042",
-            "inReplyToId": null,
-            "author": {
-              "id": "2704294333",
-              "username": "DeItaone",
-              "name": "*Walter Bloomberg",
-              "verified": true,
-              "followersCount": 1983741,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/2088360110095478784/El9anzXH_normal.jpg"
-            },
-            "likeCount": 478,
-            "retweetCount": 26,
-            "replyCount": 16,
-            "viewCount": 436303,
-            "quoteCount": 35,
-            "bookmarkCount": 16,
-            "media": [],
-            "entities": {
-              "hashtags": [],
-              "mentions": [],
-              "urls": []
-            },
-            "article": null
-          },
-          "retweetedPost": null
-        },
-        {
-          "id": "2125710097938870360",
-          "text": "https://t.co/2w8o5DfTui",
-          "url": "https://x.com/UnrigLA/status/2125710097938870360",
-          "lang": "zxx",
-          "createdAt": "2026-11-25T21:55:55.000Z",
-          "conversationId": "2125709763904442545",
-          "inReplyToId": "2125709763904442545",
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16598,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 0,
-          "retweetCount": 0,
-          "replyCount": 0,
-          "viewCount": 249,
-          "quoteCount": 0,
-          "bookmarkCount": 0,
-          "media": [],
-          "entities": {
-            "hashtags": [],
-            "mentions": [],
-            "urls": [
-              "https://x.com/unrigla/status/1555622286861824000?a=La5MzxAmJa9zkQ9M1mo&s=46"
-            ]
-          },
-          "article": null,
-          "quotedPost": {
-            "id": "1555622286861824000",
-            "text": "The councilmember loves his Doritos. https://t.co/3CEZExkKJH",
-            "url": "https://x.com/UnrigLA/status/1555622286861824000",
-            "lang": "en",
-            "createdAt": "2022-08-05T18:30:29.000Z",
-            "conversationId": "1555622286861824000",
-            "inReplyToId": null,
-            "author": {
-              "id": "1022564507971801088",
-              "username": "UnrigLA",
-              "name": "Unrig LA",
-              "verified": false,
-              "followersCount": 16598,
-              "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-            },
-            "likeCount": 29,
-            "retweetCount": 2,
-            "replyCount": 6,
-            "viewCount": null,
-            "quoteCount": 2,
-            "bookmarkCount": 0,
-            "media": [
-              {
-                "id": "1555621995835838464",
-                "type": "photo",
-                "url": "https://pbs.twimg.com/media/FZat9pKUUAAF9vw.jpg?name=orig",
-                "previewImageUrl": null
-              }
-            ],
-            "entities": {
-              "hashtags": [],
-              "mentions": [],
-              "urls": []
-            },
-            "article": null
-          },
-          "retweetedPost": null
         }
       ],
       "meta": {
-        "requestId": "685df78a-cbc5-4afa-ad8c-d1ba49a284f9",
-        "nextCursor": "v2.Z7EuTmN-d1eWV2Fqaz-m5EMBcSnI01BF6vROSehdGlxE4xNULE0XzStcmsLeIaI17wp33adh0PxwQ_w-Hr3oHNt7ZtUjPzDuyMUNmSsB3GNpGX24BFqqy95rBcU0ww"
+        "requestId": "72a8e58b-8241-4583-b9f9-518efeb7e334",
+        "nextCursor": "v2.T2mNxj9ilORkrvAsNZ0uLOzSwf0smESicH-0gU8c4AxRoi-JyCVrhZGgIObNi_CMVQDqqU6OfFbxe7Px1JuUj6n3Xp7-DEiAsT99N-LImmq_hqgoApSI47yJBRH45A"
       }
     }
   },
@@ -704,7 +704,7 @@
         "protected": false
       },
       "meta": {
-        "requestId": "ce39c18a-cd6c-474f-b6f6-176a7e6ff832"
+        "requestId": "dfd480b9-4731-4ec8-9f98-10383c979b4d"
       }
     },
     "posts": {
@@ -1057,7 +1057,7 @@
               "username": "rooflesser",
               "name": "landless is back",
               "verified": false,
-              "followersCount": 4683,
+              "followersCount": 4681,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/2096056141210062848/_-od5EMc_normal.jpg"
             },
             "likeCount": 5,
@@ -1125,7 +1125,7 @@
               "username": "StreetsblogLA",
               "name": "StreetsblogLA",
               "verified": false,
-              "followersCount": 216556,
+              "followersCount": 215641,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1542890723/streetsblog-la-twitter_normal.png"
             },
             "likeCount": 45,
@@ -1186,8 +1186,8 @@
         }
       ],
       "meta": {
-        "requestId": "ffcc4616-2f1f-4991-9a03-0c18647c5213",
-        "nextCursor": "v2.ypZLdFG4Gftf4lSX8zLShtM8EIe3hxiiYJLQkp4sYoH99dF5WmkSxKyrk9ll9uTmqjlhcbTIVqp2K5Mzl8k1IoXp7CuzO81MD7cIZ6wwVT4QkdlZM1eOtfR5KzEo3w"
+        "requestId": "76de4081-98d5-417d-85ec-706f44a09770",
+        "nextCursor": "v2.f6W-1r-fGLv8DZvjy5r030j8ofROp_zG9I_-KzQzorkcM7JURqZBXVCRbv9UOdriEuF4hcbCbTZCCLBNLBUYwgLjdBNQiO3cG1VWJKVt887rXWvgpeMGX6NhFVXAVA"
       }
     }
   }
