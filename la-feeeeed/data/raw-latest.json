@@ -11,10 +11,10 @@
         "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1022564507971801088/1611270110",
         "location": "Los Angeles, CA",
         "verified": false,
-        "followersCount": 16597,
+        "followersCount": 16599,
         "followingCount": 986,
-        "statusesCount": 30985,
-        "likeCount": 87921,
+        "statusesCount": 30986,
+        "likeCount": 87933,
         "createdAt": "2018-07-26T19:29:11.000Z",
         "pinnedPostIds": [
           "1938684970152927421"
@@ -22,7 +22,7 @@
         "protected": false
       },
       "meta": {
-        "requestId": "c43541a5-d20a-4b13-99fc-b8857c9732c5"
+        "requestId": "fdb5e57b-506d-47e9-91dd-dc012f0dc799"
       }
     },
     "posts": {
@@ -40,13 +40,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16597,
+            "followersCount": 16599,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 380,
           "retweetCount": 66,
           "replyCount": 25,
-          "viewCount": 101360,
+          "viewCount": 101428,
           "quoteCount": 9,
           "bookmarkCount": 25,
           "media": [
@@ -67,6 +67,83 @@
           "retweetedPost": null
         },
         {
+          "id": "2126524703921881122",
+          "text": "RT @TheBasinLA: Our election map is now live and final! https://t.co/0VLiPSib9m",
+          "url": "https://x.com/UnrigLA/status/2126524703921881122",
+          "lang": "en",
+          "createdAt": "2026-11-28T03:52:52.000Z",
+          "conversationId": "2126524703921881122",
+          "inReplyToId": null,
+          "author": {
+            "id": "1022564507971801088",
+            "username": "UnrigLA",
+            "name": "Unrig LA",
+            "verified": false,
+            "followersCount": 16599,
+            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
+          },
+          "likeCount": 0,
+          "retweetCount": 29,
+          "replyCount": 0,
+          "viewCount": 39,
+          "quoteCount": 0,
+          "bookmarkCount": 0,
+          "media": [
+            {
+              "id": "2126523286041579520",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HYLtqW8a0AAayQG.jpg?name=orig",
+              "previewImageUrl": null
+            }
+          ],
+          "entities": {
+            "hashtags": [],
+            "mentions": [
+              "TheBasinLA"
+            ],
+            "urls": []
+          },
+          "article": null,
+          "quotedPost": null,
+          "retweetedPost": {
+            "id": "2126524294419415339",
+            "text": "Our election map is now live and final! https://t.co/0VLiPSib9m",
+            "url": "https://x.com/TheBasinLA/status/2126524294419415339",
+            "lang": "en",
+            "createdAt": "2026-11-28T03:51:15.000Z",
+            "conversationId": "2126524294419415339",
+            "inReplyToId": null,
+            "author": {
+              "id": "2088296495518748672",
+              "username": "TheBasinLA",
+              "name": "The Basin",
+              "verified": true,
+              "followersCount": 4656,
+              "profileImageUrl": "https://pbs.twimg.com/profile_images/2088649543797673984/7FDzeNgM_normal.jpg"
+            },
+            "likeCount": 181,
+            "retweetCount": 29,
+            "replyCount": 3,
+            "viewCount": 11398,
+            "quoteCount": 6,
+            "bookmarkCount": 37,
+            "media": [
+              {
+                "id": "2126523286041579520",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/HYLtqW8a0AAayQG.jpg?name=orig",
+                "previewImageUrl": null
+              }
+            ],
+            "entities": {
+              "hashtags": [],
+              "mentions": [],
+              "urls": []
+            },
+            "article": null
+          }
+        },
+        {
           "id": "2126419455647662266",
           "text": "RT @small_big_pony: I am so fucked up I thought this said los santos",
           "url": "https://x.com/UnrigLA/status/2126419455647662266",
@@ -79,13 +156,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16597,
+            "followersCount": 16599,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
           "retweetCount": 1,
           "replyCount": 0,
-          "viewCount": 20,
+          "viewCount": 50,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
@@ -111,13 +188,13 @@
               "username": "small_big_pony",
               "name": "🌈plushpony⚡",
               "verified": false,
-              "followersCount": 593,
+              "followersCount": 589,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/2124363317347258368/peHZBdHR_normal.jpg"
             },
-            "likeCount": 4,
+            "likeCount": 6,
             "retweetCount": 1,
             "replyCount": 1,
-            "viewCount": 115,
+            "viewCount": 320,
             "quoteCount": 0,
             "bookmarkCount": 0,
             "media": [],
@@ -142,15 +219,15 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16597,
+            "followersCount": 16599,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
-          "likeCount": 8,
-          "retweetCount": 2,
-          "replyCount": 3,
-          "viewCount": 915,
-          "quoteCount": 4,
-          "bookmarkCount": 0,
+          "likeCount": 63,
+          "retweetCount": 8,
+          "replyCount": 9,
+          "viewCount": 8656,
+          "quoteCount": 10,
+          "bookmarkCount": 7,
           "media": [
             {
               "id": "2126416877421547520",
@@ -178,13 +255,13 @@
               "username": "UnrigLA",
               "name": "Unrig LA",
               "verified": false,
-              "followersCount": 16597,
+              "followersCount": 16599,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
             },
             "likeCount": 42,
             "retweetCount": 5,
             "replyCount": 5,
-            "viewCount": 5608,
+            "viewCount": 10493,
             "quoteCount": 4,
             "bookmarkCount": 3,
             "media": [
@@ -217,13 +294,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16597,
+            "followersCount": 16599,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
-          "likeCount": 1,
+          "likeCount": 12,
           "retweetCount": 0,
-          "replyCount": 0,
-          "viewCount": 145,
+          "replyCount": 1,
+          "viewCount": 833,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [
@@ -267,13 +344,13 @@
               "username": "UnrigLA",
               "name": "Unrig LA",
               "verified": false,
-              "followersCount": 16597,
+              "followersCount": 16599,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
             },
-            "likeCount": 140,
+            "likeCount": 142,
             "retweetCount": 29,
             "replyCount": 16,
-            "viewCount": 12938,
+            "viewCount": 13642,
             "quoteCount": 5,
             "bookmarkCount": 31,
             "media": [
@@ -318,13 +395,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16597,
+            "followersCount": 16599,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
-          "retweetCount": 37,
+          "retweetCount": 68,
           "replyCount": 0,
-          "viewCount": 42,
+          "viewCount": 55,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
@@ -350,15 +427,15 @@
               "username": "nicholasgerda",
               "name": "Nick Gerda",
               "verified": false,
-              "followersCount": 7839,
+              "followersCount": 7838,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1006337646908456960/2WuLT-1m_normal.jpg"
             },
-            "likeCount": 125,
-            "retweetCount": 37,
-            "replyCount": 5,
-            "viewCount": 14255,
-            "quoteCount": 9,
-            "bookmarkCount": 12,
+            "likeCount": 228,
+            "retweetCount": 68,
+            "replyCount": 9,
+            "viewCount": 25100,
+            "quoteCount": 12,
+            "bookmarkCount": 19,
             "media": [],
             "entities": {
               "hashtags": [],
@@ -383,13 +460,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16597,
+            "followersCount": 16599,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
           "retweetCount": 7138,
           "replyCount": 0,
-          "viewCount": 54,
+          "viewCount": 59,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [
@@ -422,13 +499,13 @@
               "username": "RedistrictNet",
               "name": "The Redistrict Network",
               "verified": true,
-              "followersCount": 16155,
+              "followersCount": 16151,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1849852216389271555/ZjIQYaJU_normal.jpg"
             },
-            "likeCount": 51476,
+            "likeCount": 51475,
             "retweetCount": 7138,
             "replyCount": 194,
-            "viewCount": 3515991,
+            "viewCount": 3516024,
             "quoteCount": 380,
             "bookmarkCount": 1218,
             "media": [
@@ -460,13 +537,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16597,
+            "followersCount": 16599,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
-          "retweetCount": 801,
+          "retweetCount": 812,
           "replyCount": 0,
-          "viewCount": 58,
+          "viewCount": 63,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [],
@@ -492,15 +569,15 @@
               "username": "KingDaboll",
               "name": ".",
               "verified": false,
-              "followersCount": 2484,
+              "followersCount": 2483,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1593754039073767426/rZ9VR4gi_normal.jpg"
             },
-            "likeCount": 17666,
-            "retweetCount": 801,
+            "likeCount": 17731,
+            "retweetCount": 812,
             "replyCount": 42,
-            "viewCount": 252933,
+            "viewCount": 254699,
             "quoteCount": 8,
-            "bookmarkCount": 444,
+            "bookmarkCount": 446,
             "media": [],
             "entities": {
               "hashtags": [],
@@ -523,13 +600,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16597,
+            "followersCount": 16599,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 0,
           "retweetCount": 2,
           "replyCount": 0,
-          "viewCount": 63,
+          "viewCount": 67,
           "quoteCount": 0,
           "bookmarkCount": 0,
           "media": [
@@ -562,13 +639,13 @@
               "username": "acquaintf8",
               "name": "o",
               "verified": false,
-              "followersCount": 22837,
+              "followersCount": 22831,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1781152487732637696/kOj5Gaay_normal.jpg"
             },
             "likeCount": 31,
             "retweetCount": 2,
             "replyCount": 1,
-            "viewCount": 1633,
+            "viewCount": 1688,
             "quoteCount": 0,
             "bookmarkCount": 2,
             "media": [
@@ -600,13 +677,13 @@
             "username": "UnrigLA",
             "name": "Unrig LA",
             "verified": false,
-            "followersCount": 16597,
+            "followersCount": 16599,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
           },
           "likeCount": 64,
           "retweetCount": 7,
           "replyCount": 2,
-          "viewCount": 3076,
+          "viewCount": 3180,
           "quoteCount": 0,
           "bookmarkCount": 8,
           "media": [],
@@ -629,15 +706,15 @@
               "username": "spencerpratt",
               "name": "Spencer Pratt",
               "verified": true,
-              "followersCount": 1480276,
+              "followersCount": 1480411,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/2087563439225159680/pRMJRkqz_normal.jpg"
             },
-            "likeCount": 14327,
-            "retweetCount": 2659,
-            "replyCount": 226,
-            "viewCount": 347983,
-            "quoteCount": 40,
-            "bookmarkCount": 612,
+            "likeCount": 15404,
+            "retweetCount": 2913,
+            "replyCount": 245,
+            "viewCount": 466066,
+            "quoteCount": 50,
+            "bookmarkCount": 687,
             "media": [
               {
                 "id": "2125805416760115200",
@@ -654,43 +731,11 @@
             "article": null
           },
           "retweetedPost": null
-        },
-        {
-          "id": "2125810605387075706",
-          "text": "The little $ (from the LA Fed) that went vs Pratt was used on sham attack ads that were intended to boost his name recognition with conservatives and try to help him into a runoff.",
-          "url": "https://x.com/UnrigLA/status/2125810605387075706",
-          "lang": "en",
-          "createdAt": "2026-11-26T04:35:18.000Z",
-          "conversationId": "2125809786264625233",
-          "inReplyToId": "2125809786264625233",
-          "author": {
-            "id": "1022564507971801088",
-            "username": "UnrigLA",
-            "name": "Unrig LA",
-            "verified": false,
-            "followersCount": 16597,
-            "profileImageUrl": "https://pbs.twimg.com/profile_images/1179148691996721152/z38zFDv5_normal.jpg"
-          },
-          "likeCount": 3,
-          "retweetCount": 0,
-          "replyCount": 0,
-          "viewCount": 380,
-          "quoteCount": 0,
-          "bookmarkCount": 0,
-          "media": [],
-          "entities": {
-            "hashtags": [],
-            "mentions": [],
-            "urls": []
-          },
-          "article": null,
-          "quotedPost": null,
-          "retweetedPost": null
         }
       ],
       "meta": {
-        "requestId": "af254aa2-b2b1-4b3c-98d0-91e3f775b7c5",
-        "nextCursor": "v2.ex1MRKM94Ug7l0nHrMXSOY8CSei-uwiZqX9gqmCLZkdQ1jQALwR8B73qPqeJKQ7IxjCSWxnm5XeXIKWUu9u6LV9wt81rwbAgH2d4oyPdrNHdafz9pKdAEw9Op_50Lg"
+        "requestId": "4f128043-c3b7-4313-b4a3-253012659a45",
+        "nextCursor": "v2.ztjaqcrZQa10Hp97ev85PAnVMTaWpGAsLP_FrhMOyXfF3O3Mdcvkm2qqEtrr-7de51VxUTs07B75KP4sHK3uxBj2wFcxfXwIEy2wWS33S7WeJp5hrra5agXI53emqg"
       }
     }
   },
@@ -706,7 +751,7 @@
         "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1125141238192021504/1629868702",
         "location": "Los Angeles, CA",
         "verified": false,
-        "followersCount": 6947,
+        "followersCount": 6945,
         "followingCount": 335,
         "statusesCount": 1089,
         "likeCount": 608,
@@ -717,7 +762,7 @@
         "protected": false
       },
       "meta": {
-        "requestId": "a08ffd84-a7e1-49a7-856e-2d5793fd7b23"
+        "requestId": "1e8b754e-9614-42c9-bf98-d703487b2a65"
       }
     },
     "posts": {
@@ -735,7 +780,7 @@
             "username": "thelapod",
             "name": "LA Podcast",
             "verified": false,
-            "followersCount": 6947,
+            "followersCount": 6945,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1230168394780958720/vikWsfV4_normal.jpg"
           },
           "likeCount": 10,
@@ -776,7 +821,7 @@
             "username": "thelapod",
             "name": "LA Podcast",
             "verified": false,
-            "followersCount": 6947,
+            "followersCount": 6945,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1230168394780958720/vikWsfV4_normal.jpg"
           },
           "likeCount": 9,
@@ -817,7 +862,7 @@
             "username": "thelapod",
             "name": "LA Podcast",
             "verified": false,
-            "followersCount": 6947,
+            "followersCount": 6945,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1230168394780958720/vikWsfV4_normal.jpg"
           },
           "likeCount": 17,
@@ -851,7 +896,7 @@
             "username": "thelapod",
             "name": "LA Podcast",
             "verified": false,
-            "followersCount": 6947,
+            "followersCount": 6945,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1230168394780958720/vikWsfV4_normal.jpg"
           },
           "likeCount": 6,
@@ -890,7 +935,7 @@
             "username": "thelapod",
             "name": "LA Podcast",
             "verified": false,
-            "followersCount": 6947,
+            "followersCount": 6945,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1230168394780958720/vikWsfV4_normal.jpg"
           },
           "likeCount": 4,
@@ -931,7 +976,7 @@
             "username": "thelapod",
             "name": "LA Podcast",
             "verified": false,
-            "followersCount": 6947,
+            "followersCount": 6945,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1230168394780958720/vikWsfV4_normal.jpg"
           },
           "likeCount": 0,
@@ -999,7 +1044,7 @@
             "username": "thelapod",
             "name": "LA Podcast",
             "verified": false,
-            "followersCount": 6947,
+            "followersCount": 6945,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1230168394780958720/vikWsfV4_normal.jpg"
           },
           "likeCount": 24,
@@ -1035,7 +1080,7 @@
             "username": "thelapod",
             "name": "LA Podcast",
             "verified": false,
-            "followersCount": 6947,
+            "followersCount": 6945,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1230168394780958720/vikWsfV4_normal.jpg"
           },
           "likeCount": 0,
@@ -1105,7 +1150,7 @@
             "username": "thelapod",
             "name": "LA Podcast",
             "verified": false,
-            "followersCount": 6947,
+            "followersCount": 6945,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1230168394780958720/vikWsfV4_normal.jpg"
           },
           "likeCount": 0,
@@ -1138,7 +1183,7 @@
               "username": "StreetsblogLA",
               "name": "StreetsblogLA",
               "verified": false,
-              "followersCount": 215514,
+              "followersCount": 214720,
               "profileImageUrl": "https://pbs.twimg.com/profile_images/1542890723/streetsblog-la-twitter_normal.png"
             },
             "likeCount": 45,
@@ -1171,7 +1216,7 @@
             "username": "thelapod",
             "name": "LA Podcast",
             "verified": false,
-            "followersCount": 6947,
+            "followersCount": 6945,
             "profileImageUrl": "https://pbs.twimg.com/profile_images/1230168394780958720/vikWsfV4_normal.jpg"
           },
           "likeCount": 15,
@@ -1199,8 +1244,8 @@
         }
       ],
       "meta": {
-        "requestId": "ea5a59b7-4867-4486-a47e-a34cf315b3c2",
-        "nextCursor": "v2.gmQgQ8ehfO-8KJw-QO8huOHp6abQnvBWkStZ-NoF3x_TaI6v8yjDr0Kv78WUdQ4mjT0j2lPaqlxUDDhpvhFmgQr4y5IwUEQZXQIRvk68U6oLVkbjd-3RrbzqoSXHCw"
+        "requestId": "cd133608-0deb-4b9b-837a-be28ac71de86",
+        "nextCursor": "v2.L8EIexEmIZwkfDXyPGnWi4ITP1uLgm_g1isLBlmSfDw-ust7OTAouUcZ3PanI9ExB_Xmrg8H9kSHlcx1z5nyLPPv7CVPkNLj4uuuwmOsHDGA77tLgw8pLfuYuzxy0g"
       }
     }
   }
